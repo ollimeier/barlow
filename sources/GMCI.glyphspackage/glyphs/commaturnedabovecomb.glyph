@@ -51,7 +51,7 @@ pos = (130.928,1269.482);
 ref = acutecomb;
 }
 );
-width = 157.48193;
+width = 157;
 },
 {
 anchors = (
@@ -69,7 +69,7 @@ pos = (228.398,1269.482);
 ref = acutecomb;
 }
 );
-width = 173.28916;
+width = 173;
 }
 );
 unicode = 786;

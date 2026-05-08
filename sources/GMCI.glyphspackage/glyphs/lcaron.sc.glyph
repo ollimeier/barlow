@@ -49,7 +49,7 @@ ref = commaabovecomb;
 scale = (1,0.7096);
 }
 );
-width = 327.40964;
+width = 327;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -65,7 +65,7 @@ ref = commaabovecomb;
 scale = (1,0.7096);
 }
 );
-width = 484.38554;
+width = 484;
 }
 );
 }

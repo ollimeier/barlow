@@ -334,7 +334,7 @@ ref = minus;
 scale = (0.5677,0.9759);
 }
 );
-width = 305.39759;
+width = 305;
 },
 {
 hints = (
@@ -433,7 +433,7 @@ ref = minus;
 scale = (0.6058,0.9759);
 }
 );
-width = 416.84337;
+width = 417;
 }
 );
 unicode = 170;

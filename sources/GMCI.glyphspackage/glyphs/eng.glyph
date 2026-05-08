@@ -87,7 +87,7 @@ nodes = (
 ref = n;
 }
 );
-width = 400.13253;
+width = 400;
 },
 {
 hints = (
@@ -124,7 +124,7 @@ nodes = (
 ref = n;
 }
 );
-width = 532.83133;
+width = 533;
 }
 );
 unicode = 331;

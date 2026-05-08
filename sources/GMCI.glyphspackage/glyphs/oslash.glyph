@@ -138,7 +138,7 @@ pos = (1.012,0);
 ref = o;
 }
 );
-width = 379.26506;
+width = 379;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -157,7 +157,7 @@ pos = (0.482,0);
 ref = o;
 }
 );
-width = 508.51807;
+width = 509;
 }
 );
 unicode = 248;

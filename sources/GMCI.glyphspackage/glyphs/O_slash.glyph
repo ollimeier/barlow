@@ -146,7 +146,7 @@ alignment = -1;
 ref = O;
 }
 );
-width = 436.40964;
+width = 436;
 },
 {
 hints = (
@@ -187,7 +187,7 @@ alignment = -1;
 ref = O;
 }
 );
-width = 616.14458;
+width = 616;
 }
 );
 unicode = 216;

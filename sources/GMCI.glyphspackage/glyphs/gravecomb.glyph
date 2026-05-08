@@ -63,7 +63,7 @@ ref = acutecomb;
 scale = (-1,1);
 }
 );
-width = 104.37349;
+width = 104;
 },
 {
 anchors = (
@@ -85,7 +85,7 @@ ref = acutecomb;
 scale = (-1,1);
 }
 );
-width = 104.37349;
+width = 104;
 }
 );
 unicode = 768;

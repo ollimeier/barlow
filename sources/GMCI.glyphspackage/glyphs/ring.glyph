@@ -29,7 +29,7 @@ pos = (28.193,0);
 ref = ringcomb;
 }
 );
-width = 246.0241;
+width = 246;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -40,7 +40,7 @@ pos = (36,0);
 ref = ringcomb;
 }
 );
-width = 271.15663;
+width = 271;
 }
 );
 unicode = 730;

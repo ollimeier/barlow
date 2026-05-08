@@ -27,7 +27,7 @@ shapes = (
 ref = micro;
 }
 );
-width = 417.36145;
+width = 417;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -36,7 +36,7 @@ shapes = (
 ref = micro;
 }
 );
-width = 542.62651;
+width = 543;
 }
 );
 unicode = 956;

@@ -140,7 +140,7 @@ pos = (96.301,-608.542);
 ref = dotaccentcomb;
 }
 );
-width = 310.77108;
+width = 311;
 },
 {
 hints = (
@@ -202,7 +202,7 @@ pos = (145.145,-608.542);
 ref = dotaccentcomb;
 }
 );
-width = 416.08434;
+width = 416;
 }
 );
 unicode = 63;

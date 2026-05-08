@@ -64,7 +64,7 @@ pos = (40.554,-608.301);
 ref = dotaccentcomb;
 }
 );
-width = 172.93976;
+width = 173;
 },
 {
 hints = (
@@ -90,7 +90,7 @@ pos = (72.88,-608.301);
 ref = dotaccentcomb;
 }
 );
-width = 236.21687;
+width = 236;
 }
 );
 unicode = 33;

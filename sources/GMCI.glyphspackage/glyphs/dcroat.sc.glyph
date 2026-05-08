@@ -39,7 +39,7 @@ alignment = -1;
 ref = eth.sc;
 }
 );
-width = 591.40964;
+width = 591;
 }
 );
 }

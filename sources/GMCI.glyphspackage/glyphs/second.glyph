@@ -35,7 +35,7 @@ ref = quotedblright;
 scale = (1,1.05);
 }
 );
-width = 244.73494;
+width = 245;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -46,7 +46,7 @@ ref = quotedblright;
 scale = (1,1.05);
 }
 );
-width = 279.72289;
+width = 280;
 }
 );
 unicode = 8243;

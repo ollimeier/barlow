@@ -51,7 +51,7 @@ pos = (132.361,8);
 ref = acutecomb;
 }
 );
-width = 263.04819;
+width = 263;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -67,7 +67,7 @@ pos = (99.639,8);
 ref = acutecomb;
 }
 );
-width = 327.79518;
+width = 328;
 }
 );
 unicode = 733;

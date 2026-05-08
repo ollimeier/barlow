@@ -59,7 +59,7 @@ pos = (427.867,0);
 ref = four.dnom;
 }
 );
-width = 660.21687;
+width = 660;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -80,7 +80,7 @@ pos = (461.205,0);
 ref = four.dnom;
 }
 );
-width = 774.33735;
+width = 774;
 }
 );
 unicode = 188;

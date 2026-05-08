@@ -244,7 +244,7 @@ height = 86;
 width = 97;
 };
 };
-width = 358.53012;
+width = 359;
 },
 {
 anchors = (
@@ -347,7 +347,7 @@ height = 86;
 width = 97;
 };
 };
-width = 499.81928;
+width = 500;
 }
 );
 userData = {

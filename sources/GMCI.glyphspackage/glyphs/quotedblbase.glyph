@@ -30,7 +30,7 @@ pos = (0,-572.904);
 ref = quotedblright;
 }
 );
-width = 172.6747;
+width = 173;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -40,7 +40,7 @@ pos = (0,-572.904);
 ref = quotedblright;
 }
 );
-width = 211.33735;
+width = 211;
 }
 );
 unicode = 8222;

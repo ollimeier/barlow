@@ -15,7 +15,7 @@ pos = (113,180);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 504;
+width = 503;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -41,7 +41,7 @@ pos = (72,199);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 390;
+width = 391;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -54,7 +54,7 @@ pos = (139,199);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 555;
+width = 557;
 }
 );
 unicode = 7858;

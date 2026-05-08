@@ -54,7 +54,7 @@ pos = (0,-91.614);
 ref = minus;
 }
 );
-width = 443.61446;
+width = 444;
 },
 {
 hints = (
@@ -80,7 +80,7 @@ pos = (0,-101.807);
 ref = minus;
 }
 );
-width = 508.36145;
+width = 508;
 }
 );
 unicode = 61;

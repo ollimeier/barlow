@@ -42,7 +42,7 @@ pos = (36.024,-228.855);
 ref = strokeshortcomb;
 }
 );
-width = 331.89157;
+width = 332;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -57,7 +57,7 @@ pos = (92.373,-242.94);
 ref = strokeshortcomb;
 }
 );
-width = 480.74699;
+width = 481;
 }
 );
 }

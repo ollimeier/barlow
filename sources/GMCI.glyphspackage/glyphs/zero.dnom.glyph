@@ -152,7 +152,7 @@ height = 60;
 width = 60;
 };
 };
-width = 254.78313;
+width = 255;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -202,7 +202,7 @@ height = 60;
 width = 60;
 };
 };
-width = 323.25301;
+width = 323;
 }
 );
 userData = {

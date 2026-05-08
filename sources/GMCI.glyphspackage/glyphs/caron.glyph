@@ -50,7 +50,7 @@ ref = circumflexcomb;
 scale = (1,-1);
 }
 );
-width = 244.26506;
+width = 244;
 },
 {
 anchors = (
@@ -68,7 +68,7 @@ ref = circumflexcomb;
 scale = (1,-1);
 }
 );
-width = 293.3494;
+width = 293;
 }
 );
 unicode = 711;

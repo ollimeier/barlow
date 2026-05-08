@@ -42,7 +42,7 @@ pos = (258.614,0);
 ref = ogonekcomb;
 }
 );
-width = 373.03614;
+width = 373;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -57,7 +57,7 @@ pos = (368.687,0);
 ref = ogonekcomb;
 }
 );
-width = 498.39759;
+width = 498;
 }
 );
 }

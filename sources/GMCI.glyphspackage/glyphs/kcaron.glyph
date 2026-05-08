@@ -41,7 +41,7 @@ pos = (76.843,196.181);
 ref = caroncomb;
 }
 );
-width = 377.80723;
+width = 378;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -54,7 +54,7 @@ pos = (103.169,196.181);
 ref = caroncomb;
 }
 );
-width = 472.80723;
+width = 473;
 }
 );
 unicode = 489;

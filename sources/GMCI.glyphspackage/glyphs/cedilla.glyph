@@ -68,7 +68,7 @@ ref = ogonek;
 scale = (-1,1);
 }
 );
-width = 123.3253;
+width = 123;
 }
 );
 unicode = 184;

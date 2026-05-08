@@ -75,7 +75,7 @@ ref = dotaccentcomb;
 scale = (0.9411,0.9411);
 }
 );
-width = 90.07229;
+width = 90;
 },
 {
 anchors = (
@@ -100,7 +100,7 @@ ref = dotaccentcomb;
 scale = (0.9411,0.9411);
 }
 );
-width = 90.74699;
+width = 91;
 }
 );
 unicode = 803;

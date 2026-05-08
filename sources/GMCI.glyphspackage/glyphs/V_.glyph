@@ -76,7 +76,7 @@ nodes = (
 );
 }
 );
-width = 374.07229;
+width = 374;
 },
 {
 hints = (
@@ -112,7 +112,7 @@ nodes = (
 );
 }
 );
-width = 553.93976;
+width = 554;
 }
 );
 unicode = 86;

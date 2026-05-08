@@ -142,7 +142,7 @@ pos = (-2.434,0);
 ref = dotaccentcomb;
 }
 );
-width = 215.10843;
+width = 215;
 },
 {
 anchors = (
@@ -164,7 +164,7 @@ pos = (-2.434,0.434);
 ref = dotaccentcomb;
 }
 );
-width = 240.38554;
+width = 240;
 }
 );
 unicode = 776;

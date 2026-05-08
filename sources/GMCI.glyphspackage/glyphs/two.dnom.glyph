@@ -170,7 +170,7 @@ height = 60;
 width = 60;
 };
 };
-width = 219.3253;
+width = 219;
 },
 {
 hints = (
@@ -242,7 +242,7 @@ height = 60;
 width = 60;
 };
 };
-width = 296.31325;
+width = 296;
 }
 );
 userData = {

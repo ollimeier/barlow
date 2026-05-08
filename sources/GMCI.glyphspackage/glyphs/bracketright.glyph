@@ -33,7 +33,7 @@ ref = bracketleft;
 scale = (-1,1);
 }
 );
-width = 277.81928;
+width = 278;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -44,7 +44,7 @@ ref = bracketleft;
 scale = (-1,1);
 }
 );
-width = 358.19277;
+width = 358;
 }
 );
 unicode = 93;

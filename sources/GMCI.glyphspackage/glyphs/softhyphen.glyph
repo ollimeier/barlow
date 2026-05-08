@@ -27,7 +27,7 @@ shapes = (
 ref = hyphen;
 }
 );
-width = 303.0241;
+width = 303;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -36,7 +36,7 @@ shapes = (
 ref = hyphen;
 }
 );
-width = 385.68675;
+width = 386;
 }
 );
 unicode = 173;

@@ -44,7 +44,7 @@ pos = (71.807,-3.807);
 ref = commaaccentcomb;
 }
 );
-width = 349.55422;
+width = 350;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -59,7 +59,7 @@ pos = (152.036,0);
 ref = commaaccentcomb;
 }
 );
-width = 559.59036;
+width = 560;
 }
 );
 unicode = 538;

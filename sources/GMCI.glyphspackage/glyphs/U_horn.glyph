@@ -43,7 +43,7 @@ pos = (251.855,199.036);
 ref = horncomb;
 }
 );
-width = 474.62651;
+width = 475;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -58,7 +58,7 @@ pos = (438.133,199.036);
 ref = horncomb;
 }
 );
-width = 635.19277;
+width = 635;
 }
 );
 unicode = 431;

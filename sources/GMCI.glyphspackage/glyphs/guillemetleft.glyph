@@ -33,7 +33,7 @@ ref = guillemetright;
 scale = (-1,1);
 }
 );
-width = 479.50602;
+width = 480;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -44,7 +44,7 @@ ref = guillemetright;
 scale = (-1,1);
 }
 );
-width = 558.43373;
+width = 558;
 }
 );
 unicode = 171;

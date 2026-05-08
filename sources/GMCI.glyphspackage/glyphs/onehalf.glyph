@@ -63,7 +63,7 @@ pos = (474.892,0);
 ref = two.dnom;
 }
 );
-width = 711.12048;
+width = 711;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -84,7 +84,7 @@ pos = (465.253,0);
 ref = two.dnom;
 }
 );
-width = 788.60241;
+width = 789;
 }
 );
 unicode = 189;

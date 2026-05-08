@@ -43,7 +43,7 @@ ref = strokeshortcomb;
 scale = (0.7152,1);
 }
 );
-width = 213.43373;
+width = 213;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -59,7 +59,7 @@ ref = strokeshortcomb;
 scale = (0.7802,1);
 }
 );
-width = 354.16867;
+width = 354;
 }
 );
 unicode = 359;

@@ -276,7 +276,7 @@ pos = (440.542,0);
 ref = dotaccentcomb;
 }
 );
-width = 560.6506;
+width = 561;
 },
 {
 hints = (
@@ -317,7 +317,7 @@ pos = (596.614,0);
 ref = dotaccentcomb;
 }
 );
-width = 745.38554;
+width = 745;
 }
 );
 }

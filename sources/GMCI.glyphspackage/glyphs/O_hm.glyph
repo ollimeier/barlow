@@ -28,7 +28,7 @@ alignment = -1;
 ref = Omega;
 }
 );
-width = 472.68675;
+width = 473;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -38,7 +38,7 @@ alignment = -1;
 ref = Omega;
 }
 );
-width = 646.38554;
+width = 646;
 }
 );
 unicode = 8486;

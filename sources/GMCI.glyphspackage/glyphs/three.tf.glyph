@@ -221,7 +221,7 @@ monoWidth = 390;
 useSpacing = 80;
 };
 };
-width = 389.33735;
+width = 389;
 },
 {
 hints = (
@@ -311,7 +311,7 @@ monoWidth = 515;
 useSpacing = 42;
 };
 };
-width = 493.45783;
+width = 493;
 }
 );
 userData = {

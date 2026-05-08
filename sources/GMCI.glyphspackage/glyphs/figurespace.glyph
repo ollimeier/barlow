@@ -12,11 +12,11 @@ width = 551;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-width = 433.89157;
+width = 434;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-width = 508.16867;
+width = 508;
 }
 );
 metricWidth = zero.tf;

@@ -85,7 +85,7 @@ pos = (74.108,0);
 ref = b.bowl;
 }
 );
-width = 380.95181;
+width = 381;
 },
 {
 hints = (
@@ -130,7 +130,7 @@ pos = (98.578,0);
 ref = b.bowl;
 }
 );
-width = 510.80723;
+width = 511;
 }
 );
 unicode = 98;

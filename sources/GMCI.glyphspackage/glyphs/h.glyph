@@ -84,7 +84,7 @@ pos = (73.723,0);
 ref = n.curve;
 }
 );
-width = 385.85542;
+width = 386;
 },
 {
 anchors = (
@@ -116,7 +116,7 @@ pos = (99.675,0);
 ref = n.curve;
 }
 );
-width = 525.21687;
+width = 525;
 }
 );
 unicode = 104;

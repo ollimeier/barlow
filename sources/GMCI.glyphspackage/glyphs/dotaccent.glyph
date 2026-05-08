@@ -29,7 +29,7 @@ pos = (24.602,0);
 ref = dotaccentcomb;
 }
 );
-width = 139.27711;
+width = 139;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -40,7 +40,7 @@ pos = (32.41,0);
 ref = dotaccentcomb;
 }
 );
-width = 154.89157;
+width = 155;
 }
 );
 unicode = 729;

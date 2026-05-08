@@ -162,7 +162,7 @@ nodes = (
 );
 }
 );
-width = 485.79518;
+width = 486;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -204,7 +204,7 @@ nodes = (
 );
 }
 );
-width = 557.08434;
+width = 557;
 }
 );
 unicode = 35;

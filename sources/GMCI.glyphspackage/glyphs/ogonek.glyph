@@ -92,7 +92,7 @@ nodes = (
 );
 }
 );
-width = 102.51807;
+width = 103;
 },
 {
 anchors = (
@@ -123,7 +123,7 @@ nodes = (
 );
 }
 );
-width = 123.3253;
+width = 123;
 }
 );
 unicode = 731;

@@ -82,7 +82,7 @@ nodes = (
 ref = o.sc;
 }
 );
-width = 385.90361;
+width = 386;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -109,7 +109,7 @@ nodes = (
 ref = o.sc;
 }
 );
-width = 533.91566;
+width = 534;
 }
 );
 }

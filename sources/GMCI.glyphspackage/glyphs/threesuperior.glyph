@@ -31,7 +31,7 @@ pos = (0,462.855);
 ref = three.dnom;
 }
 );
-width = 225.26506;
+width = 225;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -42,7 +42,7 @@ pos = (0,460.952);
 ref = three.dnom;
 }
 );
-width = 321.48193;
+width = 321;
 }
 );
 unicode = 179;
