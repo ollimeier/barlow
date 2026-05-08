@@ -1,0 +1,212 @@
+{
+glyphname = e.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{196, 0}";
+},
+{
+name = top;
+position = "{197, 584}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"320 0 LINE",
+"320 21 LINE",
+"98 21 LINE",
+"98 554 LINE",
+"320 554 LINE",
+"320 575 LINE",
+"76 575 LINE",
+"76 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"248 278 LINE",
+"248 299 LINE",
+"87 299 LINE",
+"87 278 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 362;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{244, 0}";
+},
+{
+name = top;
+position = "{259, 590}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"467 0 LINE",
+"467 161 LINE",
+"209 161 LINE",
+"209 417 LINE",
+"467 417 LINE",
+"467 578 LINE",
+"21 578 LINE",
+"21 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 214 LINE",
+"369 374 LINE",
+"97 374 LINE",
+"97 214 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 480;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{206, 0}";
+},
+{
+name = top;
+position = "{214, 590}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"408 0 LINE",
+"408 161 LINE",
+"209 161 LINE",
+"209 417 LINE",
+"408 417 LINE",
+"408 578 LINE",
+"21 578 LINE",
+"21 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"319 209 LINE",
+"319 370 LINE",
+"97 370 LINE",
+"97 209 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 423;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{258, 0}";
+},
+{
+name = top;
+position = "{284, 602}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+},
+{
+origin = "{0, 7}";
+target = "{0, 2}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"469 0 LINE",
+"469 21 LINE",
+"121 21 LINE",
+"121 554 LINE",
+"469 554 LINE",
+"469 575 LINE",
+"99 575 LINE",
+"99 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"376 278 LINE",
+"376 299 LINE",
+"110 299 LINE",
+"110 278 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 530;
+}
+);
+leftKerningGroup = h.sc;
+userData = {
+RMXScaler = {
+source = E;
+};
+};
+}

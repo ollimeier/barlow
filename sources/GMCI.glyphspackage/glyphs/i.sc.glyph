@@ -1,0 +1,125 @@
+{
+glyphname = i.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{87, 575}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"98 0 LINE",
+"98 575 LINE",
+"76 575 LINE",
+"76 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 174;
+},
+{
+anchors = (
+{
+name = top;
+position = "{115, 578}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"209 0 LINE",
+"209 578 LINE",
+"21 578 LINE",
+"21 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 230;
+},
+{
+anchors = (
+{
+name = top;
+position = "{115, 590}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"209 0 LINE",
+"209 578 LINE",
+"21 578 LINE",
+"21 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 230;
+},
+{
+anchors = (
+{
+name = top;
+position = "{110, 584}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 0 LINE",
+"121 575 LINE",
+"99 575 LINE",
+"99 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 220;
+}
+);
+userData = {
+RMXScaler = {
+source = I;
+};
+};
+}

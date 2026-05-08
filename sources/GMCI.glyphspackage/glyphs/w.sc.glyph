@@ -1,0 +1,189 @@
+{
+glyphname = w.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{259, 576}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"171 0 LINE",
+"260 532 LINE",
+"346 0 LINE",
+"369 0 LINE",
+"477 576 LINE",
+"453 576 LINE",
+"359 41 LINE",
+"270 576 LINE",
+"248 576 LINE",
+"161 41 LINE",
+"59 576 LINE",
+"36 576 LINE",
+"150 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 513;
+},
+{
+anchors = (
+{
+name = top;
+position = "{384, 578}";
+}
+);
+hints = (
+{
+place = "{-23.609, 0}";
+type = Stem;
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"343 0 LINE",
+"384 249 LINE",
+"437 0 LINE",
+"618 0 LINE",
+"757 578 LINE",
+"565 578 LINE",
+"522 308 LINE",
+"482 578 LINE",
+"290 578 LINE",
+"254 308 LINE",
+"212 578 LINE",
+"11 578 LINE",
+"169 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 768;
+},
+{
+anchors = (
+{
+name = top;
+position = "{341, 578}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"312 0 LINE",
+"346 240 LINE",
+"388 0 LINE",
+"554 0 LINE",
+"682 578 LINE",
+"492 578 LINE",
+"465 334 LINE",
+"423 578 LINE",
+"273 578 LINE",
+"236 334 LINE",
+"204 578 LINE",
+"10 578 LINE",
+"145 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 692;
+},
+{
+anchors = (
+{
+name = top;
+position = "{379, 576}";
+}
+);
+hints = (
+{
+origin = "{0, 11}";
+target = "{0, 10}";
+type = Stem;
+},
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 7}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"226 0 LINE",
+"379 541 LINE",
+"532 0 LINE",
+"554 0 LINE",
+"725 576 LINE",
+"702 576 LINE",
+"543 40 LINE",
+"390 576 LINE",
+"367 576 LINE",
+"216 40 LINE",
+"59 576 LINE",
+"37 576 LINE",
+"204 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 762;
+}
+);
+leftKerningGroup = V;
+rightKerningGroup = V;
+userData = {
+RMXScaler = {
+source = W;
+};
+};
+}

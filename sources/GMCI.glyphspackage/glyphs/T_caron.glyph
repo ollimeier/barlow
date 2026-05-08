@@ -1,0 +1,63 @@
+{
+color = 0;
+glyphname = Tcaron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = T;
+},
+{
+alignment = -1;
+name = caroncomb;
+transform = "{1, 0, 0, 1, 129, 197}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 558;
+},
+{
+components = (
+{
+name = T;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 103, 180}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 591;
+},
+{
+components = (
+{
+name = T;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 50, 197}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 343;
+},
+{
+components = (
+{
+name = T;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 60, 180}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 479;
+}
+);
+leftKerningGroup = T;
+rightKerningGroup = T;
+unicode = 0164;
+}

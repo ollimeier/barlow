@@ -1,0 +1,168 @@
+{
+glyphname = z.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{164, 587}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"289 0 LINE",
+"289 21 LINE",
+"61 21 LINE",
+"289 555 LINE",
+"289 576 LINE",
+"36 576 LINE",
+"36 555 LINE",
+"265 555 LINE",
+"36 21 LINE",
+"36 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 330;
+},
+{
+anchors = (
+{
+name = top;
+position = "{246, 589}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"467 0 LINE",
+"467 161 LINE",
+"221 161 LINE",
+"467 408 LINE",
+"467 578 LINE",
+"15 578 LINE",
+"15 417 LINE",
+"258 417 LINE",
+"15 170 LINE",
+"15 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 484;
+},
+{
+anchors = (
+{
+name = top;
+position = "{201, 589}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"395 0 LINE",
+"395 161 LINE",
+"196 161 LINE",
+"395 417 LINE",
+"395 578 LINE",
+"10 578 LINE",
+"10 417 LINE",
+"207 417 LINE",
+"10 161 LINE",
+"10 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 406;
+},
+{
+anchors = (
+{
+name = top;
+position = "{223, 587}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+origin = "{0, 7}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 2}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 0 LINE",
+"412 21 LINE",
+"70 21 LINE",
+"412 555 LINE",
+"412 576 LINE",
+"45 576 LINE",
+"45 555 LINE",
+"387 555 LINE",
+"45 21 LINE",
+"45 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 465;
+}
+);
+leftKerningGroup = Z;
+rightKerningGroup = Z;
+userData = {
+RMXScaler = {
+source = Z;
+};
+};
+}

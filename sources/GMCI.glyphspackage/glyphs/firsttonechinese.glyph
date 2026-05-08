@@ -1,0 +1,90 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{125, 500}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"251 679 LINE",
+"251 700 LINE",
+"0 700 LINE",
+"0 679 LINE"
+);
+}
+);
+width = 251;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{155, 520}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"311 573 LINE",
+"311 698 LINE",
+"0 698 LINE",
+"0 573 LINE"
+);
+}
+);
+width = 311;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{95, 500}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"191 679 LINE",
+"191 700 LINE",
+"0 700 LINE",
+"0 679 LINE"
+);
+}
+);
+width = 191;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{121, 520}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"231 575 LINE",
+"231 700 LINE",
+"0 700 LINE",
+"0 575 LINE"
+);
+}
+);
+width = 231;
+}
+);
+unicode = 02C9;
+}

@@ -1,0 +1,43 @@
+{
+color = 0;
+glyphname = mu;
+layers = (
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 542;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 555;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 415;
+},
+{
+components = (
+{
+name = micro;
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 464;
+}
+);
+unicode = 03BC;
+}

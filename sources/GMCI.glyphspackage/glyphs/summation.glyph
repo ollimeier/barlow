@@ -1,0 +1,117 @@
+{
+color = 0;
+glyphname = summation;
+layers = (
+{
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"471 -199 LINE",
+"471 -179 LINE",
+"62 -179 LINE",
+"315 290 LINE",
+"62 679 LINE",
+"471 679 LINE",
+"471 699 LINE",
+"37 699 LINE",
+"37 679 LINE",
+"289 290 LINE",
+"36 -179 LINE",
+"36 -199 LINE"
+);
+}
+);
+width = 504;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"543 -200 LINE",
+"543 -39 LINE",
+"209 -39 LINE",
+"447 330 LINE",
+"209 639 LINE",
+"543 639 LINE",
+"543 800 LINE",
+"22 800 LINE",
+"22 639 LINE",
+"249 330 LINE",
+"22 -39 LINE",
+"22 -200 LINE"
+);
+}
+);
+width = 564;
+},
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"394 -199 LINE",
+"394 -179 LINE",
+"45 -179 LINE",
+"278 290 LINE",
+"45 679 LINE",
+"394 679 LINE",
+"394 699 LINE",
+"20 699 LINE",
+"20 679 LINE",
+"252 290 LINE",
+"19 -179 LINE",
+"19 -199 LINE"
+);
+}
+);
+width = 413;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"465 -200 LINE",
+"465 -39 LINE",
+"185 -39 LINE",
+"373 330 LINE",
+"185 639 LINE",
+"465 639 LINE",
+"465 800 LINE",
+"14 800 LINE",
+"14 639 LINE",
+"191 330 LINE",
+"14 -39 LINE",
+"14 -200 LINE"
+);
+}
+);
+width = 478;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "28806591-4273-4EF3-AF8F-791F8CCAC3D0";
+name = "May 22 17, 20:32";
+paths = (
+{
+closed = 0;
+nodes = (
+"520 689 LINE",
+"92 689 LINE",
+"371 250 LINE",
+"92 -189 LINE",
+"520 -189 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 2211;
+}

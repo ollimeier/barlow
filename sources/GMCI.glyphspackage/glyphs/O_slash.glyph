@@ -1,0 +1,179 @@
+{
+color = 0;
+glyphname = Oslash;
+layers = (
+{
+components = (
+{
+name = O;
+}
+);
+hints = (
+{
+place = "{91, 22}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 1}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+place = "{511, -83}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 3}";
+target = "{0, 2}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"547 700 LINE",
+"528 712 LINE",
+"75 -1 LINE",
+"93 -13 LINE"
+);
+}
+);
+width = 616;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"591 674 LINE",
+"504 739 LINE",
+"30 17 LINE",
+"122 -39 LINE"
+);
+}
+);
+width = 619;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"378 716 LINE",
+"358 725 LINE",
+"66 -17 LINE",
+"86 -26 LINE"
+);
+}
+);
+width = 434;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"464 705 LINE",
+"388 736 LINE",
+"20 -6 LINE",
+"96 -37 LINE"
+);
+}
+);
+width = 484;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+components = (
+{
+alignment = -1;
+name = O;
+transform = "{1, 0, 0, 1, 7, 0}";
+},
+{
+alignment = -1;
+name = slashlongcomb;
+transform = "{1, 0, 0, 1, 47, 0}";
+}
+);
+layerId = "160CDC3E-1151-4942-8EC5-A5A167ED0AB4";
+name = "100,300}";
+width = 503;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+components = (
+{
+alignment = -1;
+name = O;
+transform = "{1, 0, 0, 1, 8, 0}";
+},
+{
+name = slashlongcomb;
+transform = "{1, 0, 0, 1, 62, 0}";
+}
+);
+layerId = "ED17B6D4-A8AE-40B6-9381-1DD3D326EE5F";
+name = "100,500}";
+width = 630;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+name = slashlongcomb;
+transform = "{1, 0, 0, 1, 31, 0}";
+}
+);
+layerId = "14CE8F98-CD3D-4C0E-8035-32DE8822C244";
+name = "141,500}";
+width = 484;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+name = slashlongcomb;
+transform = "{1, 0, 0, 1, 31, 0}";
+}
+);
+layerId = "6FE7FD38-9064-4D6E-BB7C-2BCA961CD2F9";
+name = "141,300} Nov 21 17, 02:18";
+width = 484;
+}
+);
+unicode = 00D8;
+}

@@ -1,0 +1,125 @@
+{
+glyphname = v.sc;
+layers = (
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"187 0 LINE",
+"314 576 LINE",
+"292 576 LINE",
+"176 41 LINE",
+"59 576 LINE",
+"36 576 LINE",
+"164 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 350;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"374 0 LINE",
+"544 578 LINE",
+"346 578 LINE",
+"281 238 LINE",
+"213 578 LINE",
+"11 578 LINE",
+"178 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 555;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"342 0 LINE",
+"492 578 LINE",
+"294 578 LINE",
+"256 284 LINE",
+"213 578 LINE",
+"10 578 LINE",
+"158 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 502;
+},
+{
+hints = (
+{
+origin = "{0, 6}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 0 LINE",
+"458 576 LINE",
+"437 576 LINE",
+"247 33 LINE",
+"59 576 LINE",
+"37 576 LINE",
+"235 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 495;
+}
+);
+leftKerningGroup = V;
+rightKerningGroup = V;
+userData = {
+RMXScaler = {
+source = V;
+};
+};
+}

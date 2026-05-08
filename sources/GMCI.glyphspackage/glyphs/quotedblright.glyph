@@ -1,0 +1,47 @@
+{
+color = 0;
+glyphname = quotedblright;
+layers = (
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 199, 1210}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 199;
+},
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 421, 1160}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 421;
+},
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 428, 1160}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 428;
+},
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 179, 1210}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 179;
+}
+);
+unicode = 201D;
+}

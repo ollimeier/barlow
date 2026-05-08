@@ -1,0 +1,67 @@
+{
+color = 0;
+glyphname = fraction;
+layers = (
+{
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"-148 0 LINE",
+"309 700 LINE",
+"285 700 LINE",
+"-172 0 LINE"
+);
+}
+);
+width = 140;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-25 0 LINE",
+"364 700 LINE",
+"232 700 LINE",
+"-158 0 LINE"
+);
+}
+);
+width = 210;
+},
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"-159 0 LINE",
+"298 700 LINE",
+"275 700 LINE",
+"-182 0 LINE"
+);
+}
+);
+width = 120;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"-59 0 LINE",
+"348 700 LINE",
+"216 700 LINE",
+"-191 0 LINE"
+);
+}
+);
+width = 160;
+}
+);
+unicode = 2044;
+}

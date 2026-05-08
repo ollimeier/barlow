@@ -1,0 +1,68 @@
+{
+color = 0;
+glyphname = franc;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = F;
+transform = "{1, 0, 0, 1, 90, 0}";
+},
+{
+alignment = -1;
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 117, -427}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 664;
+},
+{
+components = (
+{
+alignment = -1;
+name = F;
+transform = "{1, 0, 0, 1, 60, 0}";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 39, -450}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 614;
+},
+{
+components = (
+{
+alignment = -1;
+name = F;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 91, -420}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 472;
+},
+{
+components = (
+{
+alignment = -1;
+name = F;
+transform = "{1, 0, 0, 1, 45, 0}";
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 21, -444}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 477;
+}
+);
+unicode = 20A3;
+}

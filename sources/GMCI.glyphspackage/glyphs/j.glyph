@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = j;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{110, 500}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 69, 0}";
+}
+);
+hints = (
+{
+place = "{99, 0}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-211, 0}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 -211 OFFCURVE",
+"121 -159 OFFCURVE",
+"121 -74 CURVE SMOOTH",
+"121 500 LINE",
+"99 500 LINE",
+"99 -74 LINE SMOOTH",
+"99 -146 OFFCURVE",
+"55 -190 OFFCURVE",
+"-18 -190 CURVE",
+"-18 -211 LINE"
+);
+}
+);
+width = 212;
+},
+{
+anchors = (
+{
+name = top;
+position = "{110, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 5, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"199 -210 OFFCURVE",
+"204 -120 OFFCURVE",
+"204 29 CURVE SMOOTH",
+"204 520 LINE",
+"16 520 LINE",
+"16 29 LINE SMOOTH",
+"16 -19 OFFCURVE",
+"1 -49 OFFCURVE",
+"-80 -41 CURVE",
+"-80 -201 LINE"
+);
+}
+);
+width = 226;
+},
+{
+anchors = (
+{
+name = top;
+position = "{139, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 31, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"172 -209 OFFCURVE",
+"230 -163 OFFCURVE",
+"230 29 CURVE SMOOTH",
+"230 520 LINE",
+"42 520 LINE",
+"42 26 LINE SMOOTH",
+"42 -38 OFFCURVE",
+"21 -52 OFFCURVE",
+"-74 -44 CURVE",
+"-74 -201 LINE"
+);
+}
+);
+width = 272;
+},
+{
+anchors = (
+{
+name = top;
+position = "{75, 500}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 33, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"47 -211 OFFCURVE",
+"86 -159 OFFCURVE",
+"86 -74 CURVE SMOOTH",
+"86 500 LINE",
+"64 500 LINE",
+"64 -74 LINE SMOOTH",
+"64 -146 OFFCURVE",
+"32 -190 OFFCURVE",
+"-24 -190 CURVE",
+"-24 -211 LINE"
+);
+}
+);
+width = 148;
+}
+);
+leftKerningGroup = j;
+unicode = 006A;
+}

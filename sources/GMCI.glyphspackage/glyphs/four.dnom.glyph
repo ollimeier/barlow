@@ -1,0 +1,158 @@
+{
+color = 0;
+glyphname = four.dnom;
+layers = (
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"198 119 LINE",
+"198 140 LINE",
+"36 140 LINE",
+"133 420 LINE",
+"108 420 LINE",
+"11 138 LINE",
+"11 119 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 0 LINE",
+"172 253 LINE",
+"150 253 LINE",
+"150 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+width = 60;
+};
+};
+width = 211;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"363 99 LINE",
+"363 206 LINE",
+"144 206 LINE",
+"234 420 LINE",
+"110 420 LINE",
+"8 184 LINE",
+"8 99 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"327 0 LINE",
+"327 275 LINE",
+"209 275 LINE",
+"209 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -70;
+width = 60;
+};
+};
+width = 375;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"320 99 LINE",
+"320 206 LINE",
+"142 206 LINE",
+"204 420 LINE",
+"81 420 LINE",
+"5 184 LINE",
+"5 99 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"290 0 LINE",
+"290 256 LINE",
+"172 256 LINE",
+"172 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -70;
+width = 60;
+};
+};
+width = 328;
+},
+{
+hints = (
+{
+origin = "{1, 2}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"261 119 LINE",
+"261 140 LINE",
+"44 140 LINE",
+"176 420 LINE",
+"153 420 LINE",
+"20 138 LINE",
+"20 119 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"228 0 LINE",
+"228 255 LINE",
+"205 255 LINE",
+"205 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+width = 60;
+};
+};
+width = 284;
+}
+);
+userData = {
+RMXScaler = {
+source = four;
+};
+};
+}

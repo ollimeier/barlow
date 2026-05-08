@@ -1,0 +1,171 @@
+{
+color = 0;
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{116, 500}";
+}
+);
+components = (
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 232;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{203, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 207, 9}";
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -11, 9}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 406;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{103, 500}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 124, 0}";
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 206;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{198, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 196, 0}";
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -11, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{167, 520}";
+}
+);
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "0A960058-A00A-4A2A-9AC2-34A8DD71D07F";
+name = "Apr 28 17, 03:10";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 553 OFFCURVE",
+"339 585 OFFCURVE",
+"339 632 CURVE SMOOTH",
+"339 680 OFFCURVE",
+"309 711 OFFCURVE",
+"262 711 CURVE SMOOTH",
+"215 711 OFFCURVE",
+"184 680 OFFCURVE",
+"184 632 CURVE SMOOTH",
+"184 585 OFFCURVE",
+"215 553 OFFCURVE",
+"262 553 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"124 553 OFFCURVE",
+"156 585 OFFCURVE",
+"156 632 CURVE SMOOTH",
+"156 680 OFFCURVE",
+"124 711 OFFCURVE",
+"78 711 CURVE SMOOTH",
+"32 711 OFFCURVE",
+"0 680 OFFCURVE",
+"0 632 CURVE SMOOTH",
+"0 585 OFFCURVE",
+"32 553 OFFCURVE",
+"78 553 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 551 OFFCURVE",
+"366 586 OFFCURVE",
+"366 638 CURVE SMOOTH",
+"366 690 OFFCURVE",
+"332 725 OFFCURVE",
+"280 725 CURVE SMOOTH",
+"228 725 OFFCURVE",
+"194 690 OFFCURVE",
+"194 638 CURVE SMOOTH",
+"194 586 OFFCURVE",
+"228 551 OFFCURVE",
+"280 551 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"138 551 OFFCURVE",
+"172 586 OFFCURVE",
+"172 638 CURVE SMOOTH",
+"172 690 OFFCURVE",
+"138 725 OFFCURVE",
+"87 725 CURVE SMOOTH",
+"36 725 OFFCURVE",
+"0 690 OFFCURVE",
+"0 638 CURVE SMOOTH",
+"0 586 OFFCURVE",
+"36 551 OFFCURVE",
+"87 551 CURVE SMOOTH"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 0308;
+}

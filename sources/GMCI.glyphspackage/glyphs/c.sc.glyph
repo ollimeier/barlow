@@ -1,0 +1,272 @@
+{
+glyphname = c.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{189, -7}";
+},
+{
+name = top;
+position = "{189, 583}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 -7 OFFCURVE",
+"320 45 OFFCURVE",
+"320 133 CURVE SMOOTH",
+"320 156 LINE",
+"297 157 LINE",
+"297 132 LINE SMOOTH",
+"297 58 OFFCURVE",
+"254 14 OFFCURVE",
+"189 14 CURVE SMOOTH",
+"125 14 OFFCURVE",
+"82 58 OFFCURVE",
+"82 132 CURVE SMOOTH",
+"82 445 LINE SMOOTH",
+"82 519 OFFCURVE",
+"125 562 OFFCURVE",
+"189 562 CURVE SMOOTH",
+"254 562 OFFCURVE",
+"297 519 OFFCURVE",
+"297 445 CURVE SMOOTH",
+"297 418 LINE",
+"320 419 LINE",
+"320 443 LINE SMOOTH",
+"320 532 OFFCURVE",
+"268 583 OFFCURVE",
+"189 583 CURVE SMOOTH",
+"112 583 OFFCURVE",
+"60 532 OFFCURVE",
+"60 443 CURVE SMOOTH",
+"60 133 LINE SMOOTH",
+"60 45 OFFCURVE",
+"112 -7 OFFCURVE",
+"189 -7 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 373;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{248, -7}";
+},
+{
+name = top;
+position = "{262, 585}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"409 -7 OFFCURVE",
+"507 84 OFFCURVE",
+"507 221 CURVE SMOOTH",
+"507 229 LINE",
+"319 239 LINE",
+"319 228 LINE SMOOTH",
+"319 184 OFFCURVE",
+"296 154 OFFCURVE",
+"262 154 CURVE SMOOTH",
+"227 154 OFFCURVE",
+"204 184 OFFCURVE",
+"204 228 CURVE SMOOTH",
+"204 349 LINE SMOOTH",
+"204 394 OFFCURVE",
+"227 424 OFFCURVE",
+"262 424 CURVE SMOOTH",
+"296 424 OFFCURVE",
+"319 394 OFFCURVE",
+"319 349 CURVE SMOOTH",
+"319 338 LINE",
+"507 350 LINE",
+"507 359 LINE SMOOTH",
+"507 495 OFFCURVE",
+"409 585 OFFCURVE",
+"262 585 CURVE SMOOTH",
+"114 585 OFFCURVE",
+"16 489 OFFCURVE",
+"16 344 CURVE SMOOTH",
+"16 236 LINE SMOOTH",
+"16 90 OFFCURVE",
+"114 -7 OFFCURVE",
+"262 -7 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 521;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{229, -7}";
+},
+{
+name = top;
+position = "{229, 585}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"356 -7 OFFCURVE",
+"442 66 OFFCURVE",
+"442 190 CURVE SMOOTH",
+"442 204 LINE",
+"254 211 LINE",
+"254 174 LINE SMOOTH",
+"254 158 OFFCURVE",
+"244 154 OFFCURVE",
+"229 154 CURVE SMOOTH",
+"214 154 OFFCURVE",
+"205 158 OFFCURVE",
+"205 174 CURVE SMOOTH",
+"205 403 LINE SMOOTH",
+"205 419 OFFCURVE",
+"214 424 OFFCURVE",
+"229 424 CURVE SMOOTH",
+"244 424 OFFCURVE",
+"254 419 OFFCURVE",
+"254 403 CURVE SMOOTH",
+"254 368 LINE",
+"442 375 LINE",
+"442 389 LINE SMOOTH",
+"442 514 OFFCURVE",
+"356 585 OFFCURVE",
+"229 585 CURVE SMOOTH",
+"101 585 OFFCURVE",
+"17 514 OFFCURVE",
+"17 389 CURVE SMOOTH",
+"17 190 LINE SMOOTH",
+"17 66 OFFCURVE",
+"101 -7 OFFCURVE",
+"229 -7 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 457;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{234, -8}";
+},
+{
+name = top;
+position = "{264, 583}";
+}
+);
+hints = (
+{
+origin = "{0, 27}";
+target = "{0, 12}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 2}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 31}";
+target = "{0, 8}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 24}";
+target = "{0, 15}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"376 -8 OFFCURVE",
+"450 62 OFFCURVE",
+"450 173 CURVE SMOOTH",
+"450 181 LINE",
+"428 182 LINE",
+"428 171 LINE SMOOTH",
+"428 74 OFFCURVE",
+"362 13 OFFCURVE",
+"264 13 CURVE SMOOTH",
+"164 13 OFFCURVE",
+"98 74 OFFCURVE",
+"98 171 CURVE SMOOTH",
+"98 405 LINE SMOOTH",
+"98 502 OFFCURVE",
+"164 567 OFFCURVE",
+"264 562 CURVE SMOOTH",
+"362 557 OFFCURVE",
+"428 502 OFFCURVE",
+"428 405 CURVE SMOOTH",
+"428 393 LINE",
+"450 394 LINE",
+"450 404 LINE SMOOTH",
+"450 514 OFFCURVE",
+"376 583 OFFCURVE",
+"264 583 CURVE SMOOTH",
+"150 583 OFFCURVE",
+"76 514 OFFCURVE",
+"76 404 CURVE SMOOTH",
+"76 173 LINE SMOOTH",
+"76 62 OFFCURVE",
+"150 -8 OFFCURVE",
+"264 -8 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 518;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+userData = {
+RMXScaler = {
+source = C;
+};
+};
+}

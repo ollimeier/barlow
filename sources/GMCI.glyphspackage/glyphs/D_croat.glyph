@@ -1,0 +1,44 @@
+{
+color = 0;
+glyphname = Dcroat;
+layers = (
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 586;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 646;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 394;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 491;
+}
+);
+rightKerningGroup = B;
+unicode = 0110;
+}

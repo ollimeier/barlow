@@ -1,0 +1,334 @@
+{
+color = 0;
+glyphname = M;
+layers = (
+{
+hints = (
+{
+origin = "{0, 11}";
+target = "{0, 10}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 7}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"122 0 LINE",
+"122 687 LINE",
+"105 685 LINE",
+"333 333 LINE",
+"351 333 LINE",
+"575 685 LINE",
+"560 687 LINE",
+"560 0 LINE",
+"582 0 LINE",
+"582 700 LINE",
+"560 700 LINE",
+"332 344 LINE",
+"350 347 LINE",
+"122 700 LINE",
+"100 700 LINE",
+"100 0 LINE"
+);
+}
+);
+width = 682;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"218 0 LINE",
+"218 511 LINE",
+"182 502 LINE",
+"291 310 LINE",
+"292 310 LINE",
+"403 498 LINE",
+"366 508 LINE",
+"366 0 LINE",
+"554 0 LINE",
+"554 700 LINE",
+"371 700 LINE",
+"258 490 LINE",
+"326 490 LINE",
+"213 700 LINE",
+"30 700 LINE",
+"30 0 LINE"
+);
+}
+);
+};
+hints = (
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"218 0 LINE",
+"218 625 LINE",
+"108 625 LINE",
+"291 310 LINE",
+"292 310 LINE",
+"477 625 LINE",
+"366 625 LINE",
+"366 0 LINE",
+"554 0 LINE",
+"554 700 LINE",
+"371 700 LINE",
+"239 452 LINE",
+"347 452 LINE",
+"213 700 LINE",
+"30 700 LINE",
+"30 0 LINE"
+);
+}
+);
+width = 584;
+},
+{
+hints = (
+{
+place = "{417, -210}";
+type = Stem;
+},
+{
+place = "{621, -114}";
+type = Stem;
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"240 0 LINE",
+"240 463 LINE",
+"140 563 LINE",
+"320 240 LINE",
+"420 240 LINE",
+"608 577 LINE",
+"500 463 LINE",
+"500 0 LINE",
+"688 0 LINE",
+"688 700 LINE",
+"505 700 LINE",
+"294 341 LINE",
+"446 341 LINE",
+"235 700 LINE",
+"52 700 LINE",
+"52 0 LINE"
+);
+}
+);
+width = 740;
+},
+{
+hints = (
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"91 0 LINE",
+"91 672 LINE",
+"79 672 LINE",
+"221 330 LINE",
+"239 330 LINE",
+"378 672 LINE",
+"367 672 LINE",
+"367 0 LINE",
+"389 0 LINE",
+"389 700 LINE",
+"367 700 LINE",
+"223 347 LINE",
+"237 347 LINE",
+"91 700 LINE",
+"69 700 LINE",
+"69 0 LINE"
+);
+}
+);
+width = 458;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"151 0 LINE",
+"151 601 LINE",
+"117 572 LINE",
+"254 321 LINE",
+"264 321 LINE",
+"401 573 LINE",
+"367 599 LINE",
+"367 0 LINE",
+"467 0 LINE",
+"467 700 LINE",
+"369 700 LINE",
+"229 452 LINE",
+"288 456 LINE",
+"149 700 LINE",
+"51 700 LINE",
+"51 0 LINE"
+);
+}
+);
+};
+hints = (
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+}
+);
+layerId = "980C465B-B287-4D6A-AB1E-CF08BC8D48C9";
+name = "{100, 300}";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 0 LINE",
+"151 572 LINE",
+"117 572 LINE",
+"254 321 LINE",
+"264 321 LINE",
+"401 572 LINE",
+"367 572 LINE",
+"367 0 LINE",
+"467 0 LINE",
+"467 700 LINE",
+"369 700 LINE",
+"230 454 LINE",
+"289 454 LINE",
+"149 700 LINE",
+"51 700 LINE",
+"51 0 LINE"
+);
+}
+);
+width = 517;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+hints = (
+{
+origin = "{0, 11}";
+target = "{0, 10}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 7}";
+type = Stem;
+}
+);
+layerId = "25EBB921-4617-417B-8B1A-802DA642A775";
+name = "{100, 500}";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 0 LINE",
+"177 582 LINE",
+"104 631 LINE",
+"327 298 LINE",
+"383 298 LINE",
+"607 638 LINE",
+"532 582 LINE",
+"532 0 LINE",
+"632 0 LINE",
+"632 700 LINE",
+"534 700 LINE",
+"312 367 LINE",
+"397 369 LINE",
+"175 700 LINE",
+"77 700 LINE",
+"77 0 LINE"
+);
+}
+);
+width = 709;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+hints = (
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+}
+);
+layerId = "0EF9B7F5-030A-4457-BAF8-4CDD34E26A6B";
+name = "Nov 26 18, 19:16";
+paths = (
+{
+closed = 1;
+nodes = (
+"207 0 LINE",
+"207 463 LINE",
+"101 613 LINE",
+"310 -1 LINE",
+"410 -1 LINE",
+"621 627 LINE",
+"507 463 LINE",
+"507 0 LINE",
+"695 0 LINE",
+"695 700 LINE",
+"472 700 LINE",
+"297 81 LINE",
+"417 81 LINE",
+"242 700 LINE",
+"19 700 LINE",
+"19 0 LINE"
+);
+}
+);
+width = 714;
+}
+);
+unicode = 004D;
+}

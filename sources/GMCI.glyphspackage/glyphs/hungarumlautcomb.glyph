@@ -1,0 +1,127 @@
+{
+color = 0;
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{133, 500}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"210 569 LINE",
+"285 700 LINE",
+"261 700 LINE",
+"188 569 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 569 LINE",
+"133 700 LINE",
+"109 700 LINE",
+"36 569 LINE"
+);
+}
+);
+width = 321;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{180, 520}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"360 579 LINE",
+"423 700 LINE",
+"262 700 LINE",
+"200 579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 579 LINE",
+"233 700 LINE",
+"63 700 LINE",
+"12 579 LINE"
+);
+}
+);
+width = 435;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{94, 500}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 569 LINE",
+"227 700 LINE",
+"203 700 LINE",
+"130 569 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 569 LINE",
+"125 700 LINE",
+"101 700 LINE",
+"28 569 LINE"
+);
+}
+);
+width = 255;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{165, 520}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"340 579 LINE",
+"401 700 LINE",
+"250 700 LINE",
+"188 579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"160 579 LINE",
+"221 700 LINE",
+"61 700 LINE",
+"8 579 LINE"
+);
+}
+);
+width = 409;
+}
+);
+unicode = 030B;
+}

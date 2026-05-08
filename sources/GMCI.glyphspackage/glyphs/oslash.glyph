@@ -1,0 +1,176 @@
+{
+color = 0;
+glyphname = oslash;
+layers = (
+{
+components = (
+{
+name = o;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"441 510 LINE",
+"422 522 LINE",
+"76 -1 LINE",
+"94 -13 LINE"
+);
+}
+);
+width = 505;
+},
+{
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"556 498 LINE",
+"486 552 LINE",
+"22 2 LINE",
+"92 -52 LINE"
+);
+}
+);
+width = 578;
+},
+{
+components = (
+{
+name = o;
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"325 547 LINE",
+"305 556 LINE",
+"76 -41 LINE",
+"96 -50 LINE"
+);
+}
+);
+width = 373;
+},
+{
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 21, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"487 505 LINE",
+"434 539 LINE",
+"16 4 LINE",
+"67 -30 LINE"
+);
+}
+);
+width = 503;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+components = (
+{
+name = o;
+}
+);
+layerId = "7612D324-623E-43BE-8E83-BA2F140089CB";
+name = "Mar 11 17, 03:09";
+paths = (
+{
+closed = 0;
+nodes = (
+"29 -30 LINE",
+"417 550 LINE"
+);
+}
+);
+width = 445;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+components = (
+{
+name = o;
+}
+);
+layerId = "67E64E96-184D-4BA7-9E40-E709AF1E8F2E";
+name = "Jun 22 17, 02:18";
+paths = (
+{
+closed = 1;
+nodes = (
+"513 520 LINE",
+"457 562 LINE",
+"60 -1 LINE",
+"116 -43 LINE"
+);
+}
+);
+width = 558;
+},
+{
+annotations = (
+{
+position = "{507, 486}";
+type = Minus;
+},
+{
+position = "{573.977, 487.922}";
+text = "do this correctly at black -- remove the counter from the line, and make the new lines wider";
+type = Text;
+}
+);
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 33, 0}";
+}
+);
+layerId = "C361A6E7-D68D-49A5-91FC-766C6439034A";
+name = "Nov 21 17, 00:30";
+paths = (
+{
+closed = 1;
+nodes = (
+"602 528 LINE",
+"482 618 LINE",
+"340 426 LINE",
+"468 346 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"276 87 LINE",
+"161 182 LINE",
+"22 -4 LINE",
+"142 -94 LINE"
+);
+}
+);
+width = 624;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+unicode = 00F8;
+}

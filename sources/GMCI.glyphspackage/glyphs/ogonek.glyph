@@ -1,0 +1,146 @@
+{
+glyphname = ogonek;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{70, -4}";
+},
+{
+name = _ogonek;
+position = "{73, 0}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"114 -158 LINE",
+"74 -168 OFFCURVE",
+"32 -162 OFFCURVE",
+"24 -118 CURVE SMOOTH",
+"16 -73 OFFCURVE",
+"51 -30 OFFCURVE",
+"88 0 CURVE",
+"66 0 LINE",
+"8 -42 OFFCURVE",
+"-6 -85 OFFCURVE",
+"2 -124 CURVE SMOOTH",
+"14 -182 OFFCURVE",
+"73 -189 OFFCURVE",
+"120 -178 CURVE"
+);
+}
+);
+width = 120;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{110, -18}";
+},
+{
+name = _ogonek;
+position = "{112, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 -83 LINE",
+"154 -100 OFFCURVE",
+"128 -97 OFFCURVE",
+"122 -79 CURVE SMOOTH",
+"115 -59 OFFCURVE",
+"139 -31 OFFCURVE",
+"189 0 CURVE",
+"63 0 LINE",
+"11 -41 OFFCURVE",
+"-9 -87 OFFCURVE",
+"4 -131 CURVE SMOOTH",
+"31 -225 OFFCURVE",
+"154 -199 OFFCURVE",
+"189 -178 CURVE"
+);
+}
+);
+width = 189;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{59, -5}";
+},
+{
+name = _ogonek;
+position = "{61, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 -158 LINE",
+"62 -168 OFFCURVE",
+"28 -162 OFFCURVE",
+"22 -118 CURVE SMOOTH",
+"16 -73 OFFCURVE",
+"44 -30 OFFCURVE",
+"75 0 CURVE",
+"53 0 LINE",
+"5 -40 OFFCURVE",
+"-5 -85 OFFCURVE",
+"1 -124 CURVE SMOOTH",
+"10 -182 OFFCURVE",
+"61 -189 OFFCURVE",
+"99 -178 CURVE"
+);
+}
+);
+width = 99;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{97, -10}";
+},
+{
+name = _ogonek;
+position = "{99, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"153 -92 LINE",
+"139 -100 OFFCURVE",
+"123 -97 OFFCURVE",
+"118 -79 CURVE SMOOTH",
+"113 -59 OFFCURVE",
+"132 -31 OFFCURVE",
+"172 0 CURVE",
+"50 0 LINE",
+"7 -41 OFFCURVE",
+"-8 -87 OFFCURVE",
+"3 -131 CURVE SMOOTH",
+"26 -222 OFFCURVE",
+"141 -192 OFFCURVE",
+"164 -182 CURVE"
+);
+}
+);
+width = 172;
+}
+);
+unicode = 02DB;
+}

@@ -1,0 +1,65 @@
+{
+color = 0;
+glyphname = Aogonek;
+layers = (
+{
+components = (
+{
+name = A;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 436, 0}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 562;
+},
+{
+components = (
+{
+name = A;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 507, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 714;
+},
+{
+components = (
+{
+name = A;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 274, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 359;
+},
+{
+components = (
+{
+name = A;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 347, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 531;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 0104;
+}

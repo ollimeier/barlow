@@ -1,0 +1,132 @@
+{
+color = 0;
+glyphname = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{121, 0}";
+},
+{
+name = top;
+position = "{120, 500}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 79, 0}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"129 1 LINE",
+"129 501 LINE",
+"107 501 LINE",
+"107 1 LINE"
+);
+}
+);
+width = 242;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{115, 0}";
+},
+{
+name = top;
+position = "{116, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 9, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"210 0 LINE",
+"210 520 LINE",
+"22 520 LINE",
+"22 0 LINE"
+);
+}
+);
+width = 232;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{136, 0}";
+},
+{
+name = top;
+position = "{136, 520}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 32, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"230 0 LINE",
+"230 520 LINE",
+"42 520 LINE",
+"42 0 LINE"
+);
+}
+);
+width = 269;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{73, 0}";
+},
+{
+name = top;
+position = "{73, 500}";
+}
+);
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 31, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"84 0 LINE",
+"84 500 LINE",
+"62 500 LINE",
+"62 0 LINE"
+);
+}
+);
+width = 146;
+}
+);
+leftKerningGroup = i;
+unicode = 0069;
+}

@@ -1,0 +1,63 @@
+{
+glyphname = gstroke;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+alignment = -1;
+name = strokeshortcomb;
+transform = "{0.85, 0, 0, 1, 183, -340}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 398;
+},
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+name = strokeshortcomb;
+transform = "{0.9, 0, 0, 1, 253, -340}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 593;
+},
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+name = strokeshortcomb;
+transform = "{0.8, 0, 0, 1, 222, -340}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 475;
+},
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 253, -340}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 545;
+}
+);
+unicode = 01E5;
+}

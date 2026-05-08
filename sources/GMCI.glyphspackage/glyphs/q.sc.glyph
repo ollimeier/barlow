@@ -1,0 +1,268 @@
+{
+glyphname = q.sc;
+layers = (
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"261 -7 OFFCURVE",
+"312 47 OFFCURVE",
+"312 136 CURVE SMOOTH",
+"312 440 LINE SMOOTH",
+"312 529 OFFCURVE",
+"261 583 OFFCURVE",
+"186 583 CURVE SMOOTH",
+"112 583 OFFCURVE",
+"60 529 OFFCURVE",
+"60 440 CURVE SMOOTH",
+"60 136 LINE SMOOTH",
+"60 47 OFFCURVE",
+"112 -7 OFFCURVE",
+"186 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 -103 LINE",
+"197 3 LINE",
+"174 3 LINE",
+"174 -103 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"125 14 OFFCURVE",
+"82 59 OFFCURVE",
+"82 135 CURVE SMOOTH",
+"82 441 LINE SMOOTH",
+"82 517 OFFCURVE",
+"125 562 OFFCURVE",
+"186 562 CURVE SMOOTH",
+"247 562 OFFCURVE",
+"290 517 OFFCURVE",
+"290 441 CURVE SMOOTH",
+"290 135 LINE SMOOTH",
+"290 59 OFFCURVE",
+"247 14 OFFCURVE",
+"186 14 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 372;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"409 -7 OFFCURVE",
+"506 88 OFFCURVE",
+"506 231 CURVE SMOOTH",
+"506 332 LINE SMOOTH",
+"506 484 OFFCURVE",
+"409 585 OFFCURVE",
+"263 585 CURVE SMOOTH",
+"117 585 OFFCURVE",
+"20 484 OFFCURVE",
+"20 332 CURVE SMOOTH",
+"20 231 LINE SMOOTH",
+"20 88 OFFCURVE",
+"117 -7 OFFCURVE",
+"263 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 -63 LINE",
+"358 116 LINE",
+"170 116 LINE",
+"170 -63 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"230 154 OFFCURVE",
+"208 187 OFFCURVE",
+"208 236 CURVE SMOOTH",
+"208 342 LINE SMOOTH",
+"208 391 OFFCURVE",
+"230 424 OFFCURVE",
+"263 424 CURVE SMOOTH",
+"296 424 OFFCURVE",
+"318 391 OFFCURVE",
+"318 342 CURVE SMOOTH",
+"318 236 LINE SMOOTH",
+"318 187 OFFCURVE",
+"296 154 OFFCURVE",
+"263 154 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 526;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"354 -7 OFFCURVE",
+"437 71 OFFCURVE",
+"437 200 CURVE SMOOTH",
+"437 378 LINE SMOOTH",
+"437 507 OFFCURVE",
+"354 585 OFFCURVE",
+"226 585 CURVE SMOOTH",
+"100 585 OFFCURVE",
+"17 507 OFFCURVE",
+"17 378 CURVE SMOOTH",
+"17 200 LINE SMOOTH",
+"17 71 OFFCURVE",
+"100 -7 OFFCURVE",
+"226 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"320 -63 LINE",
+"320 116 LINE",
+"132 116 LINE",
+"132 -63 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 154 OFFCURVE",
+"205 160 OFFCURVE",
+"205 180 CURVE SMOOTH",
+"205 398 LINE SMOOTH",
+"205 418 OFFCURVE",
+"213 424 OFFCURVE",
+"226 424 CURVE SMOOTH",
+"240 424 OFFCURVE",
+"249 418 OFFCURVE",
+"249 398 CURVE SMOOTH",
+"249 180 LINE SMOOTH",
+"249 160 OFFCURVE",
+"240 154 OFFCURVE",
+"226 154 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 454;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = "{708, -21}";
+type = Stem;
+},
+{
+place = "{70, 22}";
+type = Stem;
+},
+{
+place = "{472, 22}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{-7, 0}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 -7 OFFCURVE",
+"425 63 OFFCURVE",
+"425 176 CURVE SMOOTH",
+"425 400 LINE SMOOTH",
+"425 513 OFFCURVE",
+"352 583 OFFCURVE",
+"243 583 CURVE SMOOTH",
+"133 583 OFFCURVE",
+"60 513 OFFCURVE",
+"60 400 CURVE SMOOTH",
+"60 176 LINE SMOOTH",
+"60 63 OFFCURVE",
+"133 -7 OFFCURVE",
+"243 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"254 -103 LINE",
+"254 3 LINE",
+"232 3 LINE",
+"232 -103 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"146 14 OFFCURVE",
+"82 75 OFFCURVE",
+"82 175 CURVE SMOOTH",
+"82 401 LINE SMOOTH",
+"82 501 OFFCURVE",
+"146 562 OFFCURVE",
+"243 562 CURVE SMOOTH",
+"339 562 OFFCURVE",
+"403 501 OFFCURVE",
+"403 401 CURVE SMOOTH",
+"403 175 LINE SMOOTH",
+"403 75 OFFCURVE",
+"339 14 OFFCURVE",
+"243 14 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 485;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+userData = {
+RMXScaler = {
+source = Q;
+};
+};
+}

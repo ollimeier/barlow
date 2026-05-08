@@ -1,0 +1,176 @@
+{
+color = 0;
+glyphname = asterisk;
+layers = (
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"261 393 LINE",
+"260 482 LINE",
+"345 432 LINE",
+"397 528 LINE",
+"308 571 LINE",
+"397 612 LINE",
+"345 708 LINE",
+"260 660 LINE",
+"261 747 LINE",
+"157 747 LINE",
+"158 660 LINE",
+"73 708 LINE",
+"21 612 LINE",
+"108 571 LINE",
+"21 528 LINE",
+"73 432 LINE",
+"158 482 LINE",
+"157 393 LINE"
+);
+}
+);
+width = 418;
+},
+{
+hints = (
+{
+origin = "{0, 17}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"249 393 LINE",
+"249 552 LINE",
+"390 471 LINE",
+"400 489 LINE",
+"260 570 LINE",
+"400 651 LINE",
+"390 669 LINE",
+"249 588 LINE",
+"249 747 LINE",
+"227 747 LINE",
+"227 588 LINE",
+"86 669 LINE",
+"76 651 LINE",
+"216 570 LINE",
+"76 489 LINE",
+"86 471 LINE",
+"227 552 LINE",
+"227 393 LINE"
+);
+}
+);
+width = 476;
+},
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"207 393 LINE",
+"207 552 LINE",
+"338 471 LINE",
+"348 489 LINE",
+"218 570 LINE",
+"348 651 LINE",
+"338 669 LINE",
+"207 588 LINE",
+"207 747 LINE",
+"185 747 LINE",
+"185 588 LINE",
+"54 669 LINE",
+"44 651 LINE",
+"174 570 LINE",
+"44 489 LINE",
+"54 471 LINE",
+"185 552 LINE",
+"185 393 LINE"
+);
+}
+);
+width = 392;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"237 397 LINE",
+"236 476 LINE",
+"306 432 LINE",
+"358 528 LINE",
+"281 571 LINE",
+"358 612 LINE",
+"306 708 LINE",
+"236 665 LINE",
+"237 745 LINE",
+"134 745 LINE",
+"135 665 LINE",
+"64 708 LINE",
+"12 612 LINE",
+"91 571 LINE",
+"12 528 LINE",
+"64 436 LINE",
+"135 476 LINE",
+"134 397 LINE"
+);
+}
+);
+width = 370;
+},
+{
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "03C4E618-087A-4AF3-B9A6-97C7576224BD";
+name = "Mar 29 17, 02:47";
+paths = (
+{
+closed = 0;
+nodes = (
+"263 747 LINE",
+"263 393 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"96 660 LINE",
+"430 480 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"430 660 LINE",
+"96 480 LINE"
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "3ABE7ADB-F320-4F53-B613-EB941E70D2E0";
+name = "Mar 29 17, 02:50";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 375 LINE",
+"454 569 LINE",
+"258 765 LINE",
+"64 569 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 002A;
+}

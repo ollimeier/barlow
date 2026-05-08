@@ -1,0 +1,75 @@
+{
+color = 0;
+glyphname = equal;
+layers = (
+{
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, 83}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -98}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 476;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, 118}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -102}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{420, 20}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{200, 20}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 510;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, 128}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -92}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 444;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, 86}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, 0, -84}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 436;
+}
+);
+unicode = 003D;
+}

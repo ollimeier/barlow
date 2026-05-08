@@ -1,0 +1,211 @@
+{
+color = 0;
+glyphname = numbersign;
+layers = (
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"523 34 LINE",
+"621 672 LINE",
+"433 672 LINE",
+"335 34 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"264 34 LINE",
+"362 672 LINE",
+"174 672 LINE",
+"76 34 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"671 387 LINE",
+"671 548 LINE",
+"63 548 LINE",
+"63 387 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"634 158 LINE",
+"634 318 LINE",
+"26 318 LINE",
+"26 158 LINE"
+);
+}
+);
+width = 697;
+},
+{
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"347 9 LINE",
+"451 675 LINE",
+"429 677 LINE",
+"325 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 9 LINE",
+"221 675 LINE",
+"199 677 LINE",
+"95 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"504 447 LINE",
+"505 468 LINE",
+"82 468 LINE",
+"81 447 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"468 217 LINE",
+"469 238 LINE",
+"46 238 LINE",
+"45 217 LINE"
+);
+}
+);
+width = 550;
+},
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"312 9 LINE",
+"412 675 LINE",
+"389 677 LINE",
+"290 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"93 9 LINE",
+"192 675 LINE",
+"170 677 LINE",
+"71 11 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"454 447 LINE",
+"454 468 LINE",
+"55 468 LINE",
+"55 447 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"423 217 LINE",
+"423 238 LINE",
+"24 238 LINE",
+"24 217 LINE"
+);
+}
+);
+width = 479;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"477 34 LINE",
+"571 672 LINE",
+"383 672 LINE",
+"289 34 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"237 34 LINE",
+"331 672 LINE",
+"143 672 LINE",
+"49 34 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 387 LINE",
+"607 548 LINE",
+"49 548 LINE",
+"49 387 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"571 158 LINE",
+"571 318 LINE",
+"13 318 LINE",
+"13 158 LINE"
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "19E4D6DF-D088-403D-8AF5-3D5E0CA9D2C9";
+name = "Mar 28 17, 03:03";
+paths = (
+{
+closed = 0;
+nodes = (
+"191 676 LINE",
+"98 10 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"421 676 LINE",
+"328 10 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"66 458 LINE",
+"484 458 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"34 228 LINE",
+"452 228 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0023;
+}

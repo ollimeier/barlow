@@ -1,0 +1,271 @@
+{
+glyphname = o.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{191, 575}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"269 -7 OFFCURVE",
+"322 47 OFFCURVE",
+"322 135 CURVE SMOOTH",
+"322 440 LINE SMOOTH",
+"322 529 OFFCURVE",
+"269 583 OFFCURVE",
+"191 583 CURVE SMOOTH",
+"113 583 OFFCURVE",
+"60 529 OFFCURVE",
+"60 440 CURVE SMOOTH",
+"60 135 LINE SMOOTH",
+"60 47 OFFCURVE",
+"113 -7 OFFCURVE",
+"191 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"127 14 OFFCURVE",
+"82 59 OFFCURVE",
+"82 134 CURVE SMOOTH",
+"82 441 LINE SMOOTH",
+"82 517 OFFCURVE",
+"127 562 OFFCURVE",
+"191 562 CURVE SMOOTH",
+"256 562 OFFCURVE",
+"300 517 OFFCURVE",
+"300 441 CURVE SMOOTH",
+"300 134 LINE SMOOTH",
+"300 59 OFFCURVE",
+"256 14 OFFCURVE",
+"191 14 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 382;
+},
+{
+anchors = (
+{
+name = top;
+position = "{276, 585}";
+}
+);
+guideLines = (
+{
+position = "{310, 613}";
+},
+{
+position = "{307, 360}";
+},
+{
+position = "{310, 87}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"432 -11 OFFCURVE",
+"536 93 OFFCURVE",
+"536 250 CURVE SMOOTH",
+"536 328 LINE SMOOTH",
+"536 482 OFFCURVE",
+"432 585 OFFCURVE",
+"276 585 CURVE SMOOTH",
+"120 585 OFFCURVE",
+"16 482 OFFCURVE",
+"16 328 CURVE SMOOTH",
+"16 250 LINE SMOOTH",
+"16 93 OFFCURVE",
+"120 -11 OFFCURVE",
+"276 -11 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 150 OFFCURVE",
+"204 188 OFFCURVE",
+"204 245 CURVE SMOOTH",
+"204 330 LINE SMOOTH",
+"204 386 OFFCURVE",
+"233 424 OFFCURVE",
+"276 424 CURVE SMOOTH",
+"319 424 OFFCURVE",
+"348 386 OFFCURVE",
+"348 330 CURVE SMOOTH",
+"348 245 LINE SMOOTH",
+"348 188 OFFCURVE",
+"319 150 OFFCURVE",
+"276 150 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 552;
+},
+{
+anchors = (
+{
+name = top;
+position = "{232, 586}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"362 -7 OFFCURVE",
+"446 66 OFFCURVE",
+"446 191 CURVE SMOOTH",
+"446 387 LINE SMOOTH",
+"446 513 OFFCURVE",
+"362 585 OFFCURVE",
+"232 585 CURVE SMOOTH",
+"101 585 OFFCURVE",
+"17 513 OFFCURVE",
+"17 387 CURVE SMOOTH",
+"17 191 LINE SMOOTH",
+"17 66 OFFCURVE",
+"101 -7 OFFCURVE",
+"232 -7 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"214 154 OFFCURVE",
+"205 161 OFFCURVE",
+"205 183 CURVE SMOOTH",
+"205 395 LINE SMOOTH",
+"205 417 OFFCURVE",
+"214 424 OFFCURVE",
+"232 424 CURVE SMOOTH",
+"250 424 OFFCURVE",
+"258 417 OFFCURVE",
+"258 395 CURVE SMOOTH",
+"258 183 LINE SMOOTH",
+"258 161 OFFCURVE",
+"250 154 OFFCURVE",
+"232 154 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 463;
+},
+{
+anchors = (
+{
+name = top;
+position = "{266, 583}";
+}
+);
+hints = (
+{
+origin = "{0, 9}";
+target = "{1, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 6}";
+target = "{1, 6}";
+type = Stem;
+},
+{
+origin = "{1, 9}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 13}";
+target = "{1, 13}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"380 -6 OFFCURVE",
+"457 66 OFFCURVE",
+"457 183 CURVE SMOOTH",
+"457 392 LINE SMOOTH",
+"457 510 OFFCURVE",
+"380 583 OFFCURVE",
+"266 583 CURVE SMOOTH",
+"151 583 OFFCURVE",
+"76 510 OFFCURVE",
+"76 392 CURVE SMOOTH",
+"76 183 LINE SMOOTH",
+"76 66 OFFCURVE",
+"151 -6 OFFCURVE",
+"266 -6 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"164 14 OFFCURVE",
+"98 77 OFFCURVE",
+"98 183 CURVE SMOOTH",
+"98 393 LINE SMOOTH",
+"98 498 OFFCURVE",
+"164 562 OFFCURVE",
+"266 562 CURVE SMOOTH",
+"367 562 OFFCURVE",
+"435 498 OFFCURVE",
+"435 393 CURVE SMOOTH",
+"435 183 LINE SMOOTH",
+"435 77 OFFCURVE",
+"367 14 OFFCURVE",
+"266 14 CURVE SMOOTH"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 533;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+userData = {
+RMXScaler = {
+source = O;
+};
+};
+}

@@ -1,0 +1,58 @@
+{
+glyphname = Gcaron;
+layers = (
+{
+components = (
+{
+name = G;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 87, 197}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 407;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 57, 180}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 477;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 140, 197}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 566;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 113, 188}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 606;
+}
+);
+unicode = 01E6;
+}

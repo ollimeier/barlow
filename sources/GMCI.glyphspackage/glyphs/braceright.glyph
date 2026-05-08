@@ -1,0 +1,136 @@
+{
+color = 0;
+glyphname = braceright;
+layers = (
+{
+components = (
+{
+name = braceleft;
+transform = "{-1, 0, 0, 1, 251, 0}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 251;
+},
+{
+components = (
+{
+name = braceleft;
+transform = "{-1, 0, 0, 1, 425, 0}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 425;
+},
+{
+components = (
+{
+name = braceleft;
+transform = "{-1, 0, 0, 1, 223, 0}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 223;
+},
+{
+components = (
+{
+name = braceleft;
+transform = "{-1, 0, 0, 1, 392, 0}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 392;
+},
+{
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "EB4ABE48-E2EB-4B27-883D-82BBA3D9C474";
+name = "Mar 28 17, 00:24";
+paths = (
+{
+closed = 1;
+nodes = (
+"210 -103 LINE",
+"210 -82 LINE",
+"53 -82 LINE",
+"53 735 LINE",
+"209 735 LINE",
+"209 756 LINE",
+"31 756 LINE",
+"31 -103 LINE"
+);
+}
+);
+width = 241;
+},
+{
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "60781E00-C11F-4E42-ADE2-26187F9A7BD8";
+name = "Mar 28 17, 00:32";
+paths = (
+{
+closed = 1;
+nodes = (
+"133 240 LINE SMOOTH",
+"133 270 OFFCURVE",
+"124 299 OFFCURVE",
+"107 324 CURVE",
+"124 347 OFFCURVE",
+"133 395 OFFCURVE",
+"133 425 CURVE SMOOTH",
+"133 635 LINE SMOOTH",
+"133 667 OFFCURVE",
+"130 664 OFFCURVE",
+"205 667 CURVE",
+"197 827 LINE",
+"134 824 OFFCURVE",
+"-55 822 OFFCURVE",
+"-55 635 CURVE SMOOTH",
+"-55 427 LINE",
+"-55 394 OFFCURVE",
+"-103 356 OFFCURVE",
+"-148 328 CURVE",
+"-148 327 LINE",
+"-105 300 OFFCURVE",
+"-54 274 OFFCURVE",
+"-54 247 CURVE",
+"-55 245 OFFCURVE",
+"-55 243 OFFCURVE",
+"-55 240 CURVE SMOOTH",
+"-55 14 LINE SMOOTH",
+"-53 -172 OFFCURVE",
+"136 -174 OFFCURVE",
+"201 -174 CURVE",
+"201 -14 LINE",
+"131 -14 OFFCURVE",
+"133 -17 OFFCURVE",
+"133 16 CURVE SMOOTH"
+);
+}
+);
+width = 241;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "22BE07AA-0E73-4A6D-98AE-D014168FD84B";
+name = "Mar 28 17, 00:53";
+paths = (
+{
+closed = 1;
+nodes = (
+"411 -164 LINE",
+"411 6 LINE",
+"304 6 LINE",
+"304 648 LINE",
+"411 648 LINE",
+"411 818 LINE",
+"116 818 LINE",
+"116 -164 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 007D;
+}

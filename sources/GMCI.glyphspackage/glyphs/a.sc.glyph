@@ -1,0 +1,191 @@
+{
+glyphname = a.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{182, 576}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+paths = (
+{
+closed = 1;
+nodes = (
+"58 0 LINE",
+"182 539 LINE",
+"307 0 LINE",
+"330 0 LINE",
+"193 576 LINE",
+"170 576 LINE",
+"36 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"290 126 LINE",
+"290 147 LINE",
+"78 147 LINE",
+"78 126 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 366;
+},
+{
+anchors = (
+{
+name = top;
+position = "{301, 578}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"199 0 LINE",
+"303 396 LINE",
+"406 0 LINE",
+"594 0 LINE",
+"408 578 LINE",
+"197 578 LINE",
+"11 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"443 66 LINE",
+"443 210 LINE",
+"159 210 LINE",
+"159 66 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 605;
+},
+{
+anchors = (
+{
+name = top;
+position = "{256, 578}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+paths = (
+{
+closed = 1;
+nodes = (
+"198 0 LINE",
+"260 347 LINE",
+"309 0 LINE",
+"502 0 LINE",
+"361 578 LINE",
+"151 578 LINE",
+"10 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"384 66 LINE",
+"384 210 LINE",
+"125 210 LINE",
+"125 66 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 512;
+},
+{
+anchors = (
+{
+name = top;
+position = "{246, 576}";
+}
+);
+hints = (
+{
+origin = "{0, 6}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+paths = (
+{
+closed = 1;
+nodes = (
+"59 0 LINE",
+"246 547 LINE",
+"434 0 LINE",
+"456 0 LINE",
+"257 576 LINE",
+"234 576 LINE",
+"37 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"397 126 LINE",
+"397 147 LINE",
+"97 147 LINE",
+"97 126 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 493;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+userData = {
+RMXScaler = {
+source = A;
+};
+};
+}

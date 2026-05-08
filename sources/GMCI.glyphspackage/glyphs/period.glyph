@@ -1,0 +1,50 @@
+{
+color = 0;
+glyphname = period;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 100, -610}";
+}
+);
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 284;
+},
+{
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 18, -563}";
+}
+);
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 246;
+},
+{
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 20, -563}";
+}
+);
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 264;
+},
+{
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 41, -610}";
+}
+);
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 166;
+}
+);
+leftKerningGroup = comma;
+rightKerningGroup = comma;
+unicode = 002E;
+}
