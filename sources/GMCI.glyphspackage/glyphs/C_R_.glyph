@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = CR;
 layers = (
 {
@@ -19,5 +19,6 @@ layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 width = 200;
 }
 );
+widthMetricsKey = "=space";
 unicode = 000D;
 }

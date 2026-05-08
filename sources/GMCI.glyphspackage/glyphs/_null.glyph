@@ -1,0 +1,163 @@
+{
+color = 4;
+glyphname = .null;
+layers = (
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "47CF0EA1-A391-47E1-8F8E-91D6F937B0B3";
+name = "XXCond Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "224EF153-4022-4CE7-83CC-6309FC1DFD06";
+name = "Normal Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "76820486-7598-48E3-A984-54098EFD5D29";
+name = "Normal Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "D8C68FFF-FFFC-4FD4-A707-4ACD8F207E4C";
+name = "XXCond Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "D0F8C7AC-453D-41EE-A125-FFE8A3CB9400";
+name = "XXCond Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "7C61337B-C898-4236-AAA1-3B1AD85A2EA4";
+name = "XXWide Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "FE1DC790-4FEC-4A41-87A8-0F50771465EB";
+name = "XXWide Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "E04981A8-3CE9-4BDB-9053-53FF94D9CEFE";
+name = "XXWide Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "62E21B2F-B91B-4B6C-B492-19A2D0B2E45B";
+name = "Normal Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "2F2846B4-FCC3-4293-9266-2BC38E80E7C5";
+name = "BackSlant XXWide Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "C6C3CF2C-52F3-4E54-BBAA-A9FB51DDD654";
+name = "BackSlant XXWide Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "F39535F0-DCDB-4BF2-85FD-446D03D4AFD4";
+name = "BackSlant XXWide Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "131F2035-B6B2-4628-B66B-6DA39B6EFDD0";
+name = "BackSlant Normal Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "9ECCFBEA-4E01-4A2D-BE38-019EA049E5E8";
+name = "BackSlant Normal Regular";
+width = 0;
+},
+{
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 0;
+},
+{
+layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+width = 0;
+},
+{
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 0;
+},
+{
+layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "04F29D67-43B0-4C3A-AFDD-1C500F09FA25";
+name = "Slant XXWide Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "9FB10FC4-68A3-4E44-92F4-4DB14AF5290A";
+name = "Slant XXWide Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "615B8965-E8AE-4454-A28B-981E8BBA2D88";
+name = "Slant XXWide Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "264431F0-30EF-4173-9203-4DC41D139B3B";
+name = "Slant Normal Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "69FAF265-B20E-45FE-92B3-A201DA31DFCB";
+name = "Slant Normal Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "913EA420-61D0-4CF3-9368-E7F41144F894";
+name = "Slant Normal Thin";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "7C667D84-6016-48D0-9C5E-DF389D2B9848";
+name = "Slant XXCond Black";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "2ED3BEC0-2FF7-42C0-80D9-F81161B926D9";
+name = "Slant XXCond Regular";
+width = 0;
+},
+{
+associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "59183A1B-CF34-48F5-AEEF-D666121AE6BF";
+name = "Slant XXCond Thin";
+width = 0;
+}
+);
+leftKerningGroup = .null;
+rightKerningGroup = .null;
+unicode = 0000;
+}
