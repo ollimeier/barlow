@@ -91,7 +91,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 144,
-500
+100
 );
 };
 hints = (
@@ -143,7 +143,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 144,
-300
+75
 );
 };
 hints = (
@@ -195,7 +195,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 144,
-400
+87.5
 );
 };
 hints = (

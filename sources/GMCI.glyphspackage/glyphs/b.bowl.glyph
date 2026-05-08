@@ -405,7 +405,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 166,
-300
+75
 );
 };
 guides = (
@@ -485,7 +485,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 188,
-400
+87.5
 );
 };
 guides = (
@@ -568,7 +568,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 100,
-400
+87.5
 );
 };
 guides = (

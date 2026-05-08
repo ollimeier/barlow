@@ -145,7 +145,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 100,
-500
+100
 );
 };
 layerId = "BB8DD64F-A019-4050-BBDC-5FE79DF1E923";
@@ -293,7 +293,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 100,
-300
+75
 );
 };
 layerId = "D3AEBD5E-670E-4228-94D4-20C3412476AF";

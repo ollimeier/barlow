@@ -74,7 +74,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 100,
-300
+75
 );
 };
 layerId = "8F788E01-B0E4-440E-90D9-C7ECABE182EE";
@@ -192,7 +192,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 100,
-500
+100
 );
 };
 hints = (
