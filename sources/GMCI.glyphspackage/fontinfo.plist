@@ -517,16 +517,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Thin;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 30;
@@ -579,16 +579,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = ExtraLight;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 39;
@@ -637,16 +637,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Light;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 53;
@@ -696,16 +696,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Regular;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 71;
@@ -754,16 +754,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Medium;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 96;
@@ -813,16 +813,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = SemiBold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 116;
@@ -872,16 +872,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Bold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 141;
@@ -932,16 +932,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = ExtraBold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 166;
@@ -991,16 +991,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Black;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 188;
@@ -1053,16 +1053,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Thin;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 30;
@@ -1102,16 +1102,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = ExtraLight;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 39;
@@ -1147,16 +1147,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Light;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 53;
@@ -1193,16 +1193,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Regular;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 71;
@@ -1238,16 +1238,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Medium;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 96;
@@ -1284,16 +1284,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = SemiBold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 116;
@@ -1330,16 +1330,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Bold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 141;
@@ -1377,16 +1377,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = ExtraBold;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 166;
@@ -1423,16 +1423,16 @@ name = familyName;
 value = "GMC-I Sans";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans";
+},
+{
 name = WWSFamilyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSSubfamilyName;
 value = Black;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans";
 }
 );
 interpolationWeight = 188;
@@ -1487,16 +1487,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "Thin Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 30;
@@ -1554,16 +1554,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "ExtraLight Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 39;
@@ -1617,16 +1617,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "Light Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 53;
@@ -1681,16 +1681,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = Italic;
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 71;
@@ -1743,16 +1743,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "Medium Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 96;
@@ -1807,16 +1807,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "SemiBold Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 116;
@@ -1871,16 +1871,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "Bold Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 141;
@@ -1935,16 +1935,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "ExtraBold Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 166;
@@ -1999,16 +1999,16 @@ name = familyName;
 value = "GMC-I Sans Condensed";
 },
 {
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
+},
+{
 name = WWSFamilyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSSubfamilyName;
 value = "Black Italic";
-},
-{
-name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 188;
