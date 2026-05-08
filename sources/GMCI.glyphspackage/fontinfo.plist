@@ -514,7 +514,7 @@ value = 250;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -523,6 +523,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Thin;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 30;
@@ -572,7 +576,7 @@ value = 275;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -581,6 +585,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = ExtraLight;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 39;
@@ -626,7 +634,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -635,6 +643,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Light;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 53;
@@ -681,7 +693,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -690,6 +702,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 71;
@@ -735,7 +751,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -744,6 +760,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Medium;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 96;
@@ -790,7 +810,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -799,6 +819,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = SemiBold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 116;
@@ -845,7 +869,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -854,6 +878,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Bold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 141;
@@ -901,7 +929,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -910,6 +938,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = ExtraBold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 166;
@@ -956,7 +988,7 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -965,6 +997,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Black;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 188;
@@ -1014,7 +1050,7 @@ value = 250;
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1023,6 +1059,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Thin;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 30;
@@ -1059,7 +1099,7 @@ value = 275;
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1068,6 +1108,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = ExtraLight;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 39;
@@ -1100,7 +1144,7 @@ value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1109,6 +1153,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Light;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 53;
@@ -1142,7 +1190,7 @@ value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1151,6 +1199,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 71;
@@ -1183,7 +1235,7 @@ value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1192,6 +1244,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Medium;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 96;
@@ -1225,7 +1281,7 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1234,6 +1290,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = SemiBold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 116;
@@ -1267,7 +1327,7 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1276,6 +1336,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Bold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 141;
@@ -1310,7 +1374,7 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1319,6 +1383,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = ExtraBold;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 166;
@@ -1352,7 +1420,7 @@ value = "GlyphsFilterRoundCorner;-5;";
 },
 {
 name = familyName;
-value = Barlow;
+value = "GMC-I Sans";
 },
 {
 name = WWSFamilyName;
@@ -1361,6 +1429,10 @@ value = Barlow;
 {
 name = WWSSubfamilyName;
 value = Black;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 188;
@@ -1412,7 +1484,7 @@ value = 250;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1421,6 +1493,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "Thin Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 30;
@@ -1475,7 +1551,7 @@ value = 275;
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1484,6 +1560,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "ExtraLight Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 39;
@@ -1534,7 +1614,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1543,6 +1623,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "Light Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 53;
@@ -1594,7 +1678,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1603,6 +1687,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 71;
@@ -1652,7 +1740,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1661,6 +1749,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "Medium Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 96;
@@ -1712,7 +1804,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1721,6 +1813,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "SemiBold Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 116;
@@ -1772,7 +1868,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1781,6 +1877,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "Bold Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 141;
@@ -1832,7 +1932,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1841,6 +1941,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "ExtraBold Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 166;
@@ -1892,7 +1996,7 @@ value = "7";
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "GMC-I Sans Condensed";
 },
 {
 name = WWSFamilyName;
@@ -1901,6 +2005,10 @@ value = "Barlow Condensed";
 {
 name = WWSSubfamilyName;
 value = "Black Italic";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans Condensed";
 }
 );
 interpolationWeight = 188;
@@ -1956,6 +2064,10 @@ value = "New Value";
 {
 name = weightClass;
 value = 250;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 30;
@@ -2006,6 +2118,10 @@ value = "7";
 {
 name = weightClass;
 value = 275;
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 39;
@@ -2052,6 +2168,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 53;
@@ -2099,6 +2219,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 71;
@@ -2144,6 +2268,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 96;
@@ -2191,6 +2319,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 116;
@@ -2238,6 +2370,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 141;
@@ -2285,6 +2421,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 166;
@@ -2332,6 +2472,10 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = preferredFamilyName;
+value = "GMC-I Sans";
 }
 );
 interpolationWeight = 188;
