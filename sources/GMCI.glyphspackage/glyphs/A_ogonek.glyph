@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Aogonek;
 kernLeft = A;
 kernRight = A;
@@ -11,12 +11,11 @@ shapes = (
 ref = A;
 },
 {
-alignment = -1;
-pos = (507,0);
+pos = (414,0);
 ref = ogonek;
 }
 );
-width = 714;
+width = 680;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -25,12 +24,11 @@ shapes = (
 ref = A;
 },
 {
-alignment = -1;
-pos = (347,0);
+pos = (263,0);
 ref = ogonek;
 }
 );
-width = 531;
+width = 504;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -39,12 +37,11 @@ shapes = (
 ref = A;
 },
 {
-alignment = -1;
-pos = (277.518,0);
+pos = (286,0);
 ref = ogonek;
 }
 );
-width = 367.28916;
+width = 390;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -53,12 +50,12 @@ shapes = (
 ref = A;
 },
 {
-alignment = -1;
-pos = (439.422,0);
+anchor = ogonek;
+pos = (429,0);
 ref = ogonek;
 }
 );
-width = 569.3253;
+width = 555;
 }
 );
 unicode = 260;
