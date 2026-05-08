@@ -61,7 +61,7 @@ value = 1;
 date = "2019-07-02 08:04:58 +0000";
 designer = "Jeremy Tribby";
 designerURL = "https://tribby.com/";
-familyName = "GMC-I Sans";
+familyName = "GMC-I Neo";
 featurePrefixes = (
 {
 automatic = 1;
@@ -492,15 +492,15 @@ value = 250;
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -530,15 +530,15 @@ value = 275;
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -564,15 +564,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -599,15 +599,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -633,15 +633,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -668,15 +668,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -703,15 +703,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -739,15 +739,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -774,15 +774,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -812,15 +812,15 @@ value = 250;
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -849,15 +849,15 @@ value = 275;
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -882,15 +882,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -916,15 +916,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -949,15 +949,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -983,15 +983,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -1017,15 +1017,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -1052,15 +1052,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -1086,15 +1086,15 @@ value = (
 },
 {
 name = familyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 },
 {
 name = WWSSubfamilyName;
@@ -1134,15 +1134,15 @@ value = 250;
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1185,15 +1185,15 @@ value = 275;
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1232,15 +1232,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1280,15 +1280,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1326,15 +1326,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1374,15 +1374,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1422,15 +1422,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1470,15 +1470,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1518,15 +1518,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Cond";
+value = "GMC-I Neo Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1564,16 +1564,12 @@ name = italicAngle;
 value = "7";
 },
 {
-name = "New Parameter";
-value = "New Value";
-},
-{
 name = weightClass;
 value = 250;
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 30;
@@ -1611,7 +1607,7 @@ value = 275;
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 39;
@@ -1645,7 +1641,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 53;
@@ -1680,7 +1676,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 71;
@@ -1713,7 +1709,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 96;
@@ -1748,7 +1744,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 116;
@@ -1783,7 +1779,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 141;
@@ -1818,7 +1814,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 166;
@@ -1853,7 +1849,7 @@ value = "7";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans";
+value = "GMC-I Neo";
 }
 );
 interpolationWeight = 188;
