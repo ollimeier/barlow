@@ -79,7 +79,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 100,
-500
+100
 );
 };
 hints = (
@@ -181,7 +181,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 100,
-300
+75
 );
 };
 hints = (
@@ -283,7 +283,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 144,
-500
+100
 );
 };
 hints = (
@@ -466,7 +466,7 @@ associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 attr = {
 coordinates = (
 166,
-300
+75
 );
 };
 hints = (
