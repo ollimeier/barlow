@@ -1,5 +1,6 @@
 {
-glyphname = I_J.liga;
+color = 0;
+glyphname = IJ;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -56,4 +57,5 @@ ref = J;
 width = 831.93976;
 }
 );
+unicode = 306;
 }
