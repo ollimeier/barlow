@@ -1,4 +1,6 @@
 {
+color = 9;
+export = 0;
 glyphname = lcaron.sc;
 kernRight = L;
 layers = (

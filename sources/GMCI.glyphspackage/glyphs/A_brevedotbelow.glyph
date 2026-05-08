@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = Abrevedotbelow;
 kernLeft = A;
 kernRight = A;

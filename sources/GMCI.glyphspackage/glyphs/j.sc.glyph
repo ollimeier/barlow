@@ -1,4 +1,6 @@
 {
+color = 9;
+export = 0;
 glyphname = j.sc;
 kernLeft = j.sc;
 kernRight = u.sc;

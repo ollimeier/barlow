@@ -1,4 +1,6 @@
 {
+color = 9;
+export = 0;
 glyphname = dcroat.sc;
 kernRight = B;
 layers = (

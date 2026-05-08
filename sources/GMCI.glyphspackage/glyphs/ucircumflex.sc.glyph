@@ -1,4 +1,6 @@
 {
+color = 9;
+export = 0;
 glyphname = ucircumflex.sc;
 kernLeft = U;
 kernRight = U;

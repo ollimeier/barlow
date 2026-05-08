@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = Adotbelow;
 kernLeft = A;
 kernRight = A;

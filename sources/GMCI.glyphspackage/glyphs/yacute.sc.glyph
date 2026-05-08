@@ -1,4 +1,6 @@
 {
+color = 9;
+export = 0;
 glyphname = yacute.sc;
 kernLeft = Y;
 kernRight = Y;
