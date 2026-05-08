@@ -487,30 +487,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = weightClass;
 value = 250;
 },
@@ -547,30 +523,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
 },
 {
 name = weightClass;
@@ -611,30 +563,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = familyName;
 value = "GMC-I Sans Cond";
 },
@@ -670,30 +598,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = familyName;
 value = "GMC-I Sans Cond";
 },
@@ -726,30 +630,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
 },
 {
 name = familyName;
@@ -787,30 +667,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = familyName;
 value = "GMC-I Sans Cond";
 },
@@ -844,30 +700,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
 },
 {
 name = familyName;
@@ -906,30 +738,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = familyName;
 value = "GMC-I Sans Cond";
 },
@@ -965,30 +773,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
-},
-{
 name = familyName;
 value = "GMC-I Sans Cond";
 },
@@ -1021,30 +805,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = Filter;
-value = AddExtremes;
 },
 {
 name = weightClass;
@@ -1084,18 +844,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = weightClass;
 value = 275;
 },
@@ -1133,18 +881,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
 value = "GMC-I Sans";
 },
@@ -1179,18 +915,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
 value = "GMC-I Sans";
 },
@@ -1222,18 +946,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = familyName;
@@ -1270,18 +982,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
 value = "GMC-I Sans";
 },
@@ -1314,18 +1014,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = familyName;
@@ -1363,18 +1051,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
 value = "GMC-I Sans";
 },
@@ -1409,18 +1085,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;";
-},
-{
 name = familyName;
 value = "GMC-I Sans";
 },
@@ -1452,22 +1116,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -1521,22 +1169,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1588,22 +1220,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1652,22 +1268,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1712,22 +1312,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -1778,22 +1362,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1840,22 +1408,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -1906,22 +1458,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1968,22 +1504,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -2033,22 +1553,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2091,22 +1595,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2145,22 +1633,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2196,22 +1668,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2243,22 +1699,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -2296,22 +1736,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2345,22 +1769,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
@@ -2398,22 +1806,6 @@ value = (
 );
 },
 {
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
-},
-{
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2447,22 +1839,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
-},
-{
-name = Filter;
-value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
 name = "Rename Glyphs";
