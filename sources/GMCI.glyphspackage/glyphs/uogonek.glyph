@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = uogonek;
 kernLeft = u;
 layers = (
@@ -10,8 +10,7 @@ shapes = (
 ref = u;
 },
 {
-alignment = -1;
-pos = (331,0);
+pos = (275,0);
 ref = ogonekcomb;
 }
 );
@@ -24,8 +23,7 @@ shapes = (
 ref = u;
 },
 {
-alignment = -1;
-pos = (268,0);
+pos = (202,0);
 ref = ogonekcomb;
 }
 );
@@ -38,27 +36,24 @@ shapes = (
 ref = u;
 },
 {
-alignment = -1;
-pos = (257.53,0);
+pos = (244,0);
 ref = ogonekcomb;
 }
 );
-width = 385.85542;
+width = 386;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (345.277,0);
+pos = (340,0);
 ref = ogonekcomb;
 }
 );
-width = 534.68675;
+width = 524;
 }
 );
 unicode = 371;
