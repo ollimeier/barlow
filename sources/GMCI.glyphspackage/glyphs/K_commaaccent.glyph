@@ -1,67 +1,62 @@
 {
 color = 0;
-glyphname = uni0123;
-kernLeft = d;
-kernRight = g;
+glyphname = Kcommaaccent;
+kernRight = K;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-ref = g;
+ref = K;
 },
 {
-angle = 180;
-pos = (451,520);
+pos = (168,0);
 ref = commaaccentcomb;
 }
 );
-width = 579;
+width = 634;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-ref = g;
+ref = K;
 },
 {
-angle = 180;
-pos = (364,520);
+pos = (147,0);
 ref = commaaccentcomb;
 }
 );
-width = 459;
+width = 502;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-ref = g;
+ref = K;
 },
 {
-angle = 180;
-pos = (241,501);
+pos = (160,0);
 ref = commaaccentcomb;
 }
 );
-width = 382;
+width = 400;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-ref = g;
+ref = K;
 },
 {
 alignment = -1;
-angle = 180;
-pos = (356.771,500.964);
+pos = (236.53,0);
 ref = commaaccentcomb;
 }
 );
-width = 523.79518;
+width = 601.63855;
 }
 );
-unicode = 291;
+unicode = 310;
 }

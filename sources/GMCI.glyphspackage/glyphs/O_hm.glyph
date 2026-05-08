@@ -1,62 +1,45 @@
 {
 color = 0;
-glyphname = uni0136;
-kernRight = K;
+glyphname = Ohm;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-ref = K;
-},
-{
-pos = (168,0);
-ref = commaaccentcomb;
+ref = Omega;
 }
 );
-width = 634;
+width = 654;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-ref = K;
-},
-{
-pos = (147,0);
-ref = commaaccentcomb;
+ref = Omega;
 }
 );
-width = 502;
+width = 506;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-ref = K;
-},
-{
-pos = (160,0);
-ref = commaaccentcomb;
+alignment = -1;
+ref = Omega;
 }
 );
-width = 400;
+width = 472.68675;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-ref = K;
-},
-{
-alignment = -1;
-pos = (236.53,0);
-ref = commaaccentcomb;
+ref = Omega;
 }
 );
-width = 601.63855;
+width = 646.38554;
 }
 );
-unicode = 310;
+unicode = 8486;
 }

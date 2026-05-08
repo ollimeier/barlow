@@ -1,61 +1,66 @@
 {
 color = 0;
-glyphname = uni0145;
+glyphname = Tcedilla;
+kernLeft = T;
+kernRight = T;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-ref = N;
+ref = T;
 },
 {
-pos = (190,0);
-ref = commaaccentcomb;
+alignment = -1;
+pos = (263,0);
+ref = cedillacomb;
 }
 );
-width = 684;
+width = 591;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-ref = N;
+ref = T;
 },
 {
-pos = (145,0);
-ref = commaaccentcomb;
+alignment = -1;
+pos = (220,0);
+ref = cedillacomb;
 }
 );
-width = 536;
+width = 479;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-ref = N;
+ref = T;
 },
 {
-pos = (160,0);
-ref = commaaccentcomb;
+alignment = -1;
+pos = (159.084,0);
+ref = cedillacomb;
 }
 );
-width = 440;
+width = 349.55422;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-ref = N;
+ref = T;
 },
 {
 alignment = -1;
-pos = (256.627,0);
-ref = commaaccentcomb;
+pos = (232.542,0);
+ref = cedillacomb;
 }
 );
-width = 684;
+width = 559.59036;
 }
 );
-unicode = 325;
+unicode = 354;
 }

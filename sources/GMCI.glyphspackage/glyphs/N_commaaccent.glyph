@@ -1,45 +1,61 @@
 {
 color = 0;
-glyphname = uni2126;
+glyphname = Ncommaaccent;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-ref = Omega;
+ref = N;
+},
+{
+pos = (190,0);
+ref = commaaccentcomb;
 }
 );
-width = 654;
+width = 684;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-ref = Omega;
+ref = N;
+},
+{
+pos = (145,0);
+ref = commaaccentcomb;
 }
 );
-width = 506;
+width = 536;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
-ref = Omega;
+ref = N;
+},
+{
+pos = (160,0);
+ref = commaaccentcomb;
 }
 );
-width = 472.68675;
+width = 440;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-ref = Omega;
+ref = N;
+},
+{
+alignment = -1;
+pos = (256.627,0);
+ref = commaaccentcomb;
 }
 );
-width = 646.38554;
+width = 684;
 }
 );
-unicode = 8486;
+unicode = 325;
 }
