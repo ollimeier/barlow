@@ -60,7 +60,7 @@ ref = question;
 scale = (0.7143,0.7143);
 }
 );
-width = 434.80723;
+width = 434;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -80,7 +80,7 @@ ref = question;
 scale = (0.7143,0.7143);
 }
 );
-width = 577.9759;
+width = 578;
 }
 );
 }
