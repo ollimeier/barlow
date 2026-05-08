@@ -5,45 +5,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{182, 576}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"58 0 LINE",
-"182 539 LINE",
-"307 0 LINE",
-"330 0 LINE",
-"193 576 LINE",
-"170 576 LINE",
-"36 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"290 126 LINE",
-"290 147 LINE",
-"78 147 LINE",
-"78 126 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 86;
-width = 97;
-};
-};
-width = 366;
-},
-{
-anchors = (
-{
-name = top;
 position = "{301, 578}";
 }
 );
@@ -122,7 +83,7 @@ width = 512;
 anchors = (
 {
 name = top;
-position = "{246, 576}";
+position = "{185.566, 576.096}";
 }
 );
 hints = (
@@ -148,27 +109,27 @@ target = "{1, 1}";
 type = Stem;
 }
 );
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"59 0 LINE",
-"246 547 LINE",
-"434 0 LINE",
-"456 0 LINE",
-"257 576 LINE",
-"234 576 LINE",
-"37 0 LINE"
+"64.747 0 LINE",
+"185.759 529.747 LINE",
+"307.096 0 LINE",
+"338.289 0 LINE",
+"201.096 576.096 LINE",
+"169.084 576.096 LINE",
+"34.747 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"397 126 LINE",
-"397 147 LINE",
-"97 147 LINE",
-"97 126 LINE"
+"294.53 123.108 LINE",
+"294.53 150.036 LINE",
+"80.265 150.036 LINE",
+"80.265 123.108 LINE"
 );
 }
 );
@@ -178,7 +139,69 @@ height = 86;
 width = 97;
 };
 };
-width = 493;
+width = 373.03614;
+},
+{
+anchors = (
+{
+name = top;
+position = "{248.651, 576.096}";
+}
+);
+hints = (
+{
+origin = "{0, 6}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"65.747 0 LINE",
+"248.747 539.723 LINE",
+"432.651 0 LINE",
+"462.651 0 LINE",
+"264.277 576.096 LINE",
+"232.217 576.096 LINE",
+"35.747 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"399.217 123.108 LINE",
+"399.217 150.036 LINE",
+"99.988 150.036 LINE",
+"99.988 123.108 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 498.39759;
 }
 );
 leftKerningGroup = A;

@@ -3,46 +3,6 @@ color = 0;
 glyphname = four;
 layers = (
 {
-hints = (
-{
-origin = "{1, 2}";
-target = "{1, 1}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"418 202 LINE",
-"418 223 LINE",
-"57 223 LINE",
-"284 700 LINE",
-"262 700 LINE",
-"35 223 LINE",
-"35 202 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"363 0 LINE",
-"363 422 LINE",
-"341 422 LINE",
-"341 0 LINE"
-);
-}
-);
-width = 458;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -97,31 +57,84 @@ nodes = (
 width = 618;
 },
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+origin = "{1, 2}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"330 202 LINE",
-"330 222 LINE",
-"43 222 LINE",
-"209 700 LINE",
-"185 700 LINE",
-"19 222 LINE",
-"19 202 LINE"
+"339.253 200.313 LINE",
+"339.253 227.542 LINE",
+"51.819 227.542 LINE",
+"215.12 700 LINE",
+"182.639 700 LINE",
+"18.47 225.855 LINE",
+"18.47 200.313 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"288 0 LINE",
-"288 422 LINE",
-"266 422 LINE",
-"266 0 LINE"
+"296.819 0 LINE",
+"296.819 422.193 LINE",
+"266.819 422.193 LINE",
+"266.819 0 LINE"
 );
 }
 );
-width = 353;
+width = 361.77108;
+},
+{
+hints = (
+{
+origin = "{1, 2}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"426.578 200.506 LINE",
+"426.578 228.494 LINE",
+"65.386 228.494 LINE",
+"288.964 700 LINE",
+"258.386 700 LINE",
+"34.036 226.807 LINE",
+"34.036 200.506 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371.289 0 LINE",
+"371.289 423.639 LINE",
+"341.289 423.639 LINE",
+"341.289 0 LINE"
+);
+}
+);
+width = 465.71084;
 }
 );
 unicode = 0034;

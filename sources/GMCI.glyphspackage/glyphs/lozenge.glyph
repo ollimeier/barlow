@@ -2,32 +2,6 @@
 glyphname = lozenge;
 layers = (
 {
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"230 -40 LINE",
-"397 350 LINE",
-"229 740 LINE",
-"205 740 LINE",
-"37 350 LINE",
-"204 -40 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"61 350 LINE",
-"217 719 LINE",
-"373 350 LINE",
-"217 -19 LINE"
-);
-}
-);
-width = 434;
-},
-{
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 paths = (
 {
@@ -54,32 +28,6 @@ nodes = (
 width = 562;
 },
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"180 -40 LINE",
-"317 350 LINE",
-"179 740 LINE",
-"155 740 LINE",
-"17 350 LINE",
-"154 -40 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"41 350 LINE",
-"167 719 LINE",
-"293 350 LINE",
-"167 -19 LINE"
-);
-}
-);
-width = 334;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -104,6 +52,58 @@ nodes = (
 }
 );
 width = 447;
+},
+{
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"185.108 -40.964 LINE",
+"322.928 350 LINE",
+"184.108 740.964 LINE",
+"155.386 740.964 LINE",
+"16.518 350 LINE",
+"154.386 -40.964 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"46.349 350 LINE",
+"169.747 711.386 LINE",
+"293.145 350 LINE",
+"169.747 -11.867 LINE"
+);
+}
+);
+width = 339.44578;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"235.446 -40.964 LINE",
+"404.325 350 LINE",
+"234.446 740.964 LINE",
+"205.723 740.964 LINE",
+"35.843 350 LINE",
+"204.723 -40.964 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"66.88 350 LINE",
+"220.084 711.434 LINE",
+"373.289 350 LINE",
+"220.084 -11.434 LINE"
+);
+}
+);
+width = 440.16867;
 }
 );
 unicode = 25CA;

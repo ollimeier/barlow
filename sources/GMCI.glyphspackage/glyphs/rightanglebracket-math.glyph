@@ -3,23 +3,6 @@ color = 0;
 glyphname = "rightanglebracket-math";
 layers = (
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"47 -93 LINE",
-"183 281 LINE",
-"47 655 LINE",
-"24 655 LINE",
-"160 281 LINE",
-"24 -93 LINE"
-);
-}
-);
-width = 201;
-},
-{
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 paths = (
 {
@@ -54,21 +37,38 @@ nodes = (
 width = 248;
 },
 {
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"66 -93 LINE",
-"222 281 LINE",
-"66 655 LINE",
-"43 655 LINE",
-"199 281 LINE",
-"43 -93 LINE"
+"52.639 -93 LINE",
+"185.651 281 LINE",
+"52.639 655 LINE",
+"23.325 655 LINE",
+"156.578 281 LINE",
+"23.325 -93 LINE"
 );
 }
 );
-width = 266;
+width = 203.26506;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"71.398 -93 LINE",
+"223.928 281 LINE",
+"71.398 655 LINE",
+"42.084 655 LINE",
+"194.759 281 LINE",
+"42.084 -93 LINE"
+);
+}
+);
+width = 266.86747;
 }
 );
 unicode = 27E9;

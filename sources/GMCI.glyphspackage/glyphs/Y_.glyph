@@ -6,47 +6,6 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{261, 0}";
-},
-{
-name = top;
-position = "{261, 699}";
-},
-{
-name = topleft;
-position = "{15, 700}";
-}
-);
-hints = (
-{
-origin = "{0, 8}";
-target = "{0, 0}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"272 0 LINE",
-"272 339 LINE",
-"489 700 LINE",
-"467 700 LINE",
-"261 358 LINE",
-"55 700 LINE",
-"33 700 LINE",
-"250 339 LINE",
-"250 0 LINE"
-);
-}
-);
-width = 522;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{243, 0}";
 },
 {
@@ -115,35 +74,83 @@ width = 620;
 anchors = (
 {
 name = bottom;
-position = "{176, 0}";
+position = "{179.229, 0}";
 },
 {
 name = top;
-position = "{176, 700}";
+position = "{179.229, 700}";
 },
 {
 name = topleft;
-position = "{1, 700}";
+position = "{1.386, 700}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+origin = "{0, 8}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"187 0 LINE",
-"187 339 LINE",
-"328 700 LINE",
-"305 700 LINE",
-"176 358 LINE",
-"46 700 LINE",
-"23 700 LINE",
-"165 339 LINE",
-"165 0 LINE"
+"194.181 0.096 LINE",
+"194.181 334.759 LINE",
+"335.566 700 LINE",
+"304.133 700 LINE",
+"179.229 363.446 LINE",
+"53.373 700 LINE",
+"21.94 700 LINE",
+"164.181 334.759 LINE",
+"164.181 0.096 LINE"
 );
 }
 );
-width = 352;
+width = 358.36145;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{263.41, 0}";
+},
+{
+name = top;
+position = "{263.361, 699.048}";
+},
+{
+name = topleft;
+position = "{14.518, 700}";
+}
+);
+hints = (
+{
+origin = "{0, 8}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"278.313 0.096 LINE",
+"278.313 334.277 LINE",
+"495.217 700 LINE",
+"464.398 700 LINE",
+"263.361 362 LINE",
+"62.325 700 LINE",
+"31.554 700 LINE",
+"248.361 334.277 LINE",
+"248.361 0.096 LINE"
+);
+}
+);
+width = 526.72289;
 }
 );
 leftKerningGroup = Y;

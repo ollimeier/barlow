@@ -3,29 +3,6 @@ color = 0;
 glyphname = minus;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"447 312 LINE",
-"447 332 LINE",
-"29 332 LINE",
-"29 312 LINE"
-);
-}
-);
-width = 476;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -56,19 +33,50 @@ nodes = (
 width = 476;
 },
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"402 312 LINE",
-"402 332 LINE",
-"34 332 LINE",
-"34 312 LINE"
+"402.771 308.241 LINE",
+"402.771 334.024 LINE",
+"33.229 334.024 LINE",
+"33.229 308.241 LINE"
 );
 }
 );
 width = 436;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"447.337 307.181 LINE",
+"447.337 333.928 LINE",
+"28.663 333.928 LINE",
+"28.663 307.181 LINE"
+);
+}
+);
+width = 476;
 }
 );
 unicode = 2212;

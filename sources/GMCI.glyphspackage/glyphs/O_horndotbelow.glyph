@@ -4,20 +4,6 @@ layers = (
 {
 components = (
 {
-alignment = -1;
-name = Ohorn;
-},
-{
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 166, 0}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 444;
-},
-{
-components = (
-{
 name = Ohorn;
 },
 {
@@ -35,11 +21,25 @@ name = Ohorn;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 248, 0}";
+transform = "{1, 0, 0, 1, 197, 0}";
 }
 );
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 580;
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 617;
+},
+{
+components = (
+{
+alignment = -1;
+name = Ohorn;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 165, 0}";
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 445.92771;
 },
 {
 components = (
@@ -48,11 +48,11 @@ name = Ohorn;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 197, 0}";
+transform = "{1, 0, 0, 1, 246, 0}";
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 617;
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 582;
 }
 );
 leftKerningGroup = O;

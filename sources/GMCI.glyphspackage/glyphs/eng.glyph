@@ -7,45 +7,6 @@ components = (
 name = n;
 }
 );
-hints = (
-{
-origin = "{0, 4}";
-target = "{0, 3}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 9}";
-target = "{0, 8}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"401 -161 OFFCURVE",
-"444 -105 OFFCURVE",
-"444 -24 CURVE SMOOTH",
-"444 200 LINE",
-"422 200 LINE",
-"422 -24 LINE SMOOTH",
-"422 -92 OFFCURVE",
-"388 -140 OFFCURVE",
-"325 -140 CURVE",
-"325 -161 LINE"
-);
-}
-);
-width = 531;
-},
-{
-components = (
-{
-name = n;
-}
-);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 paths = (
 {
@@ -72,32 +33,6 @@ components = (
 name = n;
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"309 -151 OFFCURVE",
-"338 -99 OFFCURVE",
-"338 -24 CURVE SMOOTH",
-"338 250 LINE",
-"316 250 LINE",
-"316 -24 LINE SMOOTH",
-"316 -86 OFFCURVE",
-"294 -130 OFFCURVE",
-"238 -130 CURVE",
-"238 -151 LINE"
-);
-}
-);
-width = 397;
-},
-{
-components = (
-{
-name = n;
-}
-);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -117,6 +52,84 @@ nodes = (
 }
 );
 width = 462;
+},
+{
+components = (
+{
+name = n;
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 9}";
+target = "{0, 8}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"316.133 -153.843 OFFCURVE",
+"343.012 -99.048 OFFCURVE",
+"343.012 -21.446 CURVE SMOOTH",
+"343.012 248.554 LINE",
+"313.012 248.554 LINE",
+"313.012 -21.446 LINE SMOOTH",
+"313.012 -82.771 OFFCURVE",
+"292.313 -126.096 OFFCURVE",
+"235.108 -125.855 CURVE",
+"235.108 -153.41 LINE"
+);
+}
+);
+width = 400.13253;
+},
+{
+components = (
+{
+name = n;
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 9}";
+target = "{0, 8}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"405.193 -163.024 OFFCURVE",
+"447.807 -106.831 OFFCURVE",
+"447.807 -21.446 CURVE SMOOTH",
+"447.807 200.964 LINE",
+"417.807 200.964 LINE",
+"417.807 -21.735 LINE SMOOTH",
+"417.807 -89.398 OFFCURVE",
+"384.578 -135.711 OFFCURVE",
+"321 -135.759 CURVE",
+"321 -162.928 LINE"
+);
+}
+);
+width = 532.83133;
 }
 );
 leftKerningGroup = n;

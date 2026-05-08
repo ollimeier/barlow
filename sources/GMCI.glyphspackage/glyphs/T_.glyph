@@ -6,53 +6,6 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{248, 0}";
-},
-{
-name = top;
-position = "{243, 700}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{1, 2}";
-target = "{1, 3}";
-type = Stem;
-},
-{
-origin = "{0, 3}";
-target = "{0, 0}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"254 0 LINE",
-"254 689 LINE",
-"232 689 LINE",
-"232 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"473 679 LINE",
-"473 700 LINE",
-"23 700 LINE",
-"23 679 LINE"
-);
-}
-);
-width = 496;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{233, 0}";
 },
 {
@@ -121,35 +74,95 @@ width = 591;
 anchors = (
 {
 name = bottom;
-position = "{171, -4}";
+position = "{173.988, -3.807}";
 },
 {
 name = top;
-position = "{168, 700}";
+position = "{171.566, 700}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{1, 2}";
+target = "{1, 3}";
+type = Stem;
+},
+{
+origin = "{0, 3}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"178 0 LINE",
-"178 689 LINE",
-"156 689 LINE",
-"156 0 LINE"
+"185.422 0 LINE",
+"185.422 689 LINE",
+"155.422 689 LINE",
+"155.422 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"327 679 LINE",
-"327 700 LINE",
-"16 700 LINE",
-"16 679 LINE"
+"333.94 672.253 LINE",
+"333.94 700 LINE",
+"15.614 700 LINE",
+"15.614 672.253 LINE"
 );
 }
 );
-width = 343;
+width = 349.55422;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{250.12, 0}";
+},
+{
+name = top;
+position = "{245.41, 700}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{1, 2}";
+target = "{1, 3}";
+type = Stem;
+},
+{
+origin = "{0, 3}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"260.41 0 LINE",
+"260.41 689 LINE",
+"230.41 689 LINE",
+"230.41 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"477.916 672.205 LINE",
+"477.916 700 LINE",
+"22.663 700 LINE",
+"22.663 672.205 LINE"
+);
+}
+);
+width = 500.57831;
 }
 );
 leftKerningGroup = T;

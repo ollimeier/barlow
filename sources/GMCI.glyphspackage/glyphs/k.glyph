@@ -6,49 +6,6 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{254, 0}";
-}
-);
-guideLines = (
-{
-angle = 180;
-position = "{273, 0}";
-showMeasurement = 1;
-}
-);
-hints = (
-{
-origin = "{0, 11}";
-target = "{0, 0}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"113 0 LINE",
-"113 198 LINE",
-"261 345 LINE",
-"413 0 LINE",
-"437 0 LINE",
-"277 361 LINE",
-"417 500 LINE",
-"387 500 LINE",
-"113 226 LINE",
-"113 700 LINE",
-"91 700 LINE",
-"91 0 LINE"
-);
-}
-);
-width = 469;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{242, 0}";
 }
 );
@@ -107,37 +64,73 @@ width = 548;
 anchors = (
 {
 name = bottom;
-position = "{187, 0}";
+position = "{189.651, 0}";
 }
 );
-guideLines = (
+hints = (
 {
-angle = 180;
-position = "{268, 0}";
-showMeasurement = 1;
+origin = "{0, 11}";
+target = "{0, 0}";
+type = Stem;
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"84 0 LINE",
-"84 200 LINE",
-"192 345 LINE",
-"303 0 LINE",
-"327 0 LINE",
-"207 363 LINE",
-"311 500 LINE",
-"285 500 LINE",
-"84 232 LINE",
-"84 700 LINE",
-"62 700 LINE",
-"62 0 LINE"
+"90.072 0 LINE",
+"90.072 196.916 LINE",
+"193.446 336.325 LINE",
+"301.651 0 LINE",
+"333.843 0 LINE",
+"213.313 360.687 LINE",
+"318.325 500.964 LINE",
+"284.181 500.964 LINE",
+"90.072 239.614 LINE",
+"90.072 700 LINE",
+"60.072 700 LINE",
+"60.072 0 LINE"
 );
 }
 );
-width = 342;
+width = 347.3494;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{255.783, 0}";
+}
+);
+hints = (
+{
+origin = "{0, 11}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"118.639 0 LINE",
+"118.639 195.494 LINE",
+"261.386 338.542 LINE",
+"410.349 0 LINE",
+"442.735 0 LINE",
+"282.831 359.265 LINE",
+"423.024 500.964 LINE",
+"384.157 500.964 LINE",
+"118.639 233.807 LINE",
+"118.639 700 LINE",
+"88.639 700 LINE",
+"88.639 0 LINE"
+);
+}
+);
+width = 472.80723;
 }
 );
 leftKerningGroup = b;

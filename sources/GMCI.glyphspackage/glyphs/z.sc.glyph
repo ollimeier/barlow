@@ -5,39 +5,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{164, 587}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"289 0 LINE",
-"289 21 LINE",
-"61 21 LINE",
-"289 555 LINE",
-"289 576 LINE",
-"36 576 LINE",
-"36 555 LINE",
-"265 555 LINE",
-"36 21 LINE",
-"36 0 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 86;
-width = 97;
-};
-};
-width = 330;
-},
-{
-anchors = (
-{
-name = top;
 position = "{246, 589}";
 }
 );
@@ -104,7 +71,7 @@ width = 406;
 anchors = (
 {
 name = top;
-position = "{223, 587}";
+position = "{165.783, 587.096}";
 }
 );
 hints = (
@@ -131,21 +98,21 @@ target = "{0, 2}";
 type = Stem;
 }
 );
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"412 0 LINE",
-"412 21 LINE",
-"70 21 LINE",
-"412 555 LINE",
-"412 576 LINE",
-"45 576 LINE",
-"45 555 LINE",
-"387 555 LINE",
-"45 21 LINE",
-"45 0 LINE"
+"294.108 0 LINE",
+"294.108 27.747 LINE",
+"67.506 27.747 LINE",
+"294.108 548.349 LINE",
+"294.108 576.096 LINE",
+"34.747 576.096 LINE",
+"34.747 548.349 LINE",
+"262.205 548.349 LINE",
+"34.747 27.747 LINE",
+"34.747 0 LINE"
 );
 }
 );
@@ -155,7 +122,64 @@ height = 86;
 width = 97;
 };
 };
-width = 465;
+width = 333.66265;
+},
+{
+anchors = (
+{
+name = top;
+position = "{224.108, 587.096}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+origin = "{0, 7}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 2}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"414.651 0 LINE",
+"414.651 27.747 LINE",
+"77.277 27.747 LINE",
+"414.651 547.916 LINE",
+"414.651 576.096 LINE",
+"43.554 576.096 LINE",
+"43.554 548.349 LINE",
+"380.783 548.349 LINE",
+"43.554 28.181 LINE",
+"43.554 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 465.91566;
 }
 );
 leftKerningGroup = Z;

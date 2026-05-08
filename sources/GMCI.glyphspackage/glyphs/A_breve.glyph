@@ -9,19 +9,6 @@ name = A;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 139, 200}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 549;
-},
-{
-components = (
-{
-name = A;
-},
-{
-name = breve;
 transform = "{1, 0, 0, 1, 144, 179}";
 }
 );
@@ -35,11 +22,11 @@ name = A;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 70, 200}";
+transform = "{1, 0, 0, 1, 113, 180}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 384;
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 504;
 },
 {
 components = (
@@ -48,11 +35,24 @@ name = A;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 113, 180}";
+transform = "{1, 0, 0, 1, 72, 199}";
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 504;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 390;
+},
+{
+components = (
+{
+name = A;
+},
+{
+name = breve;
+transform = "{1, 0, 0, 1, 139, 199}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 555;
 }
 );
 leftKerningGroup = A;

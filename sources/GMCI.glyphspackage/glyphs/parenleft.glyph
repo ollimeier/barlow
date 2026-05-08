@@ -3,48 +3,6 @@ color = 0;
 glyphname = parenleft;
 layers = (
 {
-hints = (
-{
-origin = "{0, 10}";
-target = "{0, 3}";
-type = Stem;
-},
-{
-origin = "{0, 7}";
-target = "{0, 6}";
-type = Stem;
-},
-{
-origin = "{0, 13}";
-target = "{0, 0}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"188 -113 LINE",
-"131 -17 OFFCURVE",
-"93 157 OFFCURVE",
-"93 322 CURVE SMOOTH",
-"93 490 OFFCURVE",
-"131 668 OFFCURVE",
-"188 766 CURVE",
-"167 766 LINE",
-"107 667 OFFCURVE",
-"67 489 OFFCURVE",
-"67 320 CURVE SMOOTH",
-"67 156 OFFCURVE",
-"106 -17 OFFCURVE",
-"164 -113 CURVE"
-);
-}
-);
-width = 232;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -95,29 +53,88 @@ nodes = (
 width = 369;
 },
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+origin = "{0, 10}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 7}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+origin = "{0, 13}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"144 -113 LINE",
-"101 -17 OFFCURVE",
-"71 157 OFFCURVE",
-"71 322 CURVE SMOOTH",
-"71 490 OFFCURVE",
-"101 668 OFFCURVE",
-"144 766 CURVE",
-"123 766 LINE",
-"76 667 OFFCURVE",
-"45 489 OFFCURVE",
-"45 320 CURVE SMOOTH",
-"45 156 OFFCURVE",
-"76 -17 OFFCURVE",
-"120 -113 CURVE"
+"153.157 -111.554 LINE",
+"110.012 -15.699 OFFCURVE",
+"78.47 156.036 OFFCURVE",
+"78.47 322.723 CURVE SMOOTH",
+"78.47 492.217 OFFCURVE",
+"110.012 667.807 OFFCURVE",
+"153.157 765.518 CURVE",
+"124.205 765.518 LINE",
+"76.096 666.904 OFFCURVE",
+"43.602 491.265 OFFCURVE",
+"43.602 320.819 CURVE SMOOTH",
+"43.602 155.084 OFFCURVE",
+"76.096 -15.747 OFFCURVE",
+"121.349 -111.554 CURVE"
 );
 }
 );
-width = 167;
+width = 174.61446;
+},
+{
+hints = (
+{
+origin = "{0, 10}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 7}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+origin = "{0, 13}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"196.578 -111.554 LINE",
+"139.578 -15.699 OFFCURVE",
+"100.084 156.036 OFFCURVE",
+"100.084 322.723 CURVE SMOOTH",
+"100.084 492.217 OFFCURVE",
+"139.578 667.807 OFFCURVE",
+"196.578 765.518 CURVE",
+"167.627 765.518 LINE",
+"106.614 666.904 OFFCURVE",
+"65.217 491.265 OFFCURVE",
+"65.217 320.819 CURVE SMOOTH",
+"65.217 155.084 OFFCURVE",
+"105.663 -15.747 OFFCURVE",
+"164.771 -111.554 CURVE"
+);
+}
+);
+width = 238.60241;
 }
 );
 unicode = 0028;

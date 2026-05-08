@@ -6,50 +6,6 @@ layers = (
 components = (
 {
 name = Y;
-transform = "{1, 0, 0, 1, -1, 0}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{1, 0}";
-target = "{1, 1}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"430 323 LINE",
-"430 343 LINE",
-"94 343 LINE",
-"94 323 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"430 193 LINE",
-"430 213 LINE",
-"94 213 LINE",
-"94 193 LINE"
-);
-}
-);
-width = 520;
-},
-{
-components = (
-{
-name = Y;
 transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
@@ -80,36 +36,6 @@ width = 643;
 components = (
 {
 name = Y;
-transform = "{1, 0, 0, 1, 12, 0}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"379 324 LINE",
-"379 344 LINE",
-"43 344 LINE",
-"43 324 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"379 210 LINE",
-"379 230 LINE",
-"43 230 LINE",
-"43 210 LINE"
-);
-}
-);
-width = 412;
-},
-{
-components = (
-{
-name = Y;
 transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
@@ -135,6 +61,94 @@ nodes = (
 }
 );
 width = 506;
+},
+{
+components = (
+{
+name = Y;
+transform = "{1, 0, 0, 1, 11.952, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"383.867 319.518 LINE",
+"383.867 343.422 LINE",
+"43.048 343.422 LINE",
+"43.048 319.518 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"383.867 204.699 LINE",
+"383.867 228.602 LINE",
+"43.048 228.602 LINE",
+"43.048 204.699 LINE"
+);
+}
+);
+width = 416.53012;
+},
+{
+components = (
+{
+name = Y;
+transform = "{1, 0, 0, 1, -0.422, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"436.458 318.518 LINE",
+"436.458 342.422 LINE",
+"94.675 342.422 LINE",
+"94.675 318.518 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"436.458 187.988 LINE",
+"436.458 211.892 LINE",
+"94.675 211.892 LINE",
+"94.675 187.988 LINE"
+);
+}
+);
+width = 525.92771;
 }
 );
 unicode = 00A5;

@@ -9,19 +9,6 @@ name = t;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 124, 12}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 293;
-},
-{
-components = (
-{
-name = t;
-},
-{
-name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 105, -4}";
 }
 );
@@ -35,11 +22,11 @@ name = t;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 80, 13}";
+transform = "{1, 0, 0, 1, 49, 3}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 209;
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+width = 301;
 },
 {
 components = (
@@ -48,11 +35,24 @@ name = t;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 49, 3}";
+transform = "{1, 0, 0, 1, 79, 13}";
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 301;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 213;
+},
+{
+components = (
+{
+name = t;
+},
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 123, 11}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 298;
 }
 );
 leftKerningGroup = t;

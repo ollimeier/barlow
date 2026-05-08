@@ -6,33 +6,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{78, 500}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"50 -211 OFFCURVE",
-"89 -159 OFFCURVE",
-"89 -74 CURVE SMOOTH",
-"89 500 LINE",
-"67 500 LINE",
-"67 -74 LINE SMOOTH",
-"67 -146 OFFCURVE",
-"35 -190 OFFCURVE",
-"-21 -190 CURVE",
-"-21 -211 LINE"
-);
-}
-);
-width = 151;
-},
-{
-anchors = (
-{
-name = top;
 position = "{116, 520}";
 }
 );
@@ -60,46 +33,6 @@ width = 232;
 anchors = (
 {
 name = top;
-position = "{110, 500}";
-}
-);
-hints = (
-{
-origin = "{0, 4}";
-target = "{0, 3}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 9}";
-target = "{0, 8}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"68 -211 OFFCURVE",
-"121 -159 OFFCURVE",
-"121 -74 CURVE SMOOTH",
-"121 500 LINE",
-"99 500 LINE",
-"99 -74 LINE SMOOTH",
-"99 -146 OFFCURVE",
-"55 -190 OFFCURVE",
-"-18 -190 CURVE",
-"-18 -211 LINE"
-);
-}
-);
-width = 212;
-},
-{
-anchors = (
-{
-name = top;
 position = "{137, 520}";
 }
 );
@@ -122,6 +55,86 @@ nodes = (
 }
 );
 width = 273;
+},
+{
+anchors = (
+{
+name = top;
+position = "{79.831, 500.964}";
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 9}";
+target = "{0, 8}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"57.47 -210.952 OFFCURVE",
+"94.831 -157.12 OFFCURVE",
+"94.831 -69.036 CURVE SMOOTH",
+"94.831 500.964 LINE",
+"64.831 500.964 LINE",
+"64.831 -69.036 LINE SMOOTH",
+"64.831 -139.88 OFFCURVE",
+"33.651 -183.205 OFFCURVE",
+"-23.554 -182.819 CURVE",
+"-23.554 -210.518 LINE"
+);
+}
+);
+width = 154.90361;
+},
+{
+anchors = (
+{
+name = top;
+position = "{111.301, 500.964}";
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 9}";
+target = "{0, 8}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"72.916 -210.904 OFFCURVE",
+"126.301 -159.193 OFFCURVE",
+"126.301 -69.036 CURVE SMOOTH",
+"126.301 500.964 LINE",
+"96.157 500.964 LINE",
+"96.301 -69.181 LINE SMOOTH",
+"96.301 -140.795 OFFCURVE",
+"53.265 -183.349 OFFCURVE",
+"-20.795 -182.964 CURVE",
+"-20.795 -210.518 LINE"
+);
+}
+);
+width = 214.93976;
 }
 );
 unicode = 0237;

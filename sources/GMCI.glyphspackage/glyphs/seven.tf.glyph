@@ -2,32 +2,6 @@
 glyphname = seven.tf;
 layers = (
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"152 0 LINE",
-"337 679 LINE",
-"337 700 LINE",
-"40 700 LINE",
-"40 622 LINE",
-"61 622 LINE",
-"61 679 LINE",
-"313 679 LINE",
-"126 0 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-monoWidth = 390;
-useSpacing = 80;
-};
-};
-width = 387;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -55,45 +29,6 @@ useSpacing = 70;
 width = 480;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = "{0, 2}";
-target = "{0, 8}";
-type = Stem;
-},
-{
-origin = "{0, 4}";
-target = "{0, 4}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"199 0 LINE",
-"466 679 LINE",
-"466 700 LINE",
-"50 700 LINE",
-"50 622 LINE",
-"72 622 LINE",
-"72 679 LINE",
-"442 679 LINE",
-"174 0 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-monoWidth = 515;
-useSpacing = 42;
-};
-};
-width = 526;
-},
-{
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 paths = (
 {
@@ -119,6 +54,84 @@ useSpacing = 61;
 };
 };
 width = 558;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 2}";
+target = "{0, 8}";
+type = Stem;
+},
+{
+origin = "{0, 4}";
+target = "{0, 4}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"158.024 0 LINE",
+"343.169 672.253 LINE",
+"343.169 700 LINE",
+"38.651 700 LINE",
+"38.602 615.639 LINE",
+"65.867 615.639 LINE",
+"65.867 672.253 LINE",
+"310.783 672.253 LINE",
+"123.831 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 390;
+useSpacing = 80;
+};
+};
+width = 391.48193;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 2}";
+target = "{0, 8}";
+type = Stem;
+},
+{
+origin = "{0, 4}";
+target = "{0, 4}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"204.157 0 LINE",
+"469.181 672.253 LINE",
+"469.181 700 LINE",
+"48.651 700 LINE",
+"48.602 614.867 LINE",
+"76.867 614.867 LINE",
+"76.867 672.253 LINE",
+"436.795 672.253 LINE",
+"170.723 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 515;
+useSpacing = 42;
+};
+};
+width = 527.54217;
 }
 );
 userData = {

@@ -5,42 +5,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{259, 576}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"171 0 LINE",
-"260 532 LINE",
-"346 0 LINE",
-"369 0 LINE",
-"477 576 LINE",
-"453 576 LINE",
-"359 41 LINE",
-"270 576 LINE",
-"248 576 LINE",
-"161 41 LINE",
-"59 576 LINE",
-"36 576 LINE",
-"150 0 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 86;
-width = 97;
-};
-};
-width = 513;
-},
-{
-anchors = (
-{
-name = top;
 position = "{384, 578}";
 }
 );
@@ -119,7 +83,7 @@ width = 692;
 anchors = (
 {
 name = top;
-position = "{379, 576}";
+position = "{262.952, 576.096}";
 }
 );
 hints = (
@@ -149,24 +113,24 @@ target = "{0, 4}";
 type = Stem;
 }
 );
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"226 0 LINE",
-"379 541 LINE",
-"532 0 LINE",
-"554 0 LINE",
-"725 576 LINE",
-"702 576 LINE",
-"543 40 LINE",
-"390 576 LINE",
-"367 576 LINE",
-"216 40 LINE",
-"59 576 LINE",
-"37 576 LINE",
-"204 0 LINE"
+"177.795 0 LINE",
+"264.145 517.928 LINE",
+"348.024 0 LINE",
+"377.916 0 LINE",
+"486.88 576.096 LINE",
+"454.88 576.096 LINE",
+"364.108 55.12 LINE",
+"277.373 576.096 LINE",
+"249.205 576.096 LINE",
+"164.614 55.12 LINE",
+"65.988 576.096 LINE",
+"34.747 576.096 LINE",
+"149.759 0 LINE"
 );
 }
 );
@@ -176,7 +140,70 @@ height = 86;
 width = 97;
 };
 };
-width = 762;
+width = 521.62651;
+},
+{
+anchors = (
+{
+name = top;
+position = "{379.241, 576.096}";
+}
+);
+hints = (
+{
+origin = "{0, 11}";
+target = "{0, 10}";
+type = Stem;
+},
+{
+origin = "{0, 12}";
+target = "{0, 0}";
+type = Stem;
+},
+{
+origin = "{0, 8}";
+target = "{0, 7}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 4}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"231.639 0 LINE",
+"379.241 526.928 LINE",
+"527.422 0 LINE",
+"557.084 0 LINE",
+"726.542 576.096 LINE",
+"695.398 576.096 LINE",
+"541.988 52.916 LINE",
+"394.434 576.096 LINE",
+"363.289 576.096 LINE",
+"217.831 52.916 LINE",
+"66.373 576.096 LINE",
+"35.747 576.096 LINE",
+"202.313 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 762.28916;
 }
 );
 leftKerningGroup = V;

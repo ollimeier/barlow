@@ -6,35 +6,6 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{43, 500}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"65 616 OFFCURVE",
-"82 633 OFFCURVE",
-"82 656 CURVE SMOOTH",
-"82 679 OFFCURVE",
-"65 696 OFFCURVE",
-"42 696 CURVE SMOOTH",
-"19 696 OFFCURVE",
-"2 679 OFFCURVE",
-"2 656 CURVE SMOOTH",
-"2 633 OFFCURVE",
-"19 616 OFFCURVE",
-"42 616 CURVE SMOOTH"
-);
-}
-);
-width = 84;
-},
-{
-anchors = (
-{
-name = _top;
 position = "{105, 520}";
 }
 );
@@ -64,35 +35,6 @@ width = 210;
 anchors = (
 {
 name = _top;
-position = "{42, 500}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"65 616 OFFCURVE",
-"82 633 OFFCURVE",
-"82 656 CURVE SMOOTH",
-"82 679 OFFCURVE",
-"65 696 OFFCURVE",
-"42 696 CURVE SMOOTH",
-"19 696 OFFCURVE",
-"2 679 OFFCURVE",
-"2 656 CURVE SMOOTH",
-"2 633 OFFCURVE",
-"19 616 OFFCURVE",
-"42 616 CURVE SMOOTH"
-);
-}
-);
-width = 84;
-},
-{
-anchors = (
-{
-name = _top;
 position = "{105, 520}";
 }
 );
@@ -117,6 +59,64 @@ nodes = (
 }
 );
 width = 210;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{45.036, 500.964}";
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"69.53 613.06 OFFCURVE",
+"87.639 631.169 OFFCURVE",
+"87.639 655.663 CURVE SMOOTH",
+"87.639 680.253 OFFCURVE",
+"69.578 698.265 OFFCURVE",
+"45.036 698.265 CURVE SMOOTH",
+"20.494 698.265 OFFCURVE",
+"2.434 680.253 OFFCURVE",
+"2.434 655.663 CURVE SMOOTH",
+"2.434 631.169 OFFCURVE",
+"20.494 613.06 OFFCURVE",
+"45.036 613.06 CURVE SMOOTH"
+);
+}
+);
+width = 90.07229;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{45.988, 500.964}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"69.53 613.06 OFFCURVE",
+"87.639 631.169 OFFCURVE",
+"87.639 655.663 CURVE SMOOTH",
+"87.639 680.253 OFFCURVE",
+"69.578 698.265 OFFCURVE",
+"45.036 698.265 CURVE SMOOTH",
+"20.494 698.265 OFFCURVE",
+"2.434 680.253 OFFCURVE",
+"2.434 655.663 CURVE SMOOTH",
+"2.434 631.169 OFFCURVE",
+"20.494 613.06 OFFCURVE",
+"45.036 613.06 CURVE SMOOTH"
+);
+}
+);
+width = 90.07229;
 }
 );
 unicode = 0307;

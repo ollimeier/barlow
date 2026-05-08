@@ -5,41 +5,6 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{202, 0}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"98 0 LINE",
-"98 223 LINE",
-"172 330 LINE",
-"320 0 LINE",
-"347 0 LINE",
-"188 351 LINE",
-"333 576 LINE",
-"306 576 LINE",
-"98 257 LINE",
-"98 576 LINE",
-"76 576 LINE",
-"76 0 LINE"
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 86;
-width = 97;
-};
-};
-width = 365;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{259, 0}";
 }
 );
@@ -110,7 +75,7 @@ width = 496;
 anchors = (
 {
 name = bottom;
-position = "{279, 0}";
+position = "{204.988, 0}";
 }
 );
 hints = (
@@ -130,23 +95,23 @@ target = "{0, 0}";
 type = Stem;
 }
 );
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"121 0 LINE",
-"121 226 LINE",
-"224 325 LINE",
-"465 0 LINE",
-"492 0 LINE",
-"240 342 LINE",
-"472 576 LINE",
-"446 576 LINE",
-"121 255 LINE",
-"121 576 LINE",
-"99 576 LINE",
-"99 0 LINE"
+"103.349 0 LINE",
+"103.349 218.663 LINE",
+"174.651 322.241 LINE",
+"318.699 0 LINE",
+"353.94 0 LINE",
+"196.193 349.843 LINE",
+"340.566 576.096 LINE",
+"305.325 576.096 LINE",
+"103.349 264.566 LINE",
+"103.349 576.096 LINE",
+"73.349 576.096 LINE",
+"73.349 0 LINE"
 );
 }
 );
@@ -156,7 +121,59 @@ height = 86;
 width = 97;
 };
 };
-width = 514;
+width = 371.31325;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{278.036, 0}";
+}
+);
+hints = (
+{
+origin = "{0, 7}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+origin = "{0, 3}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+origin = "{0, 11}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"125.241 0 LINE",
+"125.241 221.759 LINE",
+"224.723 318.735 LINE",
+"458.976 0 LINE",
+"494.602 0 LINE",
+"246.12 341.084 LINE",
+"475.47 576.096 LINE",
+"440.795 576.096 LINE",
+"125.241 260.687 LINE",
+"125.241 576.096 LINE",
+"95.241 576.096 LINE",
+"95.241 0 LINE"
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 86;
+width = 97;
+};
+};
+width = 515.73494;
 }
 );
 rightKerningGroup = K;

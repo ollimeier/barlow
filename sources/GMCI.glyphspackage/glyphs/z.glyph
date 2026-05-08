@@ -6,47 +6,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{221, 500}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{0, 5}";
-target = "{0, 6}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"398 0 LINE",
-"398 21 LINE",
-"70 21 LINE",
-"401 479 LINE",
-"401 500 LINE",
-"49 500 LINE",
-"49 479 LINE",
-"377 479 LINE",
-"46 21 LINE",
-"46 0 LINE"
-);
-}
-);
-width = 447;
-},
-{
-anchors = (
-{
-name = top;
 position = "{196, 520}";
 }
 );
@@ -101,28 +60,83 @@ width = 492;
 anchors = (
 {
 name = top;
-position = "{163, 500}";
+position = "{164.59, 500.964}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"292 0 LINE",
-"292 21 LINE",
-"51 21 LINE",
-"294 479 LINE",
-"294 500 LINE",
-"28 500 LINE",
-"28 479 LINE",
-"269 479 LINE",
-"26 21 LINE",
-"26 0 LINE"
+"296.241 0 LINE",
+"296.241 28.181 LINE",
+"59.578 28.181 LINE",
+"297.711 472.783 LINE",
+"297.711 500.964 LINE",
+"27.711 500.964 LINE",
+"27.711 472.783 LINE",
+"263.12 472.783 LINE",
+"25.47 28.181 LINE",
+"25.47 0 LINE"
 );
 }
 );
-width = 320;
+width = 323.51807;
+},
+{
+anchors = (
+{
+name = top;
+position = "{222.157, 500.964}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 6}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"401.084 0 LINE",
+"401.084 28.181 LINE",
+"78.434 28.181 LINE",
+"403.554 472.783 LINE",
+"403.554 500.964 LINE",
+"48.47 500.964 LINE",
+"48.47 472.783 LINE",
+"369.964 472.783 LINE",
+"45.277 28.181 LINE",
+"45.277 0 LINE"
+);
+}
+);
+width = 449.16867;
 }
 );
 leftKerningGroup = z;

@@ -6,16 +6,6 @@ layers = (
 components = (
 {
 name = question;
-transform = "{-1, 0, 0, -1, 418, 500}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 418;
-},
-{
-components = (
-{
-name = question;
 transform = "{-1, 0, 0, -1, 483, 500}";
 }
 );
@@ -36,11 +26,21 @@ width = 562;
 components = (
 {
 name = question;
-transform = "{-1, 0, 0, -1, 322, 500}";
+transform = "{-1, 0, 0, -1, 329.759, 500}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 322;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 329.75904;
+},
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 424.94, 500}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 424.93976;
 }
 );
 unicode = 00BF;

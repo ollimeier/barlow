@@ -6,70 +6,6 @@ layers = (
 components = (
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 145, -611}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{0, 7}";
-target = "{0, 16}";
-type = Stem;
-},
-{
-origin = "{0, 10}";
-target = "{0, 13}";
-type = Stem;
-},
-{
-origin = "{0, 19}";
-target = "{0, 4}";
-type = Stem;
-},
-{
-origin = "{0, 22}";
-target = "{0, 1}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"198 185 LINE",
-"198 271 LINE",
-"198 372 OFFCURVE",
-"362 391 OFFCURVE",
-"362 546 CURVE SMOOTH",
-"362 645 OFFCURVE",
-"303 709 OFFCURVE",
-"203 709 CURVE SMOOTH",
-"103 709 OFFCURVE",
-"43 645 OFFCURVE",
-"43 550 CURVE SMOOTH",
-"43 500 LINE",
-"65 500 LINE",
-"65 550 LINE SMOOTH",
-"65 633 OFFCURVE",
-"121 688 OFFCURVE",
-"203 688 CURVE SMOOTH",
-"285 688 OFFCURVE",
-"340 633 OFFCURVE",
-"340 549 CURVE SMOOTH",
-"340 395 OFFCURVE",
-"174 394 OFFCURVE",
-"174 263 CURVE",
-"174 185 LINE"
-);
-}
-);
-width = 409;
-},
-{
-components = (
-{
-name = dotaccentcomb;
 transform = "{1, 0, 0, 1, 122, -560}";
 }
 );
@@ -152,42 +88,129 @@ width = 556;
 components = (
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 95, -611}";
+transform = "{1, 0, 0, 1, 96.301, -608.542}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{0, 7}";
+target = "{0, 16}";
+type = Stem;
+},
+{
+origin = "{0, 10}";
+target = "{0, 13}";
+type = Stem;
+},
+{
+origin = "{0, 19}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+origin = "{0, 22}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"148 185 LINE",
-"148 276 LINE",
-"148 377 OFFCURVE",
-"273 380 OFFCURVE",
-"273 546 CURVE SMOOTH",
-"273 645 OFFCURVE",
-"234 709 OFFCURVE",
-"150 709 CURVE SMOOTH",
-"65 709 OFFCURVE",
-"24 645 OFFCURVE",
-"24 550 CURVE SMOOTH",
-"24 500 LINE",
-"46 500 LINE",
-"46 550 LINE SMOOTH",
-"46 633 OFFCURVE",
-"83 688 OFFCURVE",
-"150 688 CURVE SMOOTH",
-"215 688 OFFCURVE",
-"251 633 OFFCURVE",
-"251 549 CURVE SMOOTH",
-"251 384 OFFCURVE",
-"124 394 OFFCURVE",
-"124 271 CURVE",
-"124 185 LINE"
+"156.289 187.458 LINE",
+"156.289 274.843 LINE",
+"156.289 375.169 OFFCURVE",
+"282.59 377.976 OFFCURVE",
+"282.59 543.928 CURVE SMOOTH",
+"282.59 644.133 OFFCURVE",
+"241.277 709.048 OFFCURVE",
+"154.723 709.048 CURVE SMOOTH",
+"66.976 709.048 OFFCURVE",
+"23.277 643.795 OFFCURVE",
+"23.277 547.012 CURVE SMOOTH",
+"23.277 498.94 LINE",
+"53.277 498.506 LINE",
+"53.277 547.012 LINE SMOOTH",
+"53.277 627.41 OFFCURVE",
+"89.265 680.819 OFFCURVE",
+"154.482 680.819 CURVE SMOOTH",
+"217.506 680.819 OFFCURVE",
+"252.494 627.651 OFFCURVE",
+"252.494 546.349 CURVE SMOOTH",
+"252.494 385.639 OFFCURVE",
+"124.482 394.771 OFFCURVE",
+"124.482 270.663 CURVE",
+"124.482 187.458 LINE"
 );
 }
 );
-width = 302;
+width = 310.77108;
+},
+{
+components = (
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 145.145, -608.542}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 7}";
+target = "{0, 16}";
+type = Stem;
+},
+{
+origin = "{0, 10}";
+target = "{0, 13}";
+type = Stem;
+},
+{
+origin = "{0, 19}";
+target = "{0, 4}";
+type = Stem;
+},
+{
+origin = "{0, 22}";
+target = "{0, 1}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"205.47 187.458 LINE",
+"205.47 270.084 LINE",
+"205.47 370.41 OFFCURVE",
+"370.434 388.446 OFFCURVE",
+"370.434 543.928 CURVE SMOOTH",
+"370.434 644.133 OFFCURVE",
+"309.506 709.048 OFFCURVE",
+"206.904 709.048 CURVE SMOOTH",
+"104.06 709.048 OFFCURVE",
+"41.699 643.795 OFFCURVE",
+"41.699 547.012 CURVE SMOOTH",
+"41.699 498.94 LINE",
+"71.699 498.506 LINE",
+"71.699 547.012 LINE SMOOTH",
+"71.699 627.41 OFFCURVE",
+"126.349 680.819 OFFCURVE",
+"206.663 680.819 CURVE SMOOTH",
+"286.687 680.819 OFFCURVE",
+"340.337 627.651 OFFCURVE",
+"340.337 546.349 CURVE SMOOTH",
+"340.337 396.108 OFFCURVE",
+"173.614 394.771 OFFCURVE",
+"173.614 263.048 CURVE",
+"173.614 187.458 LINE"
+);
+}
+);
+width = 416.08434;
 }
 );
 unicode = 003F;

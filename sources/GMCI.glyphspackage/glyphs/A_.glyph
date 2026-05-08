@@ -6,56 +6,6 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{275, 0}";
-},
-{
-name = ogonek;
-position = "{500, 10}";
-},
-{
-name = top;
-position = "{274, 700}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{1, 0}";
-target = "{0, 7}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"54 0 LINE",
-"277 680 LINE",
-"271 680 LINE",
-"496 0 LINE",
-"518 0 LINE",
-"285 700 LINE",
-"263 700 LINE",
-"32 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"451 155 LINE",
-"451 176 LINE",
-"100 176 LINE",
-"100 155 LINE"
-);
-}
-);
-width = 549;
-},
-{
-anchors = (
-{
-name = bottom;
 position = "{252, 0}";
 },
 {
@@ -140,43 +90,101 @@ width = 680;
 anchors = (
 {
 name = bottom;
-position = "{193, 0}";
+position = "{195.843, 0}";
 },
 {
 name = ogonek;
-position = "{336, 10}";
+position = "{342.169, 10}";
 },
 {
 name = top;
-position = "{192, 700}";
+position = "{194.892, 700}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{0, 7}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"45 0 LINE",
-"194 671 LINE",
-"190 671 LINE",
-"340 0 LINE",
-"362 0 LINE",
-"203 700 LINE",
-"180 700 LINE",
-"23 0 LINE"
+"51.795 0 LINE",
+"197.036 663.723 LINE",
+"192.265 663.723 LINE",
+"338.699 0 LINE",
+"368.892 0 LINE",
+"210.422 700 LINE",
+"178.41 700 LINE",
+"21.795 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"317 155 LINE",
-"317 176 LINE",
-"71 176 LINE",
-"71 155 LINE"
+"320.277 152.108 LINE",
+"320.277 179.036 LINE",
+"73.12 179.036 LINE",
+"73.12 152.108 LINE"
 );
 }
 );
-width = 384;
+width = 389.78313;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{278.133, 0}";
+},
+{
+name = ogonek;
+position = "{506.072, 10}";
+},
+{
+name = top;
+position = "{277.084, 700}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{0, 7}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"61.181 0 LINE",
+"280.518 672.289 LINE",
+"273.699 672.289 LINE",
+"495.084 0 LINE",
+"525.759 0 LINE",
+"293.386 700 LINE",
+"260.976 700 LINE",
+"30.506 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453.651 152.108 LINE",
+"453.651 179.036 LINE",
+"103.422 179.036 LINE",
+"103.422 152.108 LINE"
+);
+}
+);
+width = 555.31325;
 }
 );
 leftKerningGroup = A;

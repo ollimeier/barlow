@@ -6,16 +6,6 @@ layers = (
 components = (
 {
 name = guilsinglright;
-transform = "{-1, 0, 0, 1, 383, 0}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 383;
-},
-{
-components = (
-{
-name = guilsinglright;
 transform = "{-1, 0, 0, 1, 316, 0}";
 }
 );
@@ -26,21 +16,31 @@ width = 316;
 components = (
 {
 name = guilsinglright;
-transform = "{-1, 0, 0, 1, 321, 0}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 321;
-},
-{
-components = (
-{
-name = guilsinglright;
 transform = "{-1, 0, 0, 1, 280, 0}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 280;
+},
+{
+components = (
+{
+name = guilsinglright;
+transform = "{-1, 0, 0, 1, 319.024, 0}";
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 319.0241;
+},
+{
+components = (
+{
+name = guilsinglright;
+transform = "{-1, 0, 0, 1, 379.771, 0}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 379.77108;
 }
 );
 unicode = 2039;

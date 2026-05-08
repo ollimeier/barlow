@@ -3,51 +3,6 @@ color = 0;
 glyphname = F;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-origin = "{0, 3}";
-target = "{0, 2}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{1, 0}";
-target = "{1, 1}";
-type = Stem;
-},
-{
-origin = "{0, 5}";
-target = "{0, 0}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"122 0 LINE",
-"122 679 LINE",
-"530 679 LINE",
-"530 700 LINE",
-"100 700 LINE",
-"100 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"421 340 LINE",
-"421 361 LINE",
-"111 361 LINE",
-"111 340 LINE"
-);
-}
-);
-width = 554;
-},
-{
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 paths = (
 {
@@ -100,30 +55,94 @@ nodes = (
 width = 578;
 },
 {
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{0, 3}";
+target = "{0, 2}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"91 0 LINE",
-"91 679 LINE",
-"349 679 LINE",
-"349 700 LINE",
-"69 700 LINE",
-"69 0 LINE"
+"97.12 0 LINE",
+"97.12 672.253 LINE",
+"352.904 672.253 LINE",
+"352.904 700 LINE",
+"67.12 700 LINE",
+"67.12 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"267 340 LINE",
-"267 361 LINE",
-"80 361 LINE",
-"80 340 LINE"
+"270.422 336.627 LINE",
+"270.422 364.373 LINE",
+"81.253 364.373 LINE",
+"81.253 336.627 LINE"
 );
 }
 );
-width = 364;
+width = 367.61446;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = "{0, 3}";
+target = "{0, 2}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Stem;
+},
+{
+origin = "{0, 5}";
+target = "{0, 0}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"127.687 0 LINE",
+"127.687 672.253 LINE",
+"531.349 672.253 LINE",
+"531.349 700 LINE",
+"97.687 700 LINE",
+"97.687 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"422.157 336.867 LINE",
+"422.157 364.566 LINE",
+"111.819 364.566 LINE",
+"111.819 336.867 LINE"
+);
+}
+);
+width = 555.15663;
 }
 );
 leftKerningGroup = H;

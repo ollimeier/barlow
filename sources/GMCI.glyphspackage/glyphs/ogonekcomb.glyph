@@ -6,41 +6,6 @@ layers = (
 anchors = (
 {
 name = _bottom;
-position = "{70, -4}";
-},
-{
-name = _ogonek;
-position = "{75, 0}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"114 -158 LINE",
-"74 -168 OFFCURVE",
-"32 -162 OFFCURVE",
-"24 -118 CURVE SMOOTH",
-"16 -73 OFFCURVE",
-"51 -30 OFFCURVE",
-"88 0 CURVE",
-"66 0 LINE",
-"8 -42 OFFCURVE",
-"-6 -85 OFFCURVE",
-"2 -124 CURVE SMOOTH",
-"14 -182 OFFCURVE",
-"73 -189 OFFCURVE",
-"120 -178 CURVE"
-);
-}
-);
-width = 120;
-},
-{
-anchors = (
-{
-name = _bottom;
 position = "{110, -18}";
 },
 {
@@ -76,41 +41,6 @@ width = 189;
 anchors = (
 {
 name = _bottom;
-position = "{59, -5}";
-},
-{
-name = _ogonek;
-position = "{63, 0}";
-}
-);
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-paths = (
-{
-closed = 1;
-nodes = (
-"94 -158 LINE",
-"62 -168 OFFCURVE",
-"28 -162 OFFCURVE",
-"22 -118 CURVE SMOOTH",
-"16 -73 OFFCURVE",
-"43 -30 OFFCURVE",
-"74 0 CURVE",
-"52 0 LINE",
-"4 -40 OFFCURVE",
-"-5 -85 OFFCURVE",
-"1 -124 CURVE SMOOTH",
-"10 -182 OFFCURVE",
-"61 -189 OFFCURVE",
-"99 -178 CURVE"
-);
-}
-);
-width = 99;
-},
-{
-anchors = (
-{
-name = _bottom;
 position = "{97, -10}";
 },
 {
@@ -141,6 +71,76 @@ nodes = (
 }
 );
 width = 172;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{60.831, -5.241}";
+},
+{
+name = _ogonek;
+position = "{65.024, 0}";
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+paths = (
+{
+closed = 1;
+nodes = (
+"96.843 -154.819 LINE",
+"65.711 -164.723 OFFCURVE",
+"32.578 -158.867 OFFCURVE",
+"26.627 -116.12 CURVE SMOOTH",
+"20.675 -72.325 OFFCURVE",
+"47.289 -30.048 OFFCURVE",
+"78.723 0 CURVE",
+"51.904 0 LINE",
+"4.145 -40.048 OFFCURVE",
+"-5.145 -85.096 OFFCURVE",
+"1.096 -124.337 CURVE SMOOTH",
+"10.771 -183.928 OFFCURVE",
+"64.855 -189.145 OFFCURVE",
+"102.133 -178.193 CURVE"
+);
+}
+);
+width = 102.51807;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{71.928, -4.675}";
+},
+{
+name = _ogonek;
+position = "{77.169, 0}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"117.036 -154.386 LINE",
+"77.855 -164.723 OFFCURVE",
+"36.627 -158.867 OFFCURVE",
+"28.723 -116.12 CURVE SMOOTH",
+"20.771 -72.325 OFFCURVE",
+"55.241 -30.048 OFFCURVE",
+"92.867 0 CURVE",
+"65.855 0 LINE",
+"8.145 -41.952 OFFCURVE",
+"-6.145 -85.096 OFFCURVE",
+"2.096 -124.337 CURVE SMOOTH",
+"14.819 -184.072 OFFCURVE",
+"76.904 -189.482 OFFCURVE",
+"123.325 -178 CURVE"
+);
+}
+);
+width = 123.3253;
 }
 );
 unicode = 0328;

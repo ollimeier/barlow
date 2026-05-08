@@ -6,16 +6,6 @@ layers = (
 components = (
 {
 name = exclam;
-transform = "{1, 0, 0, -1, -1, 500}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 233;
-},
-{
-components = (
-{
-name = exclam;
 transform = "{1, 0, 0, -1, 0, 500}";
 }
 );
@@ -39,8 +29,18 @@ name = exclam;
 transform = "{1, 0, 0, -1, 0, 500}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 168;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 171.03614;
+},
+{
+components = (
+{
+name = exclam;
+transform = "{1, 0, 0, -1, -0.952, 500}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 235.26506;
 }
 );
 unicode = 00A1;

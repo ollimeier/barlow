@@ -6,16 +6,6 @@ layers = (
 components = (
 {
 name = quotedblleft;
-transform = "{-1, 0, 0, -1, 199, 1210}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 199;
-},
-{
-components = (
-{
-name = quotedblleft;
 transform = "{-1, 0, 0, -1, 421, 1160}";
 }
 );
@@ -36,11 +26,21 @@ width = 428;
 components = (
 {
 name = quotedblleft;
-transform = "{-1, 0, 0, -1, 179, 1210}";
+transform = "{-1, 0, 0, -1, 190.663, 1207.59}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 179;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 190.66265;
+},
+{
+components = (
+{
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 210.036, 1207.59}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 210.03614;
 }
 );
 unicode = 201D;

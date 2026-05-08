@@ -4,17 +4,6 @@ layers = (
 {
 components = (
 {
-alignment = -1;
-name = acutecomb;
-transform = "{1, 0, 0, 1, -94, 0}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 97;
-},
-{
-components = (
-{
 name = acutecomb;
 }
 );
@@ -27,8 +16,8 @@ components = (
 name = acutecomb;
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 97;
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+width = 250;
 },
 {
 components = (
@@ -36,8 +25,19 @@ components = (
 name = acutecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 250;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 104.37349;
+},
+{
+components = (
+{
+alignment = -1;
+name = acutecomb;
+transform = "{1, 0, 0, 1, -89.47, 0}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 104.37349;
 }
 );
 unicode = 0313;

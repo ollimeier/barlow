@@ -6,47 +6,6 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{251, 700}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{0, 5}";
-target = "{0, 9}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 9}";
-type = Stem;
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-paths = (
-{
-closed = 1;
-nodes = (
-"470 0 LINE",
-"470 21 LINE",
-"69 21 LINE",
-"470 679 LINE",
-"470 700 LINE",
-"44 700 LINE",
-"44 679 LINE",
-"446 679 LINE",
-"44 21 LINE",
-"44 0 LINE"
-);
-}
-);
-width = 514;
-},
-{
-anchors = (
-{
-name = top;
 position = "{213, 700}";
 }
 );
@@ -101,28 +60,83 @@ width = 573;
 anchors = (
 {
 name = top;
-position = "{178, 700}";
+position = "{179.687, 700}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 9}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 9}";
+type = Stem;
+}
+);
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 paths = (
 {
 closed = 1;
 nodes = (
-"321 0 LINE",
-"321 21 LINE",
-"54 21 LINE",
-"321 679 LINE",
-"321 700 LINE",
-"29 700 LINE",
-"29 679 LINE",
-"297 679 LINE",
-"29 21 LINE",
-"29 0 LINE"
+"325.434 0 LINE",
+"325.434 27.747 LINE",
+"61.566 27.747 LINE",
+"325.434 672.253 LINE",
+"325.434 700 LINE",
+"28.325 700 LINE",
+"28.325 672.253 LINE",
+"293.048 672.253 LINE",
+"28.325 27.747 LINE",
+"28.325 0 LINE"
 );
 }
 );
-width = 350;
+width = 353.71084;
+},
+{
+anchors = (
+{
+name = top;
+position = "{252.928, 700}";
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = "{0, 5}";
+target = "{0, 9}";
+type = Stem;
+},
+{
+horizontal = 1;
+origin = "{0, 0}";
+target = "{0, 9}";
+type = Stem;
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+paths = (
+{
+closed = 1;
+nodes = (
+"473.47 0 LINE",
+"473.47 27.747 LINE",
+"77.096 27.747 LINE",
+"473.47 671.819 LINE",
+"473.47 700 LINE",
+"43.373 700 LINE",
+"43.373 672.253 LINE",
+"440.602 672.253 LINE",
+"43.373 28.181 LINE",
+"43.373 0 LINE"
+);
+}
+);
+width = 516.84337;
 }
 );
 leftKerningGroup = Z;

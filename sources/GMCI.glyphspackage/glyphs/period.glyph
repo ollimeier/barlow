@@ -5,17 +5,6 @@ layers = (
 {
 components = (
 {
-alignment = -1;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 100, -610}";
-}
-);
-layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 284;
-},
-{
-components = (
-{
 name = dotaccentcomb;
 transform = "{1, 0, 0, 1, 18, -563}";
 }
@@ -37,11 +26,22 @@ width = 264;
 components = (
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 41, -610}";
+transform = "{1, 0, 0, 1, 39.892, -607.735}";
 }
 );
-layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 166;
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+width = 169.85542;
+},
+{
+components = (
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 96.145, -607.735}";
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+width = 283.03614;
 }
 );
 leftKerningGroup = comma;
