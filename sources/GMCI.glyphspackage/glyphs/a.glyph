@@ -12,7 +12,7 @@ pos = (230,0);
 },
 {
 name = ogonek;
-pos = (378,0);
+pos = (257,0);
 },
 {
 name = top;
@@ -85,7 +85,7 @@ pos = (277,0);
 },
 {
 name = ogonek;
-pos = (445,0);
+pos = (326,0);
 },
 {
 name = top;
@@ -158,7 +158,7 @@ pos = (204,0);
 },
 {
 name = ogonek;
-pos = (355,0);
+pos = (275,0);
 },
 {
 name = top;
@@ -169,7 +169,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 100,
-300
+75
 );
 };
 background = {
@@ -296,7 +296,7 @@ pos = (258,0);
 },
 {
 name = ogonek;
-pos = (419,0);
+pos = (358,0);
 },
 {
 name = top;
@@ -307,7 +307,7 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 attr = {
 coordinates = (
 100,
-500
+100
 );
 };
 layerId = "BAE5EEA3-611C-40EA-B886-6100A765A59D";
@@ -377,7 +377,7 @@ pos = (181.458,0);
 },
 {
 name = ogonek;
-pos = (336.12,0);
+pos = (287,0);
 },
 {
 name = top;
@@ -480,7 +480,7 @@ pos = (241.783,0);
 },
 {
 name = ogonek;
-pos = (397.41,0);
+pos = (383,0);
 },
 {
 name = top;
