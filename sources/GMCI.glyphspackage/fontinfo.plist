@@ -148,6 +148,7 @@ alignmentZones = (
 );
 ascender = 1000;
 capHeight = 700;
+custom = Cond;
 customParameters = (
 {
 name = typoAscender;
@@ -203,6 +204,7 @@ descender = -200;
 horizontalStems = (
 22
 );
+iconName = Light_Condensed;
 id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 userData = {
 GSCornerRadius = 8;
@@ -218,7 +220,6 @@ verticalStems = (
 );
 weight = Light;
 weightValue = 22;
-width = Condensed;
 widthValue = 300;
 xHeight = 500;
 },
@@ -233,6 +234,7 @@ alignmentZones = (
 );
 ascender = 1000;
 capHeight = 700;
+custom = Cond;
 customParameters = (
 {
 name = typoAscender;
@@ -288,6 +290,7 @@ descender = -200;
 horizontalStems = (
 188
 );
+iconName = Bold_Condensed;
 id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 userData = {
 GSCornerRadius = 8;
@@ -302,7 +305,6 @@ verticalStems = (
 );
 weight = Bold;
 weightValue = 188;
-width = Condensed;
 widthValue = 300;
 xHeight = 520;
 },
@@ -514,15 +516,15 @@ value = 250;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -576,15 +578,15 @@ value = 275;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -634,15 +636,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -693,15 +695,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -751,15 +753,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -810,15 +812,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -869,15 +871,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -929,15 +931,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -988,15 +990,15 @@ value = AddExtremes;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1484,15 +1486,15 @@ value = 250;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1551,15 +1553,15 @@ value = 275;
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1614,15 +1616,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1678,15 +1680,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1740,15 +1742,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1804,15 +1806,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1868,15 +1870,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1932,15 +1934,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
@@ -1996,15 +1998,15 @@ value = "7";
 },
 {
 name = familyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = preferredFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSFamilyName;
-value = "GMC-I Sans Condensed";
+value = "GMC-I Sans Cond";
 },
 {
 name = WWSSubfamilyName;
