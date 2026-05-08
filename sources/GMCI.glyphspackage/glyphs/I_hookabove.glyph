@@ -48,11 +48,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-168,199);
+pos = (-169,199);
 ref = hookabovecomb;
 }
 );
-width = 225;
+width = 224;
 }
 );
 unicode = 7880;

@@ -148,23 +148,23 @@ width = 215;
 anchors = (
 {
 name = _top;
-pos = (120.193,500.964);
+pos = (119,501);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-pos = (152.747,0.434);
+pos = (152,0);
 ref = dotaccentcomb;
 },
 {
 alignment = -1;
-pos = (-2.434,0.434);
+pos = (-3,0);
 ref = dotaccentcomb;
 }
 );
-width = 240;
+width = 239;
 }
 );
 unicode = 776;

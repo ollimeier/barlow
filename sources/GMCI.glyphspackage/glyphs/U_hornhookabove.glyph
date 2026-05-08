@@ -52,7 +52,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (37,199);
+pos = (35,199);
 ref = hookabovecomb;
 }
 );

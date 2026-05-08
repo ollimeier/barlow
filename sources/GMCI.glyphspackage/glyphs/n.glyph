@@ -8,11 +8,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (233,0);
+pos = (231,0);
 },
 {
 name = top;
-pos = (233,520);
+pos = (231,520);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -20,18 +20,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(210,0,l),
-(210,520,l),
-(22,520,l),
-(22,0,l)
+(208,0,l),
+(208,520,l),
+(20,520,l),
+(20,0,l)
 );
 },
 {
-pos = (167,0);
+pos = (165,0);
 ref = n.curve;
 }
 );
-width = 462;
+width = 460;
 },
 {
 anchors = (

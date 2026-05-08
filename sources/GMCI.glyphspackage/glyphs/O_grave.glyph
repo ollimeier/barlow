@@ -37,7 +37,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (119,198);
+pos = (121,198);
 ref = gravecomb;
 }
 );

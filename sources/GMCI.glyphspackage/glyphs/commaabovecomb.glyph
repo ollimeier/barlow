@@ -26,18 +26,18 @@ shapes = (
 ref = acutecomb;
 }
 );
-width = 104;
+width = 103;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-pos = (-89.47,0);
+pos = (-90,0);
 ref = acutecomb;
 }
 );
-width = 104;
+width = 103;
 }
 );
 unicode = 787;

@@ -8,18 +8,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(189,248,l),
-(209,700,l),
-(21,700,l),
-(41,248,l)
+(188,248,l),
+(208,700,l),
+(20,700,l),
+(40,248,l)
 );
 },
 {
-pos = (12,-555);
+pos = (11,-555);
 ref = dotaccentcomb;
 }
 );
-width = 231;
+width = 230;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -64,7 +64,7 @@ pos = (40.554,-608.301);
 ref = dotaccentcomb;
 }
 );
-width = 173;
+width = 172;
 },
 {
 hints = (

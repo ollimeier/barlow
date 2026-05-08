@@ -11,11 +11,11 @@ ref = uhorn;
 },
 {
 anchor = bottomviet;
-pos = (120,0);
+pos = (121,0);
 ref = dotbelowcomb;
 }
 );
-width = 462;
+width = 460;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";

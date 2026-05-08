@@ -48,11 +48,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,0);
+pos = (-19,0);
 ref = acutecomb;
 }
 );
-width = 207;
+width = 206;
 }
 );
 unicode = 237;

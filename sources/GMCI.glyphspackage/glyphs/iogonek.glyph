@@ -60,15 +60,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (58,0);
+pos = (57,0);
 ref = dotaccentcomb;
 },
 {
-pos = (23,0);
+pos = (22,0);
 ref = ogonekcomb;
 }
 );
-width = 207;
+width = 206;
 }
 );
 unicode = 303;

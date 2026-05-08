@@ -12,11 +12,11 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (157,65);
+pos = (155,65);
 ref = dotaccentcomb;
 }
 );
-width = 520;
+width = 518;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -25,11 +25,11 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (124,65);
+pos = (122,65);
 ref = dotaccentcomb;
 }
 );
-width = 457;
+width = 455;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

@@ -30,7 +30,7 @@ pos = (9,0);
 ref = dotaccentcomb;
 }
 );
-width = 232;
+width = 230;
 },
 {
 anchors = (
@@ -94,11 +94,11 @@ width = 150;
 anchors = (
 {
 name = bottom;
-pos = (121.723,0);
+pos = (121,0);
 },
 {
 name = top;
-pos = (120.771,500.964);
+pos = (120,501);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -106,18 +106,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(133.867,0.952,l),
-(133.867,501.916,l),
-(103.867,501.916,l),
-(103.867,0.952,l)
+(133,1,l),
+(133,502,l),
+(103,502,l),
+(103,1,l)
 );
 },
 {
-pos = (76.735,0);
+pos = (76,0);
 ref = dotaccentcomb;
 }
 );
-width = 243;
+width = 242;
 }
 );
 unicode = 105;

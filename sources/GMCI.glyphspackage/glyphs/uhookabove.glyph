@@ -14,7 +14,7 @@ pos = (-63,0);
 ref = hookabovecomb;
 }
 );
-width = 462;
+width = 460;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";

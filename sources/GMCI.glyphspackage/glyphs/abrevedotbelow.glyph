@@ -11,7 +11,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (125,0);
+pos = (126,0);
 ref = dotbelowcomb;
 },
 {
@@ -42,21 +42,18 @@ width = 551;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (150.699,0);
+pos = (137,0);
 ref = dotbelowcomb;
 },
 {
-alignment = -1;
-pos = (72.916,0);
+pos = (59,0);
 ref = brevecomb;
 }
 );
-width = 392;
+width = 373;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

@@ -36,11 +36,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-1,75);
+pos = (0,75);
 ref = gravecomb;
 }
 );
-width = 177;
+width = 176;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

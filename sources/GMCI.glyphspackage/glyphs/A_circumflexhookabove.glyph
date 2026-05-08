@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (129,199);
+pos = (130,199);
 ref = circumflexcomb_hookabovecomb;
 }
 );

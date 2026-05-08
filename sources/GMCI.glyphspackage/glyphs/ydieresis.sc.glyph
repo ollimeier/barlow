@@ -38,11 +38,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (65,75);
+pos = (64,75);
 ref = dieresiscomb;
 }
 );
-width = 344;
+width = 343;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

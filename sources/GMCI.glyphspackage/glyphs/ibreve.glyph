@@ -50,11 +50,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-34,0);
+pos = (-35,0);
 ref = brevecomb;
 }
 );
-width = 207;
+width = 206;
 }
 );
 unicode = 301;

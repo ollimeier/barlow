@@ -249,8 +249,9 @@ nodes = (
 );
 }
 );
-width = 847;
+width = 848;
 }
 );
+metricRight = "=E";
 unicode = 198;
 }

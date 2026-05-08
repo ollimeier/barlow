@@ -50,24 +50,24 @@ ref = slashshortcomb;
 scale = (0.9904,0.9904);
 }
 );
-width = 350;
+width = 346;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-pos = (30.759,0);
+pos = (30,0);
 ref = l.sc;
 },
 {
 alignment = -1;
-pos = (26.47,66.048);
+pos = (25,66);
 ref = slashshortcomb;
 scale = (0.9904,0.9904);
 }
 );
-width = 479;
+width = 478;
 }
 );
 }

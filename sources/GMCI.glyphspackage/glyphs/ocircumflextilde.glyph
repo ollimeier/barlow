@@ -52,7 +52,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (100,0);
+pos = (101,0);
 ref = circumflexcomb_tildecomb;
 }
 );

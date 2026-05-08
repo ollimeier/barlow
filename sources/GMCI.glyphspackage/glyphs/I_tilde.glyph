@@ -50,11 +50,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-11,199);
+pos = (-12,199);
 ref = tildecomb;
 }
 );
-width = 225;
+width = 224;
 }
 );
 unicode = 296;

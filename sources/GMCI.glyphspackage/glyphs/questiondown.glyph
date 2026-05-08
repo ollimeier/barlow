@@ -7,11 +7,11 @@ layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
 angle = 180;
-pos = (483,500);
+pos = (481,500);
 ref = question;
 }
 );
-width = 483;
+width = 481;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";

@@ -40,22 +40,23 @@ pos = (-19,75);
 ref = dieresiscomb;
 }
 );
-width = 177;
+width = 176;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
+pos = (-1,0);
 ref = i.sc;
 },
 {
 alignment = -1;
-pos = (-9.952,82.747);
+pos = (-11,83);
 ref = dieresiscomb;
 }
 );
-width = 220;
+width = 219;
 }
 );
 }

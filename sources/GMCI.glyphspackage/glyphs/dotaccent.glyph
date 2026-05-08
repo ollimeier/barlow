@@ -25,11 +25,11 @@ width = 204;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (24.602,0);
+pos = (24,0);
 ref = dotaccentcomb;
 }
 );
-width = 139;
+width = 138;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -40,7 +40,7 @@ pos = (32.41,0);
 ref = dotaccentcomb;
 }
 );
-width = 155;
+width = 154;
 }
 );
 unicode = 729;

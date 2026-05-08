@@ -48,44 +48,44 @@ width = 250;
 anchors = (
 {
 name = _top;
-pos = (89.241,500.964);
+pos = (88,501);
 },
 {
 name = top;
-pos = (52.663,700);
+pos = (52,700);
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (104.373,0);
+pos = (103,0);
 ref = acutecomb;
 scale = (-1,1);
 }
 );
-width = 104;
+width = 103;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (94.47,500.964);
+pos = (77,501);
 },
 {
 name = top;
-pos = (52.181,700);
+pos = (35,700);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-pos = (202.41,0);
+pos = (185,0);
 ref = acutecomb;
 scale = (-1,1);
 }
 );
-width = 104;
+width = 87;
 }
 );
 unicode = 768;

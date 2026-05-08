@@ -38,11 +38,11 @@ layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 alignment = -1;
-pos = (0,460);
+pos = (-2,460);
 ref = seven.dnom;
 }
 );
-width = 268;
+width = 266;
 }
 );
 unicode = 8311;

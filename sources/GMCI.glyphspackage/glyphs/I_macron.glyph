@@ -52,7 +52,7 @@ pos = (-14,199);
 ref = macron;
 }
 );
-width = 225;
+width = 224;
 }
 );
 unicode = 298;

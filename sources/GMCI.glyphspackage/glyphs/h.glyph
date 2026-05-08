@@ -8,7 +8,7 @@ layers = (
 anchors = (
 {
 name = shortstroke;
-pos = (133,546);
+pos = (131,546);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -16,18 +16,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(210,0,l),
-(210,700,l),
-(22,700,l),
-(22,0,l)
+(208,0,l),
+(208,700,l),
+(20,700,l),
+(20,0,l)
 );
 },
 {
-pos = (167,0);
+pos = (165,0);
 ref = n.curve;
 }
 );
-width = 462;
+width = 460;
 },
 {
 anchors = (

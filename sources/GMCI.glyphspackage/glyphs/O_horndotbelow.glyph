@@ -11,7 +11,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (137,0);
+pos = (138,0);
 ref = dotbelowcomb;
 }
 );
@@ -38,7 +38,7 @@ alignment = -1;
 ref = Ohorn;
 },
 {
-pos = (165,0);
+pos = (166,0);
 ref = dotbelowcomb;
 }
 );

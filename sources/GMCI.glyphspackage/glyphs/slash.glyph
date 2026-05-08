@@ -15,7 +15,7 @@ nodes = (
 );
 }
 );
-width = 457;
+width = 456;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -30,7 +30,7 @@ nodes = (
 );
 }
 );
-width = 502;
+width = 501;
 },
 {
 hints = (
@@ -57,7 +57,7 @@ nodes = (
 );
 }
 );
-width = 233;
+width = 232;
 },
 {
 hints = (
@@ -84,7 +84,7 @@ nodes = (
 );
 }
 );
-width = 311;
+width = 310;
 }
 );
 unicode = 47;

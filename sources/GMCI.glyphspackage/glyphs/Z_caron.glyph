@@ -24,11 +24,11 @@ shapes = (
 ref = Z;
 },
 {
-pos = (34,180);
+pos = (33,180);
 ref = caron;
 }
 );
-width = 427;
+width = 426;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -41,7 +41,7 @@ pos = (59,199);
 ref = caron;
 }
 );
-width = 354;
+width = 353;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

@@ -48,11 +48,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (67,199);
+pos = (66,199);
 ref = dotaccentcomb;
 }
 );
-width = 225;
+width = 224;
 }
 );
 unicode = 304;

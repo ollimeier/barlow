@@ -12,11 +12,11 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (72,65);
+pos = (70,65);
 ref = caroncomb;
 }
 );
-width = 521;
+width = 519;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -25,11 +25,11 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (47,65);
+pos = (45,65);
 ref = caroncomb;
 }
 );
-width = 457;
+width = 455;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

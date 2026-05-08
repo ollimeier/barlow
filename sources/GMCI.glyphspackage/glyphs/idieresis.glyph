@@ -50,11 +50,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-17,0);
+pos = (-16,0);
 ref = dieresiscomb;
 }
 );
-width = 207;
+width = 206;
 }
 );
 unicode = 239;

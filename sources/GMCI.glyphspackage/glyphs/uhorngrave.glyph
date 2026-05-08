@@ -14,7 +14,7 @@ pos = (56,0);
 ref = gravecomb;
 }
 );
-width = 462;
+width = 460;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -51,7 +51,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (170,0);
+pos = (188,0);
 ref = gravecomb;
 }
 );

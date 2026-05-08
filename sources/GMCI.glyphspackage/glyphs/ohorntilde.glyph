@@ -26,11 +26,11 @@ ref = ohorn;
 },
 {
 alignment = -1;
-pos = (38,12);
+pos = (37,12);
 ref = tildecomb;
 }
 );
-width = 558;
+width = 557;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

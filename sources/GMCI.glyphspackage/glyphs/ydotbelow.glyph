@@ -15,7 +15,7 @@ pos = (299,0);
 ref = dotbelowcomb;
 }
 );
-width = 442;
+width = 441;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -24,11 +24,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (313,0);
+pos = (312,0);
 ref = dotbelowcomb;
 }
 );
-width = 515;
+width = 514;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -52,11 +52,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (265,0);
+pos = (264,0);
 ref = dotbelowcomb;
 }
 );
-width = 449;
+width = 447;
 }
 );
 unicode = 7925;
