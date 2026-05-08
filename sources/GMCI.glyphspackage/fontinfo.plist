@@ -22,6 +22,10 @@ value = 1;
 {
 name = glyphOrder;
 value = (
+.notdef,
+.null,
+CR,
+space
 );
 },
 {
