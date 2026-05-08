@@ -3,88 +3,88 @@ color = 0;
 glyphname = oneeighth;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
 alignment = -1;
-name = one.numr;
-transform = "{1, 0, 0, 1, 4, 0}";
+pos = (4,0);
+ref = one.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 241, 0}";
+pos = (241,0);
+ref = fraction;
 },
 {
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 471, 0}";
+pos = (471,0);
+ref = eight.dnom;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 818;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
 alignment = -1;
-name = one.numr;
-transform = "{1, 0, 0, 1, 2, 0}";
+pos = (2,0);
+ref = one.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 243, 0}";
+pos = (243,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 425, 0}";
+pos = (425,0);
+ref = eight.dnom;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 716;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
 alignment = -1;
-name = one.numr;
-transform = "{1, 0, 0, 1, 1.048, 0}";
+pos = (1.048,0);
+ref = one.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 239.193, 0}";
+pos = (239.193,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 415.482, 0}";
+pos = (415.482,0);
+ref = eight.dnom;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 634.14458;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = one.numr;
-transform = "{1, 0, 0, 1, 3.048, 0}";
+pos = (3.048,0);
+ref = one.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 263.843, 0}";
+pos = (263.843,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 473.855, 0}";
+pos = (473.855,0);
+ref = eight.dnom;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 802.77108;
 }
 );
-unicode = 215B;
+unicode = 8539;
 }

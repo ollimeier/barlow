@@ -19,6 +19,6 @@ layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 283.03614;
 }
 );
-widthMetricsKey = period;
-unicode = 2008;
+metricWidth = period;
+unicode = 8200;
 }

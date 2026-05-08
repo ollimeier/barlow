@@ -1,62 +1,62 @@
 {
 color = 0;
 glyphname = umacron;
+kernLeft = u;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = macron;
-transform = "{1, 0, 0, 1, 126, 0}";
+pos = (126,0);
+ref = macron;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 568;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = macron;
-transform = "{1, 0, 0, 1, 108, 0}";
+pos = (108,0);
+ref = macron;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 462;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = macron;
-transform = "{1, 0, 0, 1, -99, 0}";
+pos = (-99,0);
+ref = macron;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 386;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = u;
+ref = u;
 },
 {
 alignment = -1;
-name = macron;
-transform = "{1, 0, 0, 1, 141.229, 0}";
+pos = (141.229,0);
+ref = macron;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 534.68675;
 }
 );
-leftKerningGroup = u;
-unicode = 016B;
+unicode = 363;
 }

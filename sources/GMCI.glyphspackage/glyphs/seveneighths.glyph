@@ -3,88 +3,88 @@ color = 0;
 glyphname = seveneighths;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
 alignment = -1;
-name = seven.numr;
-transform = "{1, 0, 0, 1, 4, 0}";
+pos = (4,0);
+ref = seven.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 261, 0}";
+pos = (261,0);
+ref = fraction;
 },
 {
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 491, 0}";
+pos = (491,0);
+ref = eight.dnom;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 842;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
 alignment = -1;
-name = seven.numr;
-transform = "{1, 0, 0, 1, 3, 0}";
+pos = (3,0);
+ref = seven.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 252, 0}";
+pos = (252,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 452, 0}";
+pos = (452,0);
+ref = eight.dnom;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 742;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
 alignment = -1;
-name = seven.numr;
-transform = "{1, 0, 0, 1, 0.145, 0}";
+pos = (0.145,0);
+ref = seven.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 226.301, 0}";
+pos = (226.301,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 393.94, 0}";
+pos = (393.94,0);
+ref = eight.dnom;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 638.25301;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = seven.numr;
-transform = "{1, 0, 0, 1, 3.048, 0}";
+pos = (3.048,0);
+ref = seven.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 266.711, 0}";
+pos = (266.711,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 471.964, 0}";
+pos = (471.964,0);
+ref = eight.dnom;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 801.07229;
 }
 );
-unicode = 215E;
+unicode = 8542;
 }

@@ -1,27 +1,29 @@
 {
 glyphname = f.sc;
+kernLeft = h.sc;
+kernRight = f.sc;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"209 0 LINE",
-"209 417 LINE",
-"466 417 LINE",
-"466 578 LINE",
-"21 578 LINE",
-"21 0 LINE"
+(209,0,l),
+(209,417,l),
+(466,417,l),
+(466,578,l),
+(21,578,l),
+(21,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"369 214 LINE",
-"369 374 LINE",
-"97 374 LINE",
-"97 214 LINE"
+(369,214,l),
+(369,374,l),
+(97,374,l),
+(97,214,l)
 );
 }
 );
@@ -35,25 +37,25 @@ width = 470;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"209 0 LINE",
-"209 417 LINE",
-"408 417 LINE",
-"408 578 LINE",
-"21 578 LINE",
-"21 0 LINE"
+(209,0,l),
+(209,417,l),
+(408,417,l),
+(408,578,l),
+(21,578,l),
+(21,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"320 209 LINE",
-"320 370 LINE",
-"97 370 LINE",
-"97 209 LINE"
+(320,209,l),
+(320,370,l),
+(97,370,l),
+(97,209,l)
 );
 }
 );
@@ -69,42 +71,42 @@ width = 413;
 hints = (
 {
 horizontal = 1;
-origin = "{0, 3}";
-target = "{0, 2}";
+origin = (0,3);
+target = (0,2);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 0}";
-target = "{1, 1}";
+origin = (1,0);
+target = (1,1);
 type = Stem;
 },
 {
-origin = "{0, 5}";
-target = "{0, 0}";
+origin = (0,5);
+target = (0,0);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"103.349 0 LINE",
-"103.349 548.349 LINE",
-"322.337 548.349 LINE",
-"322.337 576.096 LINE",
-"73.349 576.096 LINE",
-"73.349 0 LINE"
+(103.349,0,l),
+(103.349,548.349,l),
+(322.337,548.349,l),
+(322.337,576.096,l),
+(73.349,576.096,l),
+(73.349,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"251.47 274.675 LINE",
-"251.47 302.422 LINE",
-"87.482 302.422 LINE",
-"87.482 274.675 LINE"
+(251.47,274.675,l),
+(251.47,302.422,l),
+(87.482,302.422,l),
+(87.482,274.675,l)
 );
 }
 );
@@ -120,42 +122,42 @@ width = 339.71084;
 hints = (
 {
 horizontal = 1;
-origin = "{0, 3}";
-target = "{0, 2}";
+origin = (0,3);
+target = (0,2);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 0}";
-target = "{1, 1}";
+origin = (1,0);
+target = (1,1);
 type = Stem;
 },
 {
-origin = "{0, 5}";
-target = "{0, 0}";
+origin = (0,5);
+target = (0,0);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"125.241 0 LINE",
-"125.241 548.349 LINE",
-"467.904 548.349 LINE",
-"467.904 576.096 LINE",
-"95.241 576.096 LINE",
-"95.241 0 LINE"
+(125.241,0,l),
+(125.241,548.349,l),
+(467.904,548.349,l),
+(467.904,576.096,l),
+(95.241,576.096,l),
+(95.241,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"374.711 274.916 LINE",
-"374.711 302.614 LINE",
-"109.373 302.614 LINE",
-"109.373 274.916 LINE"
+(374.711,274.916,l),
+(374.711,302.614,l),
+(109.373,302.614,l),
+(109.373,274.916,l)
 );
 }
 );
@@ -168,8 +170,6 @@ width = 97;
 width = 489.03614;
 }
 );
-leftKerningGroup = h.sc;
-rightKerningGroup = f.sc;
 userData = {
 RMXScaler = {
 source = F;

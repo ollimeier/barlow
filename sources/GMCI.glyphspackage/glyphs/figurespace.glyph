@@ -19,6 +19,6 @@ layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 508.16867;
 }
 );
-widthMetricsKey = zero.tf;
-unicode = 2007;
+metricWidth = zero.tf;
+unicode = 8199;
 }

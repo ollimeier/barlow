@@ -1,34 +1,34 @@
 {
 color = 0;
 glyphname = n;
+kernLeft = n;
+kernRight = n;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{233, 0}";
+pos = (233,0);
 },
 {
 name = top;
-position = "{233, 520}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 167, 0}";
+pos = (233,520);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"210 0 LINE",
-"210 520 LINE",
-"22 520 LINE",
-"22 0 LINE"
+(210,0,l),
+(210,520,l),
+(22,520,l),
+(22,0,l)
 );
+},
+{
+pos = (167,0);
+ref = n.curve;
 }
 );
 width = 462;
@@ -37,29 +37,27 @@ width = 462;
 anchors = (
 {
 name = bottom;
-position = "{288, 0}";
+pos = (288,0);
 },
 {
 name = top;
-position = "{293, 520}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 192, 0}";
+pos = (293,520);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"230 0 LINE",
-"230 520 LINE",
-"42 520 LINE",
-"42 0 LINE"
+(230,0,l),
+(230,520,l),
+(42,520,l),
+(42,0,l)
 );
+},
+{
+pos = (192,0);
+ref = n.curve;
 }
 );
 width = 569;
@@ -68,41 +66,39 @@ width = 569;
 anchors = (
 {
 name = bottom;
-position = "{198.735, 0}";
+pos = (198.735,0);
 },
 {
 name = top;
-position = "{195.88, 500.964}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 73.723, 0}";
+pos = (195.88,500.964);
 }
 );
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 2}";
+origin = (0,2);
+target = (0,2);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"90.072 0 LINE",
-"90.072 500.964 LINE",
-"60.072 500.964 LINE",
-"60.072 0 LINE"
+(90.072,0,l),
+(90.072,500.964,l),
+(60.072,500.964,l),
+(60.072,0,l)
 );
+},
+{
+pos = (73.723,0);
+ref = n.curve;
 }
 );
 width = 385.85542;
@@ -111,47 +107,43 @@ width = 385.85542;
 anchors = (
 {
 name = bottom;
-position = "{270.867, 0}";
+pos = (270.867,0);
 },
 {
 name = top;
-position = "{259.687, 500.964}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 99.675, 0}";
+pos = (259.687,500.964);
 }
 );
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 2}";
+origin = (0,2);
+target = (0,2);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"118.639 0 LINE",
-"118.639 500.964 LINE",
-"88.639 500.964 LINE",
-"88.639 0 LINE"
+(118.639,0,l),
+(118.639,500.964,l),
+(88.639,500.964,l),
+(88.639,0,l)
 );
+},
+{
+pos = (99.675,0);
+ref = n.curve;
 }
 );
 width = 525.21687;
 }
 );
-leftKerningGroup = n;
-rightKerningGroup = n;
-unicode = 006E;
+unicode = 110;
 }

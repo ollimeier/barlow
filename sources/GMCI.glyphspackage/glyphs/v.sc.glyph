@@ -1,19 +1,21 @@
 {
 glyphname = v.sc;
+kernLeft = V;
+kernRight = V;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"374 0 LINE",
-"544 578 LINE",
-"346 578 LINE",
-"281 238 LINE",
-"213 578 LINE",
-"11 578 LINE",
-"178 0 LINE"
+(374,0,l),
+(544,578,l),
+(346,578,l),
+(281,238,l),
+(213,578,l),
+(11,578,l),
+(178,0,l)
 );
 }
 );
@@ -27,17 +29,17 @@ width = 555;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"342 0 LINE",
-"492 578 LINE",
-"294 578 LINE",
-"256 284 LINE",
-"213 578 LINE",
-"10 578 LINE",
-"158 0 LINE"
+(342,0,l),
+(492,578,l),
+(294,578,l),
+(256,284,l),
+(213,578,l),
+(10,578,l),
+(158,0,l)
 );
 }
 );
@@ -52,33 +54,33 @@ width = 502;
 {
 hints = (
 {
-origin = "{0, 6}";
-target = "{0, 0}";
+origin = (0,6);
+target = (0,0);
 type = Stem;
 },
 {
-origin = "{0, 5}";
-target = "{0, 4}";
+origin = (0,5);
+target = (0,4);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"194.47 0 LINE",
-"322.578 576.096 LINE",
-"292.096 576.096 LINE",
-"179.855 52.711 LINE",
-"66.422 576.096 LINE",
-"34.747 576.096 LINE",
-"163.711 0 LINE"
+(194.47,0,l),
+(322.578,576.096,l),
+(292.096,576.096,l),
+(179.855,52.711,l),
+(66.422,576.096,l),
+(34.747,576.096,l),
+(163.711,0,l)
 );
 }
 );
@@ -93,33 +95,33 @@ width = 357.3253;
 {
 hints = (
 {
-origin = "{0, 6}";
-target = "{0, 0}";
+origin = (0,6);
+target = (0,0);
 type = Stem;
 },
 {
-origin = "{0, 5}";
-target = "{0, 4}";
+origin = (0,5);
+target = (0,4);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"263.59 0 LINE",
-"462.145 576.096 LINE",
-"432.614 576.096 LINE",
-"248.639 42.88 LINE",
-"66.422 576.096 LINE",
-"35.747 576.096 LINE",
-"232.253 0 LINE"
+(263.59,0,l),
+(462.145,576.096,l),
+(432.614,576.096,l),
+(248.639,42.88,l),
+(66.422,576.096,l),
+(35.747,576.096,l),
+(232.253,0,l)
 );
 }
 );
@@ -132,8 +134,6 @@ width = 97;
 width = 497.89157;
 }
 );
-leftKerningGroup = V;
-rightKerningGroup = V;
 userData = {
 RMXScaler = {
 source = V;

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = .null;
+kernLeft = .null;
+kernRight = .null;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -19,7 +21,5 @@ layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 0;
 }
 );
-leftKerningGroup = .null;
-rightKerningGroup = .null;
-unicode = 0000;
+unicode = 0;
 }

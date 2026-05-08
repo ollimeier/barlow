@@ -2,46 +2,46 @@
 glyphname = dotaccent;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 1, 0}";
+pos = (1,0);
+ref = dotaccentcomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 212;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, -3, 0}";
+pos = (-3,0);
+ref = dotaccentcomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 204;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 24.602, 0}";
+pos = (24.602,0);
+ref = dotaccentcomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 139.27711;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 32.41, 0}";
+pos = (32.41,0);
+ref = dotaccentcomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 154.89157;
 }
 );
-unicode = 02D9;
+unicode = 729;
 }

@@ -1,30 +1,30 @@
 {
 color = 0;
 glyphname = h;
+kernLeft = b;
+kernRight = n;
 layers = (
 {
 anchors = (
 {
 name = shortstroke;
-position = "{133, 546}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 167, 0}";
+pos = (133,546);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"210 0 LINE",
-"210 700 LINE",
-"22 700 LINE",
-"22 0 LINE"
+(210,0,l),
+(210,700,l),
+(22,700,l),
+(22,0,l)
 );
+},
+{
+pos = (167,0);
+ref = n.curve;
 }
 );
 width = 462;
@@ -33,25 +33,23 @@ width = 462;
 anchors = (
 {
 name = shortstroke;
-position = "{175, 543}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 192, 0}";
+pos = (175,543);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"230 0 LINE",
-"230 700 LINE",
-"42 700 LINE",
-"42 0 LINE"
+(230,0,l),
+(230,700,l),
+(42,700,l),
+(42,0,l)
 );
+},
+{
+pos = (192,0);
+ref = n.curve;
 }
 );
 width = 569;
@@ -60,32 +58,30 @@ width = 569;
 anchors = (
 {
 name = shortstroke;
-position = "{130.145, 546.952}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 73.723, 0}";
+pos = (130.145,546.952);
 }
 );
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"90.072 0 LINE",
-"90.072 700 LINE",
-"60.072 700 LINE",
-"60.072 0 LINE"
+(90.072,0,l),
+(90.072,700,l),
+(60.072,700,l),
+(60.072,0,l)
 );
+},
+{
+pos = (73.723,0);
+ref = n.curve;
 }
 );
 width = 385.85542;
@@ -94,38 +90,34 @@ width = 385.85542;
 anchors = (
 {
 name = shortstroke;
-position = "{159.771, 546.807}";
-}
-);
-components = (
-{
-name = n.curve;
-transform = "{1, 0, 0, 1, 99.675, 0}";
+pos = (159.771,546.807);
 }
 );
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"118.639 0 LINE",
-"118.639 700 LINE",
-"88.639 700 LINE",
-"88.639 0 LINE"
+(118.639,0,l),
+(118.639,700,l),
+(88.639,700,l),
+(88.639,0,l)
 );
+},
+{
+pos = (99.675,0);
+ref = n.curve;
 }
 );
 width = 525.21687;
 }
 );
-leftKerningGroup = b;
-rightKerningGroup = n;
-unicode = 0068;
+unicode = 104;
 }

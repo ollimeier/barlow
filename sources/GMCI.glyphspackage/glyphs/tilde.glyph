@@ -2,46 +2,46 @@
 glyphname = tilde;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 6, 0}";
+pos = (6,0);
+ref = tildecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 400;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 8, 0}";
+pos = (8,0);
+ref = tildecomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 336;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 27.036, 0}";
+pos = (27.036,0);
+ref = tildecomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 301.73494;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = tildecomb;
-transform = "{1, 0, 0, 1, 34.554, 0}";
+pos = (34.554,0);
+ref = tildecomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 339.08434;
 }
 );
-unicode = 02DC;
+unicode = 732;
 }

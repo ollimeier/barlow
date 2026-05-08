@@ -1,21 +1,23 @@
 {
 color = 0;
 glyphname = V;
+kernLeft = V;
+kernRight = V;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"348 0 LINE",
-"496 700 LINE",
-"298 700 LINE",
-"244 233 LINE",
-"261 233 LINE",
-"202 700 LINE",
-"-1 700 LINE",
-"145 0 LINE"
+(348,0,l),
+(496,700,l),
+(298,700,l),
+(244,233,l),
+(261,233,l),
+(202,700,l),
+(-1,700,l),
+(145,0,l)
 );
 }
 );
@@ -23,18 +25,18 @@ width = 494;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"403 0 LINE",
-"611 700 LINE",
-"413 700 LINE",
-"294 181 LINE",
-"327 181 LINE",
-"204 700 LINE",
-"2 700 LINE",
-"208 0 LINE"
+(403,0,l),
+(611,700,l),
+(413,700,l),
+(294,181,l),
+(327,181,l),
+(204,700,l),
+(2,700,l),
+(208,0,l)
 );
 }
 );
@@ -43,34 +45,34 @@ width = 612;
 {
 hints = (
 {
-origin = "{0, 7}";
-target = "{0, 0}";
+origin = (0,7);
+target = (0,0);
 type = Stem;
 },
 {
-origin = "{0, 6}";
-target = "{0, 5}";
+origin = (0,6);
+target = (0,5);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"202.373 0 LINE",
-"351.325 700 LINE",
-"320.843 700 LINE",
-"184.988 42.639 LINE",
-"189.614 42.639 LINE",
-"53.518 700 LINE",
-"21.843 700 LINE",
-"171.651 0 LINE"
+(202.373,0,l),
+(351.325,700,l),
+(320.843,700,l),
+(184.988,42.639,l),
+(189.614,42.639,l),
+(53.518,700,l),
+(21.843,700,l),
+(171.651,0,l)
 );
 }
 );
@@ -79,41 +81,39 @@ width = 374.07229;
 {
 hints = (
 {
-origin = "{0, 7}";
-target = "{0, 0}";
+origin = (0,7);
+target = (0,0);
 type = Stem;
 },
 {
-origin = "{0, 6}";
-target = "{0, 5}";
+origin = (0,6);
+target = (0,5);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"291.639 0 LINE",
-"524.386 700 LINE",
-"494.855 700 LINE",
-"273.06 31.566 LINE",
-"280.361 31.566 LINE",
-"60.277 700 LINE",
-"29.602 700 LINE",
-"261.301 0 LINE"
+(291.639,0,l),
+(524.386,700,l),
+(494.855,700,l),
+(273.06,31.566,l),
+(280.361,31.566,l),
+(60.277,700,l),
+(29.602,700,l),
+(261.301,0,l)
 );
 }
 );
 width = 553.93976;
 }
 );
-leftKerningGroup = V;
-rightKerningGroup = V;
-unicode = 0056;
+unicode = 86;
 }

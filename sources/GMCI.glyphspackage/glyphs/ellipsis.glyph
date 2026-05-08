@@ -3,73 +3,73 @@ color = 0;
 glyphname = ellipsis;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = period;
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 312, 0}";
+pos = (312,0);
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 625, 0}";
+pos = (625,0);
+ref = period;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 889;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = period;
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 260, 0}";
+pos = (260,0);
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 520, 0}";
+pos = (520,0);
+ref = period;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 766;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = period;
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 202.892, 0}";
+pos = (202.892,0);
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 405.783, 0}";
+pos = (405.783,0);
+ref = period;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 575.63855;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
-name = period;
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 243.47, 0}";
+pos = (243.47,0);
+ref = period;
 },
 {
-name = period;
-transform = "{1, 0, 0, 1, 479.373, 0}";
+pos = (479.373,0);
+ref = period;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 762.40964;
 }
 );
-unicode = 2026;
+unicode = 8230;
 }

@@ -5,99 +5,103 @@ layers = (
 anchors = (
 {
 name = _bottom;
-position = "{105, 0}";
+pos = (105,0);
 },
 {
 name = _bottomviet;
-position = "{105, 0}";
+pos = (105,0);
 },
 {
 name = bottom;
-position = "{105, -273}";
-}
-);
-components = (
-{
-name = dotaccentcomb;
-transform = "{0.963, 0, 0, 0.963, 4, -762}";
+pos = (105,-273);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
+{
+pos = (4,-762);
+ref = dotaccentcomb;
+scale = (0.963,0.963);
+}
+);
 width = 210;
 },
 {
 anchors = (
 {
 name = _bottom;
-position = "{112, 0}";
+pos = (112,0);
 },
 {
 name = _bottomviet;
-position = "{111, 0}";
+pos = (111,0);
 },
 {
 name = bottom;
-position = "{112, -238}";
-}
-);
-components = (
-{
-name = dotaccentcomb;
-transform = "{0.963, 0, 0, 0.963, 14, -769}";
+pos = (112,-238);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
+{
+pos = (14,-769);
+ref = dotaccentcomb;
+scale = (0.963,0.963);
+}
+);
 width = 224;
 },
 {
 anchors = (
 {
 name = _bottom;
-position = "{45.036, 0}";
+pos = (45.036,0);
 },
 {
 name = _bottomviet;
-position = "{45.988, 0}";
+pos = (45.988,0);
 },
 {
 name = bottom;
-position = "{45.036, -162.59}";
-}
-);
-components = (
-{
-alignment = -1;
-name = dotaccentcomb;
-transform = "{0.94111, 0, 0, 0.94111, 3.048, -737.253}";
+pos = (45.036,-162.59);
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+alignment = -1;
+pos = (3.048,-737.253);
+ref = dotaccentcomb;
+scale = (0.9411,0.9411);
+}
+);
 width = 90.07229;
 },
 {
 anchors = (
 {
 name = _bottom;
-position = "{45.373, 0}";
+pos = (45.373,0);
 },
 {
 name = _bottomviet;
-position = "{44.373, 0}";
+pos = (44.373,0);
 },
 {
 name = bottom;
-position = "{45.373, -164.711}";
-}
-);
-components = (
-{
-name = dotaccentcomb;
-transform = "{0.94111, 0, 0, 0.94111, 3.53, -741.398}";
+pos = (45.373,-164.711);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+pos = (3.53,-741.398);
+ref = dotaccentcomb;
+scale = (0.9411,0.9411);
+}
+);
 width = 90.74699;
 }
 );
-unicode = 0323;
+unicode = 803;
 }

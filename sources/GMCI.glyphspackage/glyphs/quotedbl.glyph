@@ -1,26 +1,28 @@
 {
 color = 0;
 glyphname = quotedbl;
+kernLeft = quotedbl;
+kernRight = quotedbl;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"400 460 LINE",
-"420 700 LINE",
-"242 700 LINE",
-"262 460 LINE"
+(400,460,l),
+(420,700,l),
+(242,700,l),
+(262,460,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"174 460 LINE",
-"194 700 LINE",
-"16 700 LINE",
-"36 460 LINE"
+(174,460,l),
+(194,700,l),
+(16,700,l),
+(36,460,l)
 );
 }
 );
@@ -28,23 +30,23 @@ width = 436;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"428 460 LINE",
-"448 700 LINE",
-"269 700 LINE",
-"289 460 LINE"
+(428,460,l),
+(448,700,l),
+(269,700,l),
+(289,460,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"188 460 LINE",
-"208 700 LINE",
-"29 700 LINE",
-"49 460 LINE"
+(188,460,l),
+(208,700,l),
+(29,700,l),
+(49,460,l)
 );
 }
 );
@@ -53,34 +55,34 @@ width = 477;
 {
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 },
 {
-origin = "{1, 2}";
-target = "{1, 1}";
+origin = (1,2);
+target = (1,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"156.337 498.072 LINE",
-"160.157 692.386 LINE",
-"127.783 692.386 LINE",
-"130.651 498.072 LINE"
+(156.337,498.072,l),
+(160.157,692.386,l),
+(127.783,692.386,l),
+(130.651,498.072,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"75.012 498.072 LINE",
-"78.831 692.386 LINE",
-"46.458 692.386 LINE",
-"50.277 498.072 LINE"
+(75.012,498.072,l),
+(78.831,692.386,l),
+(46.458,692.386,l),
+(50.277,498.072,l)
 );
 }
 );
@@ -89,41 +91,39 @@ width = 206.61446;
 {
 hints = (
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 },
 {
-origin = "{1, 2}";
-target = "{1, 1}";
+origin = (1,2);
+target = (1,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"200.518 498.072 LINE",
-"204.337 692.386 LINE",
-"170.964 692.386 LINE",
-"174.783 498.072 LINE"
+(200.518,498.072,l),
+(204.337,692.386,l),
+(170.964,692.386,l),
+(174.783,498.072,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"103.289 498.072 LINE",
-"107.108 692.386 LINE",
-"73.735 692.386 LINE",
-"77.554 498.072 LINE"
+(103.289,498.072,l),
+(107.108,692.386,l),
+(73.735,692.386,l),
+(77.554,498.072,l)
 );
 }
 );
 width = 278.07229;
 }
 );
-leftKerningGroup = quotedbl;
-rightKerningGroup = quotedbl;
-unicode = 0022;
+unicode = 34;
 }

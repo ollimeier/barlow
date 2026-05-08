@@ -3,88 +3,88 @@ color = 0;
 glyphname = threeeighths;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
 alignment = -1;
-name = three.numr;
-transform = "{1, 0, 0, 1, 2, 0}";
+pos = (2,0);
+ref = three.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 338, 0}";
+pos = (338,0);
+ref = fraction;
 },
 {
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 568, 0}";
+pos = (568,0);
+ref = eight.dnom;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 915;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
 alignment = -1;
-name = three.numr;
-transform = "{1, 0, 0, 1, 30, 0}";
+pos = (30,0);
+ref = three.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 435, 0}";
+pos = (435,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 644, 0}";
+pos = (644,0);
+ref = eight.dnom;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 976;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
 alignment = -1;
-name = three.numr;
-transform = "{1, 0, 0, 1, 5.253, 0}";
+pos = (5.253,0);
+ref = three.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 320.783, 0}";
+pos = (320.783,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 488.855, 0}";
+pos = (488.855,0);
+ref = eight.dnom;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 735.19277;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = three.numr;
-transform = "{1, 0, 0, 1, 0.096, 0}";
+pos = (0.096,0);
+ref = three.numr;
 },
 {
 alignment = -1;
-name = fraction;
-transform = "{1, 0, 0, 1, 321.819, 0}";
+pos = (321.819,0);
+ref = fraction;
 },
 {
 alignment = -1;
-name = eight.dnom;
-transform = "{1, 0, 0, 1, 575.614, 0}";
+pos = (575.614,0);
+ref = eight.dnom;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 890.25301;
 }
 );
-unicode = 215C;
+unicode = 8540;
 }

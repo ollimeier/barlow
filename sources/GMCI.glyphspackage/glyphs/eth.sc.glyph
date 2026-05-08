@@ -1,23 +1,22 @@
 {
 glyphname = eth.sc;
+kernRight = B;
 layers = (
 {
-components = (
-{
-name = d.sc;
-transform = "{1, 0, 0, 1, 19, 0}";
-}
-);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"253 251 LINE",
-"253 354 LINE",
-"21 354 LINE",
-"21 251 LINE"
+(253,251,l),
+(253,354,l),
+(21,354,l),
+(21,251,l)
 );
+},
+{
+pos = (19,0);
+ref = d.sc;
 }
 );
 userData = {
@@ -29,22 +28,20 @@ width = 97;
 width = 479;
 },
 {
-components = (
-{
-name = d.sc;
-transform = "{1, 0, 0, 1, 31, 0}";
-}
-);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"287 233 LINE",
-"287 356 LINE",
-"21 356 LINE",
-"21 233 LINE"
+(287,233,l),
+(287,356,l),
+(21,356,l),
+(21,233,l)
 );
+},
+{
+pos = (31,0);
+ref = d.sc;
 }
 );
 userData = {
@@ -56,22 +53,20 @@ width = 97;
 width = 560;
 },
 {
-components = (
-{
-name = d.sc;
-transform = "{1, 0, 0, 1, 41.843, 0}";
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"238.723 287.169 LINE",
-"238.723 310.217 LINE",
-"73.349 310.217 LINE",
-"73.349 287.169 LINE"
+(238.723,287.169,l),
+(238.723,310.217,l),
+(73.349,310.217,l),
+(73.349,287.169,l)
 );
+},
+{
+pos = (41.843,0);
+ref = d.sc;
 }
 );
 userData = {
@@ -83,22 +78,20 @@ width = 97;
 width = 436.16867;
 },
 {
-components = (
-{
-name = d.sc;
-transform = "{1, 0, 0, 1, 62.41, 0}";
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"316.506 287.253 LINE",
-"316.506 311.265 LINE",
-"95.241 311.265 LINE",
-"95.241 287.253 LINE"
+(316.506,287.253,l),
+(316.506,311.265,l),
+(95.241,311.265,l),
+(95.241,287.253,l)
 );
+},
+{
+pos = (62.41,0);
+ref = d.sc;
 }
 );
 userData = {
@@ -110,7 +103,6 @@ width = 97;
 width = 591.40964;
 }
 );
-rightKerningGroup = B;
 userData = {
 RMXScaler = {
 source = Eth;

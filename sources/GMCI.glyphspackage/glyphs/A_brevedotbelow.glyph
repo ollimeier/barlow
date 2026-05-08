@@ -1,76 +1,76 @@
 {
 glyphname = Abrevedotbelow;
+kernLeft = A;
+kernRight = A;
 layers = (
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 147, 0}";
+pos = (147,0);
+ref = dotbelowcomb;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 113, 180}";
+pos = (113,180);
+ref = brevecomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 504;
 },
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 228, 0}";
+pos = (228,0);
+ref = dotbelowcomb;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 144, 185}";
+pos = (144,185);
+ref = brevecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 680;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 151, 0}";
+pos = (151,0);
+ref = dotbelowcomb;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 72, 199}";
+pos = (72,199);
+ref = brevecomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 390;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 233, 0}";
+pos = (233,0);
+ref = dotbelowcomb;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 139, 199}";
+pos = (139,199);
+ref = brevecomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 555;
 }
 );
-leftKerningGroup = A;
-rightKerningGroup = A;
-unicode = 1EB6;
+unicode = 7862;
 }

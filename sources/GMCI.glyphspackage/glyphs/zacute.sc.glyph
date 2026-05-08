@@ -1,61 +1,61 @@
 {
 glyphname = zacute.sc;
+kernLeft = Z;
+kernRight = Z;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = z.sc;
+ref = z.sc;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 152, 69}";
+pos = (152,69);
+ref = acutecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 484;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = z.sc;
+ref = z.sc;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 115, 69}";
+pos = (115,69);
+ref = acutecomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 406;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = z.sc;
+ref = z.sc;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 130, 86}";
+pos = (130,86);
+ref = acutecomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 334;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = z.sc;
+ref = z.sc;
 },
 {
 alignment = -1;
-name = acutecomb;
-transform = "{1, 0, 0, 1, 102.506, 86.133}";
+pos = (102.506,86.133);
+ref = acutecomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 465.91566;
 }
 );
-leftKerningGroup = Z;
-rightKerningGroup = Z;
 }

@@ -1,28 +1,30 @@
 {
 glyphname = z.sc;
+kernLeft = Z;
+kernRight = Z;
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{246, 589}";
+pos = (246,589);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"467 0 LINE",
-"467 161 LINE",
-"221 161 LINE",
-"467 408 LINE",
-"467 578 LINE",
-"15 578 LINE",
-"15 417 LINE",
-"258 417 LINE",
-"15 170 LINE",
-"15 0 LINE"
+(467,0,l),
+(467,161,l),
+(221,161,l),
+(467,408,l),
+(467,578,l),
+(15,578,l),
+(15,417,l),
+(258,417,l),
+(15,170,l),
+(15,0,l)
 );
 }
 );
@@ -38,24 +40,24 @@ width = 484;
 anchors = (
 {
 name = top;
-position = "{201, 589}";
+pos = (201,589);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"395 0 LINE",
-"395 161 LINE",
-"196 161 LINE",
-"395 417 LINE",
-"395 578 LINE",
-"10 578 LINE",
-"10 417 LINE",
-"207 417 LINE",
-"10 161 LINE",
-"10 0 LINE"
+(395,0,l),
+(395,161,l),
+(196,161,l),
+(395,417,l),
+(395,578,l),
+(10,578,l),
+(10,417,l),
+(207,417,l),
+(10,161,l),
+(10,0,l)
 );
 }
 );
@@ -71,48 +73,48 @@ width = 406;
 anchors = (
 {
 name = top;
-position = "{165.783, 587.096}";
+pos = (165.783,587.096);
 }
 );
 hints = (
 {
 horizontal = 1;
-origin = "{0, 5}";
-target = "{0, 6}";
+origin = (0,5);
+target = (0,6);
 type = Stem;
 },
 {
-origin = "{0, 7}";
-target = "{0, 3}";
+origin = (0,7);
+target = (0,3);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
+origin = (0,0);
+target = (0,1);
 type = Stem;
 },
 {
-origin = "{0, 8}";
-target = "{0, 2}";
+origin = (0,8);
+target = (0,2);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"294.108 0 LINE",
-"294.108 27.747 LINE",
-"67.506 27.747 LINE",
-"294.108 548.349 LINE",
-"294.108 576.096 LINE",
-"34.747 576.096 LINE",
-"34.747 548.349 LINE",
-"262.205 548.349 LINE",
-"34.747 27.747 LINE",
-"34.747 0 LINE"
+(294.108,0,l),
+(294.108,27.747,l),
+(67.506,27.747,l),
+(294.108,548.349,l),
+(294.108,576.096,l),
+(34.747,576.096,l),
+(34.747,548.349,l),
+(262.205,548.349,l),
+(34.747,27.747,l),
+(34.747,0,l)
 );
 }
 );
@@ -128,48 +130,48 @@ width = 333.66265;
 anchors = (
 {
 name = top;
-position = "{224.108, 587.096}";
+pos = (224.108,587.096);
 }
 );
 hints = (
 {
 horizontal = 1;
-origin = "{0, 5}";
-target = "{0, 6}";
+origin = (0,5);
+target = (0,6);
 type = Stem;
 },
 {
-origin = "{0, 7}";
-target = "{0, 3}";
+origin = (0,7);
+target = (0,3);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 0}";
-target = "{0, 1}";
+origin = (0,0);
+target = (0,1);
 type = Stem;
 },
 {
-origin = "{0, 8}";
-target = "{0, 2}";
+origin = (0,8);
+target = (0,2);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"414.651 0 LINE",
-"414.651 27.747 LINE",
-"77.277 27.747 LINE",
-"414.651 547.916 LINE",
-"414.651 576.096 LINE",
-"43.554 576.096 LINE",
-"43.554 548.349 LINE",
-"380.783 548.349 LINE",
-"43.554 28.181 LINE",
-"43.554 0 LINE"
+(414.651,0,l),
+(414.651,27.747,l),
+(77.277,27.747,l),
+(414.651,547.916,l),
+(414.651,576.096,l),
+(43.554,576.096,l),
+(43.554,548.349,l),
+(380.783,548.349,l),
+(43.554,28.181,l),
+(43.554,0,l)
 );
 }
 );
@@ -182,8 +184,6 @@ width = 97;
 width = 465.91566;
 }
 );
-leftKerningGroup = Z;
-rightKerningGroup = Z;
 userData = {
 RMXScaler = {
 source = Z;

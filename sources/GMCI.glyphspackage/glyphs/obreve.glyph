@@ -2,59 +2,59 @@
 glyphname = obreve;
 layers = (
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = o;
+ref = o;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 90, 0}";
+pos = (90,0);
+ref = brevecomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 457;
 },
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = o;
+ref = o;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 85, 5}";
+pos = (85,5);
+ref = brevecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 558;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
 alignment = -1;
-name = o;
+ref = o;
 },
 {
 alignment = -1;
-name = brevecomb;
-transform = "{1, 0, 0, 1, 75.723, 0}";
+pos = (75.723,0);
+ref = brevecomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 397.98795;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
-name = o;
+ref = o;
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 110, 0}";
+pos = (110,0);
+ref = brevecomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 496;
 }
 );
-unicode = 014F;
+unicode = 335;
 }

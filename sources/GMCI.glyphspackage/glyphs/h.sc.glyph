@@ -5,36 +5,36 @@ layers = (
 anchors = (
 {
 name = strokelong;
-position = "{262, 418}";
+pos = (262,418);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"502 0 LINE",
-"502 578 LINE",
-"314 578 LINE",
-"314 0 LINE"
+(502,0,l),
+(502,578,l),
+(314,578,l),
+(314,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"209 0 LINE",
-"209 578 LINE",
-"21 578 LINE",
-"21 0 LINE"
+(209,0,l),
+(209,578,l),
+(21,578,l),
+(21,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"383 213 LINE",
-"383 374 LINE",
-"142 374 LINE",
-"142 213 LINE"
+(383,213,l),
+(383,374,l),
+(142,374,l),
+(142,213,l)
 );
 }
 );
@@ -50,36 +50,36 @@ width = 513;
 anchors = (
 {
 name = strokelong;
-position = "{231, 419}";
+pos = (231,419);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"442 0 LINE",
-"442 578 LINE",
-"254 578 LINE",
-"254 0 LINE"
+(442,0,l),
+(442,578,l),
+(254,578,l),
+(254,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"209 0 LINE",
-"209 578 LINE",
-"21 578 LINE",
-"21 0 LINE"
+(209,0,l),
+(209,578,l),
+(21,578,l),
+(21,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"344 209 LINE",
-"344 370 LINE",
-"122 370 LINE",
-"122 209 LINE"
+(344,209,l),
+(344,370,l),
+(122,370,l),
+(122,209,l)
 );
 }
 );
@@ -95,54 +95,54 @@ width = 463;
 anchors = (
 {
 name = strokelong;
-position = "{200.542, 419}";
+pos = (200.542,419);
 }
 );
 hints = (
 {
-origin = "{1, 2}";
-target = "{1, 1}";
+origin = (1,2);
+target = (1,1);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{2, 0}";
-target = "{2, 1}";
+origin = (2,0);
+target = (2,1);
 type = Stem;
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"327.783 0 LINE",
-"327.783 576.096 LINE",
-"297.783 576.096 LINE",
-"297.783 0 LINE"
+(327.783,0,l),
+(327.783,576.096,l),
+(297.783,576.096,l),
+(297.783,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"103.349 0 LINE",
-"103.349 576.096 LINE",
-"73.349 576.096 LINE",
-"73.349 0 LINE"
+(103.349,0,l),
+(103.349,576.096,l),
+(73.349,576.096,l),
+(73.349,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"308.783 274.675 LINE",
-"308.783 302.422 LINE",
-"93.446 302.422 LINE",
-"93.446 274.675 LINE"
+(308.783,274.675,l),
+(308.783,302.422,l),
+(93.446,302.422,l),
+(93.446,274.675,l)
 );
 }
 );
@@ -158,54 +158,54 @@ width = 401.13253;
 anchors = (
 {
 name = strokelong;
-position = "{286.747, 419.904}";
+pos = (286.747,419.904);
 }
 );
 hints = (
 {
-origin = "{1, 2}";
-target = "{1, 1}";
+origin = (1,2);
+target = (1,1);
 type = Stem;
 },
 {
-origin = "{0, 2}";
-target = "{0, 1}";
+origin = (0,2);
+target = (0,1);
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{2, 0}";
-target = "{2, 1}";
+origin = (2,0);
+target = (2,1);
 type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"477.253 0 LINE",
-"477.253 576.096 LINE",
-"447.253 576.096 LINE",
-"447.253 0 LINE"
+(477.253,0,l),
+(477.253,576.096,l),
+(447.253,576.096,l),
+(447.253,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"125.241 0 LINE",
-"125.241 576.096 LINE",
-"95.241 576.096 LINE",
-"95.241 0 LINE"
+(125.241,0,l),
+(125.241,576.096,l),
+(95.241,576.096,l),
+(95.241,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-"455.337 274.867 LINE",
-"455.337 302.614 LINE",
-"117.253 302.614 LINE",
-"117.253 274.867 LINE"
+(455.337,274.867,l),
+(455.337,302.614,l),
+(117.253,302.614,l),
+(117.253,274.867,l)
 );
 }
 );

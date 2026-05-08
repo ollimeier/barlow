@@ -1,60 +1,60 @@
 {
 glyphname = lcommaaccent.sc;
+kernRight = L;
 layers = (
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = l.sc;
+ref = l.sc;
 },
 {
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 81, 0}";
+pos = (81,0);
+ref = commaaccentcomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 492;
 },
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = l.sc;
+ref = l.sc;
 },
 {
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 64, 0}";
+pos = (64,0);
+ref = commaaccentcomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 428;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
-name = l.sc;
+ref = l.sc;
 },
 {
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 111, 0}";
+pos = (111,0);
+ref = commaaccentcomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 326;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
 alignment = -1;
-name = l.sc;
+ref = l.sc;
 },
 {
 alignment = -1;
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 160, 0}";
+pos = (160,0);
+ref = commaaccentcomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 484.38554;
 }
 );
-rightKerningGroup = L;
 }

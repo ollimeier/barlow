@@ -1,62 +1,62 @@
 {
 glyphname = Uhorntilde;
+kernLeft = U;
+kernRight = U;
 layers = (
 {
-components = (
+layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+shapes = (
 {
-name = Uhorn;
+ref = Uhorn;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 114, 180}";
+pos = (114,180);
+ref = tildecomb;
 }
 );
-layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 487;
 },
 {
-components = (
+layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+shapes = (
 {
-name = Uhorn;
+ref = Uhorn;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 123, 180}";
+pos = (123,180);
+ref = tildecomb;
 }
 );
-layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 width = 639;
 },
 {
-components = (
+layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
 {
 alignment = -1;
-name = Uhorn;
+ref = Uhorn;
 },
 {
 alignment = -1;
-name = tildecomb;
-transform = "{1, 0, 0, 1, 122.566, 199.036}";
+pos = (122.566,199.036);
+ref = tildecomb;
 }
 );
-layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 width = 474.62651;
 },
 {
-components = (
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
 {
-name = Uhorn;
+ref = Uhorn;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 193, 199}";
+pos = (193,199);
+ref = tildecomb;
 }
 );
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 width = 635;
 }
 );
-leftKerningGroup = U;
-rightKerningGroup = U;
-unicode = 1EEE;
+unicode = 7918;
 }
