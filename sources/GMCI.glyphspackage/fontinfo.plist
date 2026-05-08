@@ -38,8 +38,16 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
+name = trademark;
+value = "GMC-I is a trademark of GMC Instruments Group.";
+},
+{
 name = vendorID;
 value = "!WLF";
+},
+{
+name = versionString;
+value = "Version 1.00";
 },
 {
 name = Axes;
@@ -59,9 +67,9 @@ name = "Decompose Components in Variable Font";
 value = 1;
 }
 );
-date = "2019-07-02 08:04:58 +0000";
+date = "2026-05-08 14:10:01 +0000";
 designer = "Jeremy Tribby";
-designerURL = "https://tribby.com/";
+designerURL = "https://tribby.com";
 familyName = "GMC-I Neo";
 featurePrefixes = (
 {
@@ -59968,8 +59976,8 @@ quotesinglbase = -101;
 };
 };
 manufacturer = "We Love Fonts";
-manufacturerURL = "https://welovefonts.com/";
+manufacturerURL = "https://welovefonts.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 422;
+versionMinor = 0;
 }
