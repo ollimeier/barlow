@@ -465,10 +465,6 @@ value = (
 );
 },
 {
-name = weightClass;
-value = 250;
-},
-{
 name = familyName;
 value = "GMC-I Neo Cond";
 },
@@ -491,6 +487,7 @@ instanceInterpolations = {
 "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93" = 1;
 };
 name = Thin;
+weightClass = Thin;
 widthClass = Condensed;
 },
 {
@@ -500,10 +497,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = weightClass;
-value = 275;
 },
 {
 name = familyName;
@@ -529,6 +522,7 @@ instanceInterpolations = {
 "4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.05696;
 };
 name = ExtraLight;
+weightClass = ExtraLight;
 widthClass = Condensed;
 },
 {
@@ -784,10 +778,6 @@ value = (
 );
 },
 {
-name = weightClass;
-value = 250;
-},
-{
 name = familyName;
 value = "GMC-I Neo";
 },
@@ -809,6 +799,7 @@ instanceInterpolations = {
 "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57" = 1;
 };
 name = Thin;
+weightClass = Thin;
 },
 {
 customParameters = (
@@ -817,10 +808,6 @@ name = "Decompose Glyphs";
 value = (
 "n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
 );
-},
-{
-name = weightClass;
-value = 275;
 },
 {
 name = familyName;
@@ -845,6 +832,7 @@ instanceInterpolations = {
 "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.05696;
 };
 name = ExtraLight;
+weightClass = ExtraLight;
 },
 {
 customParameters = (
@@ -1096,10 +1084,6 @@ name = italicAngle;
 value = "7";
 },
 {
-name = weightClass;
-value = 250;
-},
-{
 name = familyName;
 value = "GMC-I Neo Cond";
 },
@@ -1124,6 +1108,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
+weightClass = Thin;
 widthClass = Condensed;
 },
 {
@@ -1144,10 +1129,6 @@ value = (
 {
 name = italicAngle;
 value = "7";
-},
-{
-name = weightClass;
-value = 275;
 },
 {
 name = familyName;
@@ -1175,6 +1156,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
+weightClass = ExtraLight;
 widthClass = Condensed;
 },
 {
@@ -1530,10 +1512,6 @@ name = italicAngle;
 value = "7";
 },
 {
-name = weightClass;
-value = 250;
-},
-{
 name = preferredFamilyName;
 value = "GMC-I Neo";
 }
@@ -1545,6 +1523,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
+weightClass = Thin;
 },
 {
 customParameters = (
@@ -1566,10 +1545,6 @@ name = italicAngle;
 value = "7";
 },
 {
-name = weightClass;
-value = 275;
-},
-{
 name = preferredFamilyName;
 value = "GMC-I Neo";
 }
@@ -1582,6 +1557,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
+weightClass = ExtraLight;
 },
 {
 customParameters = (
