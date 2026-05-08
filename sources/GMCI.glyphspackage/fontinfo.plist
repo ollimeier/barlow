@@ -206,6 +206,7 @@ horizontalStems = (
 );
 iconName = Light_Condensed;
 id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+name = "Cond Light";
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 3;
@@ -234,7 +235,7 @@ alignmentZones = (
 );
 ascender = 1000;
 capHeight = 700;
-custom = Cond;
+custom = "Cond Black";
 customParameters = (
 {
 name = typoAscender;
@@ -303,7 +304,6 @@ noodleThickness = "22.0";
 verticalStems = (
 161
 );
-weight = Bold;
 weightValue = 188;
 widthValue = 75;
 xHeight = 520;
@@ -402,6 +402,7 @@ alignmentZones = (
 );
 ascender = 1000;
 capHeight = 700;
+custom = Black;
 customParameters = (
 {
 name = typoAscender;
@@ -457,6 +458,7 @@ descender = -200;
 horizontalStems = (
 188
 );
+iconName = Bold;
 id = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 userData = {
 GSCornerRadius = 8;
@@ -470,7 +472,6 @@ noodleThickness = "22.0";
 verticalStems = (
 161
 );
-weight = Bold;
 weightValue = 188;
 xHeight = 520;
 }
