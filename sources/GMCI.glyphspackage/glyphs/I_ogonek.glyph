@@ -6,63 +6,53 @@ layers = (
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-alignment = -1;
-pos = (37,0);
+pos = (32,0);
 ref = ogonekcomb;
 }
 );
-width = 267;
+width = 292;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-alignment = -1;
-pos = (42,0);
+pos = (39,0);
 ref = ogonekcomb;
 }
 );
-width = 240;
+width = 248;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
-pos = (-18.084,0);
 ref = I;
 },
 {
-alignment = -1;
-pos = (21.06,0);
+pos = (17,0);
 ref = ogonekcomb;
 }
 );
-width = 167.66265;
+width = 164;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-15.229,0);
 ref = I;
 },
 {
-alignment = -1;
-pos = (35.096,0);
+pos = (34,0);
 ref = ogonekcomb;
 }
 );
-width = 224.16867;
+width = 225;
 }
 );
 unicode = 302;
