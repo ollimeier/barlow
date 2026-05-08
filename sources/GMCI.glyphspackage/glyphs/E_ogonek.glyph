@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Eogonek;
 kernLeft = H;
 layers = (
@@ -10,7 +10,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (203,18);
+pos = (352,0);
 ref = ogonek;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (125,10);
+pos = (248,0);
 ref = ogonek;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (148,5);
+pos = (246,0);
 ref = ogonek;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (241,5);
+pos = (390,0);
 ref = ogonek;
 }
 );
