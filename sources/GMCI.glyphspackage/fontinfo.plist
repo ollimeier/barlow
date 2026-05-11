@@ -124,6 +124,8 @@ languagesystem latn CRT;
 languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
 ";
 name = Languagesystems;
 }
@@ -137,8 +139,7 @@ feature numr;
 feature dnom;
 feature frac;
 feature ordn;
-feature pnum;
-feature tnum;
+feature calt;
 ";
 tag = aalt;
 },
@@ -180,6 +181,17 @@ language TAT;
 lookup locl_latn_0;
 language TRK;
 lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 ";
 tag = locl;
 },
@@ -324,36 +336,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
-},
-{
-automatic = 1;
-code = "sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-";
-tag = pnum;
-},
-{
-automatic = 1;
-code = "sub zero by zero.tf;
-sub one by one.tf;
-sub two by two.tf;
-sub three by three.tf;
-sub four by four.tf;
-sub five by five.tf;
-sub six by six.tf;
-sub seven by seven.tf;
-sub eight by eight.tf;
-sub nine by nine.tf;
-";
-tag = tnum;
 },
 {
 automatic = 1;
