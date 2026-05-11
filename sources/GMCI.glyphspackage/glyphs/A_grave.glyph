@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;
@@ -11,7 +11,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (175,180);
+pos = (165,180);
 ref = gravecomb;
 }
 );
@@ -37,7 +37,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (107,199);
+pos = (125,199);
 ref = gravecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (200,199);
+pos = (206,199);
 ref = gravecomb;
 }
 );

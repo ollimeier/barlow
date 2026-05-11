@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Aacute;
 kernLeft = A;
 kernRight = A;
@@ -11,7 +11,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (244,180);
+pos = (264,180);
 ref = acutecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (155,199);
+pos = (158,199);
 ref = acutecomb;
 }
 );

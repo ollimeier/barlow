@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Aring;
 kernLeft = A;
 kernRight = A;
@@ -11,7 +11,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (227,180);
+alignment = -1;
+pos = (227,53);
 ref = ringcomb;
 }
 );
@@ -24,7 +25,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (141,180);
+alignment = -1;
+pos = (141,53);
 ref = ringcomb;
 }
 );
@@ -37,7 +39,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (100,199);
+alignment = -1;
+pos = (100,87);
 ref = ringcomb;
 }
 );
@@ -50,7 +53,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (178,199);
+alignment = -1;
+pos = (178,87);
 ref = ringcomb;
 }
 );

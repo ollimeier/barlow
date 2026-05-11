@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Atilde;
 kernLeft = A;
 kernRight = A;
@@ -11,7 +11,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (141,180);
+pos = (146,180);
 ref = tildecomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (122,180);
+pos = (94,180);
 ref = tildecomb;
 }
 );
