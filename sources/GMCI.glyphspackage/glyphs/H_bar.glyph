@@ -48,11 +48,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (35,-10);
+pos = (34,-10);
 ref = strokelongcomb;
 }
 );
-width = 638;
+width = 637;
 }
 );
 unicode = 294;

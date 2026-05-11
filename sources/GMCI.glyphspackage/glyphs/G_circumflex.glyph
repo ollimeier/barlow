@@ -48,7 +48,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (138,199);
+pos = (139,199);
 ref = circumflexcomb;
 }
 );
