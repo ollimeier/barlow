@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = seven.numr;
 layers = (
 {
@@ -36,12 +36,11 @@ width = 202;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-2,280);
+pos = (0,280);
 ref = seven.dnom;
 }
 );
-width = 266;
+width = 273;
 }
 );
 }

@@ -1,12 +1,11 @@
 {
-color = 0;
+color = 4;
 glyphname = nine.numr;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
 angle = 180;
 pos = (323,700);
 ref = six.dnom;
@@ -40,13 +39,12 @@ width = 218;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 angle = 180;
-pos = (279.217,699.048);
+pos = (279,699);
 ref = six.dnom;
 }
 );
-width = 303;
+width = 279;
 }
 );
 }

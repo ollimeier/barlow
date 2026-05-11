@@ -10,7 +10,7 @@ pos = (0,280);
 ref = one.dnom;
 }
 );
-width = 196;
+width = 257;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -20,7 +20,7 @@ pos = (0,280);
 ref = one.dnom;
 }
 );
-width = 172;
+width = 206;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -30,18 +30,17 @@ pos = (0,280);
 ref = one.dnom;
 }
 );
-width = 125;
+width = 156;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 pos = (0,280);
 ref = one.dnom;
 }
 );
-width = 179;
+width = 210;
 }
 );
 }

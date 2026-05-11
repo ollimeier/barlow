@@ -9,19 +9,19 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (348,0);
+pos = (318,0);
 ref = fraction;
 },
 {
-pos = (558,0);
+pos = (590,0);
 ref = zero.dnom;
 },
 {
-pos = (906,0);
+pos = (938,0);
 ref = zero.dnom;
 }
 );
-width = 1254;
+width = 1286;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -34,15 +34,15 @@ pos = (290,0);
 ref = fraction;
 },
 {
-pos = (450,0);
+pos = (509,0);
 ref = zero.dnom;
 },
 {
-pos = (740,0);
+pos = (799,0);
 ref = zero.dnom;
 }
 );
-width = 1030;
+width = 1089;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = sevensuperior;
 layers = (
 {
@@ -16,34 +16,31 @@ width = 320;
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
-pos = (3,460);
+pos = (0,460);
 ref = seven.dnom;
 }
 );
-width = 272;
+width = 269;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
-pos = (0.145,460);
+pos = (0,460);
 ref = seven.dnom;
 }
 );
-width = 203;
+width = 202;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-2,460);
+pos = (0,460);
 ref = seven.dnom;
 }
 );
-width = 266;
+width = 273;
 }
 );
 unicode = 8311;

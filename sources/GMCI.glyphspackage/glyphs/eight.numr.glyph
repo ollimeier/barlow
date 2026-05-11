@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = eight.numr;
 layers = (
 {
@@ -36,8 +36,7 @@ width = 229;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (0,285.807);
+pos = (0,286);
 ref = eight.dnom;
 }
 );
