@@ -10,7 +10,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (21,58);
+pos = (41,58);
 ref = acutecomb;
 }
 );

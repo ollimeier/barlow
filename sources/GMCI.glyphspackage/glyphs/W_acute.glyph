@@ -11,7 +11,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (359,180);
+pos = (379,180);
 ref = acutecomb;
 }
 );

@@ -24,7 +24,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (145,180);
+pos = (135,180);
 ref = gravecomb;
 }
 );
@@ -52,7 +52,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (213,199);
+pos = (219,199);
 ref = gravecomb;
 }
 );

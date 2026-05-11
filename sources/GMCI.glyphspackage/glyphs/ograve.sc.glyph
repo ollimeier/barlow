@@ -12,7 +12,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (113,65);
+pos = (103,65);
 ref = gravecomb;
 }
 );
@@ -38,7 +38,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (105,75);
+pos = (123,75);
 ref = gravecomb;
 }
 );

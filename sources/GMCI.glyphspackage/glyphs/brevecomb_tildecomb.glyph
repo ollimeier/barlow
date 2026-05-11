@@ -8,7 +8,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (9,161);
+pos = (-19,161);
 ref = tildecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (31,245);
+pos = (35,245);
 ref = tildecomb;
 scale = (0.8264,0.8264);
 }

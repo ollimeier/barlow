@@ -24,7 +24,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (226,180);
+pos = (246,180);
 ref = acutecomb;
 }
 );
@@ -52,7 +52,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (194,199);
+pos = (197,199);
 ref = acutecomb;
 }
 );

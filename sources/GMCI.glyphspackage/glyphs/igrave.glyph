@@ -9,7 +9,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-27,0);
+pos = (-37,0);
 ref = gravecomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-13,0);
+pos = (5,0);
 ref = gravecomb;
 }
 );
