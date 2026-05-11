@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = foursuperior;
 layers = (
 {
@@ -16,7 +16,6 @@ width = 375;
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = four.dnom;
 }
@@ -27,7 +26,6 @@ width = 328;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = four.dnom;
 }
@@ -38,12 +36,11 @@ width = 215;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = four.dnom;
 }
 );
-width = 318;
+width = 288;
 }
 );
 unicode = 8308;

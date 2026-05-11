@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = five.numr;
 layers = (
 {
@@ -36,12 +36,11 @@ width = 230;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (0,282.855);
+pos = (0,283);
 ref = five.dnom;
 }
 );
-width = 295;
+width = 297;
 }
 );
 }

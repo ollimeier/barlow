@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = fivesuperior;
 layers = (
 {
@@ -16,7 +16,6 @@ width = 343;
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = five.dnom;
 }
@@ -27,7 +26,6 @@ width = 280;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = five.dnom;
 }
@@ -38,12 +36,11 @@ width = 230;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 pos = (0,460);
 ref = five.dnom;
 }
 );
-width = 295;
+width = 297;
 }
 );
 unicode = 8309;
