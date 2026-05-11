@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = q;
 kernLeft = d;
 kernRight = g;
@@ -8,49 +8,45 @@ layers = (
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
-angle = 180;
-pos = (460,520);
-ref = b;
+pos = (459,0);
+ref = p;
+scale = (-1,1);
 }
 );
-width = 462;
+width = 459;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
-angle = 180;
-pos = (579,520);
-ref = b;
+pos = (586,0);
+ref = p;
+scale = (-1,1);
 }
 );
-width = 579;
+width = 586;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
-angle = 180;
-pos = (409.554,500.964);
-ref = b;
+pos = (381,0);
+ref = p;
+scale = (-1,1);
 }
 );
-width = 416;
+width = 381;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-angle = 180;
-pos = (534.265,500.964);
-ref = b;
+pos = (511,0);
+ref = p;
+scale = (-1,1);
 }
 );
-width = 543;
+width = 511;
 }
 );
 unicode = 113;
