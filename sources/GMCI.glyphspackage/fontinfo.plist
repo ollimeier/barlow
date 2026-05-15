@@ -359,35 +359,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
-},
-{
-name = winAscent;
-value = 1075;
-},
-{
-name = winDescent;
-value = 274;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 950;
+},
+{
+name = winDescent;
+value = 250;
 },
 {
 name = "Axis Location";
@@ -448,35 +448,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
-},
-{
-name = winAscent;
-value = 1075;
-},
-{
-name = winDescent;
-value = 274;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 950;
+},
+{
+name = winDescent;
+value = 250;
 },
 {
 name = "Axis Location";
@@ -546,35 +546,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
-},
-{
-name = winAscent;
-value = 1112;
-},
-{
-name = winDescent;
-value = 249;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 950;
+},
+{
+name = winDescent;
+value = 250;
 },
 {
 name = "Axis Location";
@@ -635,35 +635,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
-},
-{
-name = winAscent;
-value = 1112;
-},
-{
-name = winDescent;
-value = 249;
-},
-{
-name = hheaAscender;
-value = 1000;
-},
-{
-name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 950;
+},
+{
+name = winDescent;
+value = 250;
 },
 {
 name = "Axis Location";
@@ -1776,6 +1776,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1847,6 +1848,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1918,6 +1920,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -1989,6 +1992,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2058,6 +2062,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2129,6 +2134,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2200,6 +2206,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2271,6 +2278,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2342,6 +2350,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2413,6 +2422,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2466,6 +2476,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2519,6 +2530,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2572,6 +2584,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2623,6 +2636,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2676,6 +2690,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2729,6 +2744,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2782,6 +2798,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
@@ -2835,6 +2852,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Rename Glyphs";
 value = (
 "a=a.alt",
