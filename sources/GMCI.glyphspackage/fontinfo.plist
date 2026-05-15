@@ -3437,6 +3437,9 @@ kerningLTR = {
 "@MMK_R_period" = 0;
 "@MMK_R_uni0292" = -7;
 };
+"@MMK_L_dcaron" = {
+lcaron = 30;
+};
 "@MMK_L_g" = {
 "@MMK_R_T" = -65;
 "@MMK_R_W" = -15;
