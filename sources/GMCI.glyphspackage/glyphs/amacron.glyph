@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = amacron;
 kernLeft = a;
 kernRight = n;
@@ -37,7 +37,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-108,0);
+pos = (-105,0);
 ref = macron;
 }
 );
@@ -47,16 +47,14 @@ width = 373;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (123.904,0);
+pos = (115,0);
 ref = macron;
 }
 );
-width = 501;
+width = 497;
 }
 );
 unicode = 257;

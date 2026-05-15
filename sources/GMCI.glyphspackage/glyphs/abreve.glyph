@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = abreve;
 kernLeft = a;
 kernRight = n;
@@ -37,7 +37,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (59,0);
+pos = (61,0);
 ref = breve;
 }
 );
@@ -47,16 +47,14 @@ width = 373;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (112.506,-0.048);
+pos = (104,0);
 ref = breve;
 }
 );
-width = 501;
+width = 497;
 }
 );
 unicode = 259;
