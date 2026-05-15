@@ -135,31 +135,6 @@ useSpacing = 61;
 width = 542;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-place = (0,0);
-type = Stem;
-},
-{
-place = (0,0);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -225,31 +200,6 @@ useSpacing = 80;
 width = 389;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (666,-20);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (387,18);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-8,20);
-type = Stem;
-},
-{
-place = (388,0);
-type = Stem;
-},
-{
-place = (62,0);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

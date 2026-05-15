@@ -55,12 +55,6 @@ useSpacing = 61;
 width = 539;
 },
 {
-hints = (
-{
-place = (0,0);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -86,12 +80,6 @@ useSpacing = 80;
 width = 363;
 },
 {
-hints = (
-{
-place = (304,0);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

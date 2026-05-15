@@ -195,36 +195,6 @@ coordinates = (
 100
 );
 };
-hints = (
-{
-origin = (0,29);
-target = (0,14);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,26);
-target = (0,17);
-type = Stem;
-},
-{
-origin = (0,21);
-target = (0,22);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,5);
-target = (0,4);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,33);
-target = (0,10);
-type = Stem;
-}
-);
 layerId = "A647F3C7-5120-453C-B94E-0D3288838C7D";
 name = "{100, 500}";
 shapes = (
@@ -281,36 +251,6 @@ name = top;
 pos = (206.639,700);
 }
 );
-hints = (
-{
-origin = (0,29);
-target = (0,14);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,26);
-target = (0,17);
-type = Stem;
-},
-{
-origin = (0,21);
-target = (0,22);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,5);
-target = (0,4);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,33);
-target = (0,10);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -364,36 +304,6 @@ pos = (285.867,-8);
 {
 name = top;
 pos = (285.867,700.386);
-}
-);
-hints = (
-{
-origin = (0,29);
-target = (0,14);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,26);
-target = (0,17);
-type = Stem;
-},
-{
-origin = (0,21);
-target = (0,22);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,5);
-target = (0,4);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,33);
-target = (0,10);
-type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

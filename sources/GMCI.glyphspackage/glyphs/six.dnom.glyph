@@ -269,36 +269,6 @@ width = 60;
 width = 294;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (1,11);
-target = (0,11);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,28);
-target = (0,19);
-type = Stem;
-},
-{
-origin = (0,32);
-target = (1,5);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,38);
-target = (1,23);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -384,36 +354,6 @@ width = 60;
 width = 218;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (1,11);
-target = (0,11);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,28);
-target = (0,19);
-type = Stem;
-},
-{
-origin = (0,32);
-target = (1,5);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,38);
-target = (1,3);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

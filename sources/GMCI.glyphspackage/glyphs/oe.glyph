@@ -244,61 +244,6 @@ coordinates = (
 100
 );
 };
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-origin = (0,17);
-target = (1,5);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-place = (697,141);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,20);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-place = (730,88);
-type = Stem;
-}
-);
 layerId = "B919F7AB-983C-4A6F-8B3E-D89048AE680C";
 name = "{140, 500}";
 shapes = (
@@ -540,60 +485,6 @@ nodes = (
 width = 679;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-origin = (0,17);
-target = (0,14);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-place = (0,0);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -710,60 +601,6 @@ nodes = (
 width = 612;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-origin = (0,17);
-target = (0,14);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (0,5);
-type = Stem;
-},
-{
-place = (712,21);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (237,9);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,11);
-target = (1,11);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-target = (1,23);
-type = Stem;
-},
-{
-place = (704,21);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

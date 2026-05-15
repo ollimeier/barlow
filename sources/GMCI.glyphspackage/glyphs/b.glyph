@@ -151,54 +151,6 @@ nodes = (
 width = 586;
 },
 {
-hints = (
-{
-origin = (0,2);
-target = (0,1);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-origin = (0,3);
-target = (0,0);
-type = Stem;
-},
-{
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,11);
-target = (2,11);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (2,5);
-type = Stem;
-},
-{
-origin = (2,17);
-target = (1,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,23);
-target = (2,23);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -272,54 +224,6 @@ nodes = (
 width = 381;
 },
 {
-hints = (
-{
-origin = (0,2);
-target = (0,1);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (484,-20);
-type = Stem;
-},
-{
-origin = (0,3);
-target = (0,0);
-type = Stem;
-},
-{
-place = (408,21);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,11);
-target = (2,11);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (2,5);
-type = Stem;
-},
-{
-origin = (2,17);
-target = (1,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,23);
-target = (2,23);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
@@ -400,52 +304,6 @@ coordinates = (
 87.5
 );
 };
-hints = (
-{
-origin = (0,2);
-target = (0,1);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,0);
-type = Stem;
-},
-{
-origin = (0,3);
-target = (0,0);
-type = Stem;
-},
-{
-place = (117,9);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (135,-6);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (517,87);
-type = Stem;
-},
-{
-place = (119,32);
-target = (0,0);
-type = Stem;
-},
-{
-place = (331,100);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,0);
-target = (0,0);
-type = Stem;
-}
-);
 layerId = "1118FE1A-EBD7-4949-8C89-84CE5EE7BB42";
 name = "May 11, 26 at 10:26";
 shapes = (

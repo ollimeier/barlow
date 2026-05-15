@@ -83,29 +83,6 @@ scale = (1.0866,1.0866);
 width = 556;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (0,7);
-target = (0,16);
-type = Stem;
-},
-{
-origin = (0,10);
-target = (0,13);
-type = Stem;
-},
-{
-origin = (0,19);
-target = (0,4);
-type = Stem;
-},
-{
-origin = (0,22);
-target = (0,1);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -145,29 +122,6 @@ ref = dotaccentcomb;
 width = 311;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (0,7);
-target = (0,16);
-type = Stem;
-},
-{
-origin = (0,10);
-target = (0,13);
-type = Stem;
-},
-{
-origin = (0,19);
-target = (0,4);
-type = Stem;
-},
-{
-origin = (0,22);
-target = (0,1);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

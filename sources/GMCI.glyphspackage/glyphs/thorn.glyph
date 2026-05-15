@@ -151,30 +151,6 @@ nodes = (
 width = 460;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (1,11);
-target = (2,11);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (2,5);
-type = Stem;
-},
-{
-origin = (2,17);
-target = (1,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,23);
-target = (2,23);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -248,30 +224,6 @@ nodes = (
 width = 381;
 },
 {
-hints = (
-{
-horizontal = 1;
-origin = (1,11);
-target = (2,11);
-type = Stem;
-},
-{
-origin = (1,17);
-target = (2,5);
-type = Stem;
-},
-{
-origin = (2,17);
-target = (1,5);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (1,23);
-target = (2,23);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

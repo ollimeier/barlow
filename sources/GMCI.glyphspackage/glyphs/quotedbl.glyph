@@ -53,18 +53,6 @@ nodes = (
 width = 477;
 },
 {
-hints = (
-{
-origin = (0,2);
-target = (0,1);
-type = Stem;
-},
-{
-origin = (1,2);
-target = (1,1);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -89,18 +77,6 @@ nodes = (
 width = 206;
 },
 {
-hints = (
-{
-origin = (0,2);
-target = (0,1);
-type = Stem;
-},
-{
-origin = (1,2);
-target = (1,1);
-type = Stem;
-}
-);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

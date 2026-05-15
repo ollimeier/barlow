@@ -449,30 +449,6 @@ pos = (273,517);
 }
 );
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-hints = (
-{
-origin = (0,43);
-target = (0,18);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,49);
-target = (0,12);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,37);
-target = (0,24);
-type = Stem;
-},
-{
-origin = (0,30);
-target = (0,31);
-type = Stem;
-}
-);
 layerId = "1EE1D46F-5D19-4979-A3CF-98CB5FD660B9";
 name = 1005GOOD;
 shapes = (
@@ -546,30 +522,6 @@ pos = (273,517);
 }
 );
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-hints = (
-{
-origin = (0,43);
-target = (0,18);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,49);
-target = (0,12);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,37);
-target = (0,24);
-type = Stem;
-},
-{
-origin = (0,30);
-target = (0,31);
-type = Stem;
-}
-);
 layerId = "23FE8C9D-6308-4DBC-91C0-B125E6231B14";
 name = "For VF";
 shapes = (
@@ -642,30 +594,6 @@ name = top;
 pos = (184.169,500.964);
 }
 );
-hints = (
-{
-origin = (0,43);
-target = (0,18);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,49);
-target = (0,12);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,37);
-target = (0,24);
-type = Stem;
-},
-{
-origin = (0,30);
-target = (0,31);
-type = Stem;
-}
-);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -735,30 +663,6 @@ pos = (239.928,-8);
 {
 name = top;
 pos = (251.349,500.964);
-}
-);
-hints = (
-{
-origin = (0,43);
-target = (0,18);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,49);
-target = (0,12);
-type = Stem;
-},
-{
-horizontal = 1;
-origin = (0,37);
-target = (0,24);
-type = Stem;
-},
-{
-origin = (0,30);
-target = (0,31);
-type = Stem;
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
