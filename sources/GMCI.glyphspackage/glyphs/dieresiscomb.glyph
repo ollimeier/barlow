@@ -12,11 +12,11 @@ pos = (203,520);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (207,9);
+pos = (207,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-11,9);
+pos = (-11,0);
 ref = dotaccentcomb;
 }
 );
@@ -134,11 +134,11 @@ pos = (107.578,500.964);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (127.47,0);
+pos = (127,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-2.434,0);
+pos = (-2,0);
 ref = dotaccentcomb;
 }
 );

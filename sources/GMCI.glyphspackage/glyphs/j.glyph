@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = j;
 kernLeft = j;
 layers = (
@@ -28,8 +28,9 @@ nodes = (
 );
 },
 {
-pos = (5,0);
+pos = (0,-32);
 ref = dotaccentcomb;
+scale = (1.05,1.05);
 }
 );
 width = 226;
@@ -59,8 +60,9 @@ nodes = (
 );
 },
 {
-pos = (31,0);
+pos = (20,-66);
 ref = dotaccentcomb;
+scale = (1.1025,1.1025);
 }
 );
 width = 272;
