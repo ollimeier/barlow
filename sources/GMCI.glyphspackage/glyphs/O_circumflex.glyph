@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Ocircumflex;
 kernLeft = O;
 kernRight = O;
@@ -47,16 +47,14 @@ width = 419;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = O;
 },
 {
-alignment = -1;
-pos = (162.301,199.036);
+pos = (143,199);
 ref = circumflexcomb;
 }
 );
-width = 622;
+width = 582;
 }
 );
 unicode = 212;

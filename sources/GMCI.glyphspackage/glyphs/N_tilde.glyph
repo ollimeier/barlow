@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Ntilde;
 kernLeft = H;
 kernRight = H;
@@ -47,16 +47,14 @@ width = 440;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = N;
 },
 {
-alignment = -1;
-pos = (216.807,199.036);
+pos = (203,199);
 ref = tildecomb;
 }
 );
-width = 684;
+width = 652;
 }
 );
 unicode = 209;

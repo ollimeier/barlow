@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Lacute;
 kernRight = L;
 layers = (
@@ -46,16 +46,14 @@ width = 366;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = L;
 },
 {
-alignment = -1;
-pos = (7.217,199.036);
+pos = (-6,199);
 ref = acutecomb;
 }
 );
-width = 567;
+width = 531;
 }
 );
 unicode = 313;

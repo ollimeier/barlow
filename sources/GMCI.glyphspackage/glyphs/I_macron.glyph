@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Imacron;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-9,180);
+pos = (-10,180);
 ref = macron;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (3,180);
+pos = (8,180);
 ref = macron;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-207,199);
+pos = (-208,199);
 ref = macron;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-14,199);
+pos = (-15,199);
 ref = macron;
 }
 );

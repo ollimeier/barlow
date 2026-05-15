@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Ccedilla;
 kernLeft = O;
 kernRight = O;
@@ -11,7 +11,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (207,12);
+pos = (227,12);
 ref = cedillacomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (202,-5);
+pos = (238,-5);
 ref = cedillacomb;
 }
 );

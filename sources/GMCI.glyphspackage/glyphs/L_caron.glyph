@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Lcaron;
 kernRight = L;
 layers = (
@@ -7,6 +7,7 @@ layers = (
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {

@@ -45,7 +45,7 @@ pos = (120.94,500.964);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (0,1280.518);
+pos = (0,1241);
 ref = circumflexcomb;
 scale = (1,-1);
 }
