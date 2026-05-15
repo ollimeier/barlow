@@ -10,7 +10,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-63,0);
+pos = (-62,0);
 ref = hookabovecomb;
 }
 );
@@ -27,7 +27,7 @@ pos = (9,0);
 ref = hookabovecomb;
 }
 );
-width = 568;
+width = 569;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

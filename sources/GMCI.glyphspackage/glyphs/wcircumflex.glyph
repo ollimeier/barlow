@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = wcircumflex;
 kernLeft = v;
 kernRight = v;
@@ -11,7 +11,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (193,0);
+pos = (200,0);
 ref = circumflexcomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (132,0);
+pos = (133,0);
 ref = circumflexcomb;
 }
 );
@@ -37,7 +37,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (130,0);
+pos = (132,0);
 ref = circumflexcomb;
 }
 );
@@ -47,17 +47,14 @@ width = 508;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-2,0);
 ref = w;
 },
 {
-alignment = -1;
-pos = (191,0);
+pos = (196,0);
 ref = circumflexcomb;
 }
 );
-width = 681;
+width = 685;
 }
 );
 unicode = 373;

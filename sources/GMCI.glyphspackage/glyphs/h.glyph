@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = h;
 kernLeft = b;
 kernRight = n;
@@ -7,8 +7,16 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (230,0);
+},
+{
 name = shortstroke;
 pos = (131,546);
+},
+{
+name = top;
+pos = (230,700);
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -32,8 +40,16 @@ width = 460;
 {
 anchors = (
 {
+name = bottom;
+pos = (275,0);
+},
+{
 name = shortstroke;
 pos = (175,543);
+},
+{
+name = top;
+pos = (296,700);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -48,17 +64,25 @@ nodes = (
 );
 },
 {
-pos = (192,0);
+pos = (208,0);
 ref = n.curve;
 }
 );
-width = 569;
+width = 585;
 },
 {
 anchors = (
 {
+name = bottom;
+pos = (190,0);
+},
+{
 name = shortstroke;
 pos = (130.145,546.952);
+},
+{
+name = top;
+pos = (183,700);
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -73,17 +97,25 @@ nodes = (
 );
 },
 {
-pos = (73.723,0);
+pos = (76,0);
 ref = n.curve;
 }
 );
-width = 386;
+width = 388;
 },
 {
 anchors = (
 {
+name = bottom;
+pos = (262,0);
+},
+{
 name = shortstroke;
 pos = (159.771,546.807);
+},
+{
+name = top;
+pos = (265,700);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -105,5 +137,7 @@ ref = n.curve;
 width = 525;
 }
 );
+metricLeft = "=n";
+metricRight = "=n";
 unicode = 104;
 }

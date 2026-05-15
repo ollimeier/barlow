@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = f;
 kernLeft = t;
 layers = (
@@ -66,46 +66,6 @@ nodes = (
 }
 );
 width = 399;
-},
-{
-associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-attr = {
-coordinates = (
-100,
-100
-);
-};
-layerId = "2C93A357-82AB-483E-BCC8-F28359C8C182";
-name = "{100, 500}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(209,0,l),
-(209,524,l),
-(209,593,o),
-(228,613,o),
-(293,613,cs),
-(327,613,l),
-(327,700,l),
-(283,700,ls),
-(149,700,o),
-(109,661,o),
-(109,530,c),
-(109,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(327,418,l),
-(327,510,l),
-(28,510,l),
-(28,418,l)
-);
-}
-);
-width = 344;
 },
 {
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -210,6 +170,46 @@ nodes = (
 }
 );
 width = 301;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+attr = {
+coordinates = (
+100,
+100
+);
+};
+layerId = "86B21FCA-7F7E-4EBC-926D-1C18BCD067BC";
+name = "{100, 100} May 15, 26 at 13:01";
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,0,l),
+(209,524,l),
+(209,593,o),
+(228,613,o),
+(293,613,cs),
+(327,613,l),
+(327,700,l),
+(283,700,ls),
+(149,700,o),
+(109,661,o),
+(109,530,c),
+(109,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,417,l),
+(327,509,l),
+(28,509,l),
+(28,417,l)
+);
+}
+);
+width = 344;
 }
 );
 unicode = 102;

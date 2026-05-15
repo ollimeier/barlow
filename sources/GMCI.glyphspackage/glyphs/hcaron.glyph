@@ -15,11 +15,11 @@ shapes = (
 ref = h;
 },
 {
-pos = (52,180);
+pos = (48,180);
 ref = caroncomb;
 }
 );
-width = 462;
+width = 460;
 },
 {
 anchors = (
@@ -34,11 +34,11 @@ shapes = (
 ref = h;
 },
 {
-pos = (67,180);
+pos = (106,180);
 ref = caroncomb;
 }
 );
-width = 569;
+width = 585;
 },
 {
 anchors = (
@@ -74,7 +74,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (120.301,196.181);
+pos = (118,196);
 ref = caroncomb;
 }
 );

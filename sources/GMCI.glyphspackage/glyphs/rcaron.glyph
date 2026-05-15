@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = rcaron;
 kernLeft = n;
 kernRight = r;
@@ -37,7 +37,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (34,0);
+pos = (24,0);
 ref = caron;
 }
 );
@@ -47,16 +47,14 @@ width = 258;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = r;
 },
 {
-alignment = -1;
-pos = (71.024,0);
+pos = (54,0);
 ref = caron;
 }
 );
-width = 353;
+width = 350;
 }
 );
 unicode = 345;

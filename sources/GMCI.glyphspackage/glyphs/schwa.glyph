@@ -1,6 +1,8 @@
 {
-color = 0;
+color = 4;
 glyphname = schwa;
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -28,13 +30,12 @@ width = 449;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 angle = 180;
-pos = (391.036,500.964);
+pos = (364,501);
 ref = e;
 }
 );
-width = 391;
+width = 364;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

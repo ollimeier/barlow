@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = zacute;
 kernLeft = z;
 layers = (
@@ -46,16 +46,14 @@ width = 323;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = z;
 },
 {
-alignment = -1;
-pos = (94.843,0);
+pos = (103,0);
 ref = acutecomb;
 }
 );
-width = 438;
+width = 449;
 }
 );
 unicode = 378;

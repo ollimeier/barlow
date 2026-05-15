@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = j.short;
 kernLeft = j;
 layers = (
@@ -13,8 +13,9 @@ pos = (110,520);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-pos = (5,0);
+pos = (0,-32);
 ref = dotaccentcomb;
+scale = (1.05,1.05);
 },
 {
 closed = 1;
@@ -44,8 +45,9 @@ pos = (139,520);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (31,0);
+pos = (20,-66);
 ref = dotaccentcomb;
+scale = (1.1025,1.1025);
 },
 {
 closed = 1;

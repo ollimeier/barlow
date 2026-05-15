@@ -1,7 +1,8 @@
 {
-color = 0;
+color = 4;
 glyphname = dcaron;
-kernLeft = d;
+kernLeft = o;
+kernRight = dcaron;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -27,7 +28,7 @@ ref = d;
 },
 {
 alignment = -1;
-pos = (443,0);
+pos = (433,0);
 ref = commaabovecomb;
 }
 );
@@ -42,7 +43,7 @@ ref = d;
 },
 {
 alignment = -1;
-pos = (402.072,0);
+pos = (352,0);
 ref = commaabovecomb;
 }
 );
@@ -57,7 +58,7 @@ ref = d;
 },
 {
 alignment = -1;
-pos = (493.373,0);
+pos = (473,0);
 ref = commaabovecomb;
 }
 );

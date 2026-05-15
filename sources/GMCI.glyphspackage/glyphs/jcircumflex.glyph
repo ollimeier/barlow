@@ -1,4 +1,5 @@
 {
+color = 4;
 export = 0;
 glyphname = jcircumflex;
 layers = (
@@ -32,16 +33,14 @@ width = 273;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 ref = jdotless;
 },
 {
-alignment = -1;
-pos = (-32.88,0);
+pos = (-42,0);
 ref = circumflexcomb;
 }
 );
-width = 186;
+width = 155;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

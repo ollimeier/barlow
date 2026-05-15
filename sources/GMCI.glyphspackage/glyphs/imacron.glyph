@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = imacron;
 layers = (
 {
@@ -44,16 +44,14 @@ width = 150;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (-27.566,0);
+pos = (-24,0);
 ref = macron;
 }
 );
-width = 198;
+width = 206;
 }
 );
 unicode = 299;

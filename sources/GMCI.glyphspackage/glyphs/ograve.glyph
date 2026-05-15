@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = ograve;
 kernLeft = o;
 kernRight = o;
@@ -47,16 +47,14 @@ width = 369;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = o;
 },
 {
-alignment = -1;
-pos = (169.301,0);
+pos = (177,0);
 ref = gravecomb;
 }
 );
-width = 528;
+width = 496;
 }
 );
 unicode = 242;

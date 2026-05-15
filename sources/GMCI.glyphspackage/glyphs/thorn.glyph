@@ -1,7 +1,7 @@
 {
-color = 0;
+color = 4;
 glyphname = thorn;
-kernLeft = n;
+kernLeft = b;
 kernRight = n;
 layers = (
 {
@@ -75,7 +75,7 @@ nodes = (
 );
 }
 );
-width = 568;
+width = 566;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -294,8 +294,10 @@ nodes = (
 );
 }
 );
-width = 516;
+width = 509;
 }
 );
+metricLeft = "=p";
+metricRight = "=p";
 unicode = 254;
 }

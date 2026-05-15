@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = idotaccent;
 layers = (
 {
@@ -32,16 +32,14 @@ width = 272;
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (33.843,0);
+pos = (30,0);
 ref = dotaccentcomb;
 }
 );
-width = 158;
+width = 150;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";

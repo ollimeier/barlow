@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = umacron;
 kernLeft = u;
 layers = (
@@ -14,7 +14,7 @@ pos = (125,0);
 ref = macron;
 }
 );
-width = 568;
+width = 569;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -23,7 +23,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (113,0);
+pos = (114,0);
 ref = macron;
 }
 );
@@ -46,16 +46,14 @@ width = 386;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (141.229,0);
+pos = (138,0);
 ref = macron;
 }
 );
-width = 535;
+width = 524;
 }
 );
 unicode = 363;

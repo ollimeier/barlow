@@ -10,7 +10,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (143,0);
+pos = (144,0);
 ref = acutecomb;
 }
 );
@@ -27,7 +27,7 @@ pos = (207,0);
 ref = acutecomb;
 }
 );
-width = 568;
+width = 569;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

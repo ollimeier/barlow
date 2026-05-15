@@ -1,9 +1,13 @@
 {
-color = 0;
+color = 4;
 glyphname = idotless;
 layers = (
 {
 anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
 {
 name = ogonek;
 pos = (89,0);
@@ -30,6 +34,10 @@ width = 272;
 {
 anchors = (
 {
+name = bottom;
+pos = (116,0);
+},
+{
 name = ogonek;
 pos = (59,0);
 },
@@ -55,6 +63,10 @@ width = 232;
 {
 anchors = (
 {
+name = bottom;
+pos = (75,0);
+},
+{
 name = ogonek;
 pos = (60,0);
 },
@@ -79,6 +91,10 @@ width = 150;
 },
 {
 anchors = (
+{
+name = bottom;
+pos = (103,0);
+},
 {
 name = ogonek;
 pos = (88,0);

@@ -24,7 +24,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-16,13);
+pos = (-16,0);
 ref = hookabovecomb;
 }
 );
@@ -52,7 +52,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-57,1);
+pos = (-57,0);
 ref = hookabovecomb;
 }
 );

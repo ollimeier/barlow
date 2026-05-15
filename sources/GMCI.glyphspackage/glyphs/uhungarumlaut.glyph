@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = uhungarumlaut;
 kernLeft = u;
 layers = (
@@ -14,7 +14,7 @@ pos = (101,0);
 ref = hungarumlautcomb;
 }
 );
-width = 568;
+width = 569;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -23,7 +23,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (64,0);
+pos = (65,0);
 ref = hungarumlautcomb;
 }
 );
@@ -46,16 +46,14 @@ width = 386;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (132.41,0);
+pos = (131,0);
 ref = hungarumlautcomb;
 }
 );
-width = 535;
+width = 524;
 }
 );
 unicode = 369;

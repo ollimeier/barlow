@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = ucircumflex;
 kernLeft = u;
 layers = (
@@ -14,7 +14,7 @@ pos = (82,0);
 ref = circumflexcomb;
 }
 );
-width = 568;
+width = 569;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -23,7 +23,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (43,0);
+pos = (44,0);
 ref = circumflexcomb;
 }
 );
@@ -46,16 +46,14 @@ width = 386;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (120.072,0);
+pos = (118,0);
 ref = circumflexcomb;
 }
 );
-width = 535;
+width = 524;
 }
 );
 unicode = 251;

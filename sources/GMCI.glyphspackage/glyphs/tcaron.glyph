@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = tcaron;
 kernLeft = t;
 kernRight = t;
@@ -12,7 +12,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (260,0);
+pos = (290,0);
 ref = commaabovecomb;
 }
 );
@@ -22,7 +22,6 @@ width = 397;
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
 ref = t;
 },
 {
@@ -31,13 +30,12 @@ pos = (235,1);
 ref = commaabovecomb;
 }
 );
-width = 307;
+width = 301;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
 ref = t;
 },
 {
@@ -46,13 +44,12 @@ pos = (136.012,0.048);
 ref = commaabovecomb;
 }
 );
-width = 214;
+width = 213;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = t;
 },
 {
@@ -61,7 +58,7 @@ pos = (216.217,0);
 ref = commaabovecomb;
 }
 );
-width = 354;
+width = 298;
 }
 );
 unicode = 357;

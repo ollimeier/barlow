@@ -25,7 +25,7 @@ ref = L;
 },
 {
 anchor = center;
-pos = (321,115);
+pos = (321,105);
 ref = periodcentered;
 }
 );
@@ -39,7 +39,7 @@ ref = L;
 },
 {
 anchor = center;
-pos = (190,114);
+pos = (190,74);
 ref = periodcentered;
 }
 );
@@ -53,7 +53,7 @@ ref = L;
 },
 {
 anchor = center;
-pos = (250,115);
+pos = (250,75);
 ref = periodcentered;
 }
 );
