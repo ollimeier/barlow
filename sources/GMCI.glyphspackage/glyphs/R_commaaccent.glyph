@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Rcommaaccent;
 kernRight = R;
 layers = (
@@ -10,7 +10,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (154,0);
+pos = (148,0);
 ref = commaaccentcomb;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (116,0);
+pos = (110,0);
 ref = commaaccentcomb;
 }
 );
@@ -46,16 +46,14 @@ width = 404;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = R;
 },
 {
-alignment = -1;
-pos = (231.096,0);
+pos = (215,0);
 ref = commaaccentcomb;
 }
 );
-width = 612;
+width = 588;
 }
 );
 unicode = 342;

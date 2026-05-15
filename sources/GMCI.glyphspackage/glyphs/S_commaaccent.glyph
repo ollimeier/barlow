@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Scommaaccent;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (134,-8);
+pos = (128,-8);
 ref = commaaccentcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (92,-8);
+pos = (86,-8);
 ref = commaaccentcomb;
 }
 );
@@ -45,16 +45,14 @@ width = 375;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = S;
 },
 {
-alignment = -1;
-pos = (196.819,-8);
+pos = (180,-8);
 ref = commaaccentcomb;
 }
 );
-width = 577;
+width = 540;
 }
 );
 unicode = 536;

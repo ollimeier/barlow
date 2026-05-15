@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = tcommaaccent;
 kernLeft = t;
 kernRight = t;
@@ -11,7 +11,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (105,-4);
+pos = (99,-4);
 ref = commaaccentcomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (49,3);
+pos = (43,3);
 ref = commaaccentcomb;
 }
 );
@@ -37,7 +37,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (79,13);
+pos = (78,13);
 ref = commaaccentcomb;
 }
 );
