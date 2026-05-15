@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Zdotaccent;
 kernLeft = Z;
 kernRight = Z;
@@ -47,16 +47,14 @@ width = 353;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = Z;
 },
 {
-alignment = -1;
-pos = (216.458,199.036);
+pos = (207,199);
 ref = dotaccentcomb;
 }
 );
-width = 544;
+width = 516;
 }
 );
 unicode = 379;

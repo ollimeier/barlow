@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Tcaron;
 kernLeft = T;
 kernRight = T;
@@ -47,16 +47,14 @@ width = 350;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = T;
 },
 {
-alignment = -1;
-pos = (127.747,196.181);
+pos = (98,196);
 ref = caroncomb;
 }
 );
-width = 560;
+width = 501;
 }
 );
 unicode = 356;

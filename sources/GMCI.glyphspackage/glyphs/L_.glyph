@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = L;
 kernRight = L;
 layers = (
@@ -8,6 +8,10 @@ anchors = (
 {
 name = bottom;
 pos = (211,0);
+},
+{
+name = center;
+pos = (371,420);
 },
 {
 name = top;
@@ -37,6 +41,10 @@ name = bottom;
 pos = (287,0);
 },
 {
+name = center;
+pos = (447,413);
+},
+{
 name = top;
 pos = (145,700);
 }
@@ -64,6 +72,10 @@ name = bottom;
 pos = (174.831,0);
 },
 {
+name = center;
+pos = (279,366);
+},
+{
 name = top;
 pos = (80.41,700);
 }
@@ -89,6 +101,10 @@ anchors = (
 {
 name = bottom;
 pos = (275.578,0);
+},
+{
+name = center;
+pos = (347,366);
 },
 {
 name = top;

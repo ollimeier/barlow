@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Scaron;
 kernLeft = S;
 kernRight = S;
@@ -47,16 +47,14 @@ width = 375;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = S;
 },
 {
-alignment = -1;
-pos = (133.88,199.036);
+pos = (117,199);
 ref = caron;
 }
 );
-width = 577;
+width = 540;
 }
 );
 unicode = 352;

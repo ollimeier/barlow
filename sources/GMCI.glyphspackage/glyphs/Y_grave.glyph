@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Ygrave;
 kernLeft = Y;
 kernRight = Y;
@@ -28,7 +28,7 @@ pos = (70,180);
 ref = gravecomb;
 }
 );
-width = 484;
+width = 486;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -47,16 +47,14 @@ width = 358;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = Y;
 },
 {
-alignment = -1;
-pos = (173.651,198.084);
+pos = (192,198);
 ref = gravecomb;
 }
 );
-width = 536;
+width = 527;
 }
 );
 unicode = 7922;

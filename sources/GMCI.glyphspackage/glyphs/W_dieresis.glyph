@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Wdieresis;
 kernLeft = V;
 kernRight = V;
@@ -24,7 +24,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (141,180);
+pos = (146,180);
 ref = dieresiscomb;
 }
 );
@@ -37,7 +37,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (176,199);
+pos = (173,199);
 ref = dieresiscomb;
 }
 );
@@ -47,16 +47,14 @@ width = 565;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = W;
 },
 {
-alignment = -1;
-pos = (318.53,199.036);
+pos = (327,199);
 ref = dieresiscomb;
 }
 );
-width = 880;
+width = 887;
 }
 );
 unicode = 7812;

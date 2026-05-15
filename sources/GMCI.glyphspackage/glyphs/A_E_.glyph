@@ -1,7 +1,8 @@
 {
-color = 0;
+color = 4;
 glyphname = AE;
 kernLeft = A;
+kernRight = E;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";

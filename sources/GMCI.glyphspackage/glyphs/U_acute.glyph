@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Uacute;
 kernRight = U;
 layers = (
@@ -46,16 +46,14 @@ width = 438;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = U;
 },
 {
-alignment = -1;
-pos = (207.916,199.036);
+pos = (197,199);
 ref = acutecomb;
 }
 );
-width = 660;
+width = 634;
 }
 );
 unicode = 218;

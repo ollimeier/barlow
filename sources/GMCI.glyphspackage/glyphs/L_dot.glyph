@@ -1,4 +1,5 @@
 {
+color = 4;
 export = 0;
 glyphname = Ldot;
 layers = (
@@ -9,7 +10,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (6,531);
+anchor = center;
+pos = (249,122);
 ref = periodcentered;
 }
 );
@@ -22,7 +24,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (19,531);
+anchor = center;
+pos = (321,115);
 ref = periodcentered;
 }
 );
@@ -35,7 +38,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-9,583);
+anchor = center;
+pos = (190,114);
 ref = periodcentered;
 }
 );
@@ -48,7 +52,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (14,583);
+anchor = center;
+pos = (250,115);
 ref = periodcentered;
 }
 );

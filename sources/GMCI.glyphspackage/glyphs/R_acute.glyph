@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Racute;
 kernRight = R;
 layers = (
@@ -46,16 +46,14 @@ width = 404;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = R;
 },
 {
-alignment = -1;
-pos = (184.627,199.036);
+pos = (171,199);
 ref = acutecomb;
 }
 );
-width = 612;
+width = 588;
 }
 );
 unicode = 340;

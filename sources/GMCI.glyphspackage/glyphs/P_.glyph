@@ -1,10 +1,20 @@
 {
-color = 0;
+color = 4;
 glyphname = P;
 kernLeft = H;
 kernRight = P;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (242,0);
+},
+{
+name = top;
+pos = (242,700);
+}
+);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
@@ -36,6 +46,16 @@ nodes = (
 width = 483;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (308,0);
+},
+{
+name = top;
+pos = (308,700);
+}
+);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
@@ -67,6 +87,16 @@ nodes = (
 width = 615;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (199,0);
+},
+{
+name = top;
+pos = (199,700);
+}
+);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
@@ -98,6 +128,16 @@ nodes = (
 width = 397;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (292,0);
+},
+{
+name = top;
+pos = (292,700);
+}
+);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {

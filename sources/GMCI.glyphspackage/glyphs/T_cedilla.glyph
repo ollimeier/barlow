@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = Tcedilla;
 kernLeft = T;
 kernRight = T;
@@ -11,8 +11,7 @@ shapes = (
 ref = T;
 },
 {
-alignment = -1;
-pos = (263,0);
+pos = (215,20);
 ref = cedillacomb;
 }
 );
@@ -25,8 +24,7 @@ shapes = (
 ref = T;
 },
 {
-alignment = -1;
-pos = (220,0);
+pos = (157,17);
 ref = cedillacomb;
 }
 );
@@ -39,8 +37,7 @@ shapes = (
 ref = T;
 },
 {
-alignment = -1;
-pos = (159.084,0);
+pos = (132,2);
 ref = cedillacomb;
 }
 );
@@ -50,16 +47,14 @@ width = 350;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = T;
 },
 {
-alignment = -1;
-pos = (232.542,0);
+pos = (199,4);
 ref = cedillacomb;
 }
 );
-width = 560;
+width = 501;
 }
 );
 unicode = 354;
