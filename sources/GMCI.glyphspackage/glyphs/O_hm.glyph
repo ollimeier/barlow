@@ -9,7 +9,7 @@ shapes = (
 ref = Omega;
 }
 );
-width = 654;
+width = 707;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -18,7 +18,7 @@ shapes = (
 ref = Omega;
 }
 );
-width = 506;
+width = 581;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -27,7 +27,7 @@ shapes = (
 ref = Omega;
 }
 );
-width = 431;
+width = 576;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -36,7 +36,7 @@ shapes = (
 ref = Omega;
 }
 );
-width = 619;
+width = 719;
 }
 );
 unicode = 8486;
