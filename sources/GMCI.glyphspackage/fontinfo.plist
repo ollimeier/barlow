@@ -11,6 +11,13 @@ name = Width;
 tag = wdth;
 }
 );
+classes = (
+{
+automatic = 1;
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE Cacute Ccaron Ccedilla Cdotaccent Dcaron Dcroat Eth Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa Gbreve Gcommaaccent Gdotaccent Hbar IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Thorn Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scommaaccent Germandbls Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent Delta Omega";
+name = Uppercase;
+}
+);
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -146,23 +153,25 @@ tag = aalt;
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
 
-lookup ccmp_DFLT_2 {
+lookup ccmp_Other_1 {
 	lookupflag 0;
-	sub brevecomb acutecomb by brevecomb_acutecomb;
-	sub brevecomb gravecomb by brevecomb_gravecomb;
-	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
-	sub brevecomb tildecomb by brevecomb_tildecomb;
-	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_DFLT_2;
+	@Markscomb = [dieresiscomb dotaccentcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
 ";
 tag = ccmp;
 },
@@ -341,6 +350,14 @@ tag = ordn;
 code = "sub [g j Aogonek Eogonek Iogonek Uogonek aogonek eogonek iogonek uogonek ij jdotless] j' by j.short; 
 ";
 tag = calt;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+";
+disabled = 1;
+tag = case;
 }
 );
 fontMaster = (
@@ -432,6 +449,7 @@ stemValues = (
 30,
 28
 );
+visible = 1;
 },
 {
 axesValues = (
