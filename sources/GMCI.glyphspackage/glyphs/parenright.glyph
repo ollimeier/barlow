@@ -1,50 +1,54 @@
 {
-color = 0;
+color = 4;
 glyphname = parenright;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-angle = 180;
-pos = (371,673);
+alignment = 1;
+pos = (325,0);
 ref = parenleft;
+scale = (-1,1);
 }
 );
-width = 371;
+width = 325;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-angle = 180;
-pos = (405,673);
+alignment = 1;
+pos = (369,0);
 ref = parenleft;
+scale = (-1,1);
 }
 );
-width = 405;
+width = 369;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-angle = 180;
-pos = (169.217,653.964);
+alignment = 1;
+pos = (175,0);
 ref = parenleft;
+scale = (-1,1);
 }
 );
-width = 169;
+width = 175;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-angle = 180;
-pos = (209.88,653.964);
+alignment = 1;
+pos = (239,0);
 ref = parenleft;
+scale = (-1,1);
 }
 );
-width = 210;
+width = 239;
 }
 );
 unicode = 41;

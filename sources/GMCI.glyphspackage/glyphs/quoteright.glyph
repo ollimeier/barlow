@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = quoteright;
 layers = (
 {
@@ -7,45 +7,47 @@ layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
 angle = 180;
-pos = (231,1160);
+pos = (263,1160);
 ref = quoteleft;
 }
 );
-width = 231;
+width = 263;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
 angle = 180;
-pos = (246,1160);
+pos = (282,1160);
 ref = quoteleft;
 }
 );
-width = 246;
+width = 288;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
 angle = 180;
-pos = (85.373,1207.59);
+pos = (137,1208);
 ref = quoteleft;
 }
 );
-width = 85;
+width = 149;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 angle = 180;
-pos = (103.229,1207.59);
+pos = (195,1208);
 ref = quoteleft;
 }
 );
-width = 103;
+width = 211;
 }
 );
+metricLeft = "=quotesinglbase";
+metricRight = "=quotesinglbase";
 unicode = 8217;
 }

@@ -1,37 +1,107 @@
 {
-color = 0;
+color = 4;
 glyphname = equal;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (0,83);
-ref = minus;
+closed = 1;
+nodes = (
+(491,295,l),
+(491,455,l),
+(59,455,l),
+(59,295,l)
+);
 },
 {
-pos = (0,-98);
-ref = minus;
+closed = 1;
+nodes = (
+(491,114,l),
+(491,274,l),
+(59,274,l),
+(59,114,l)
+);
 }
 );
-width = 476;
+width = 550;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-pos = (0,86);
-ref = minus;
+closed = 1;
+nodes = (
+(446,320,l),
+(446,460,l),
+(46,460,l),
+(46,320,l)
+);
 },
 {
-pos = (0,-84);
-ref = minus;
+closed = 1;
+nodes = (
+(446,150,l),
+(446,290,l),
+(46,290,l),
+(46,150,l)
+);
 }
 );
-width = 436;
+width = 491;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+closed = 1;
+nodes = (
+(402,434,l),
+(402,460,l),
+(32,460,l),
+(32,434,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(402,216,l),
+(402,242,l),
+(32,242,l),
+(32,216,l)
+);
+}
+);
+width = 433;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,423,l),
+(463,450,l),
+(45,450,l),
+(45,423,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(463,205,l),
+(463,232,l),
+(45,232,l),
+(45,205,l)
+);
+}
+);
+width = 508;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "B031055A-DA75-4B37-B670-A965915E6C89";
+name = "May 15, 26 at 17:13";
 shapes = (
 {
 pos = (0,125.976);
@@ -42,10 +112,28 @@ pos = (0,-91.614);
 ref = minus;
 }
 );
-width = 444;
+width = 433;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "9FDA464B-C2C4-40F1-85A9-C1102DD738FE";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,86);
+ref = minus;
+},
+{
+pos = (0,-84);
+ref = minus;
+}
+);
+width = 491;
+},
+{
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "2DF5A6C8-43DE-4903-8A7F-93AB991688E5";
+name = "May 15, 26 at 17:13";
 shapes = (
 {
 pos = (0,116.313);
@@ -57,7 +145,24 @@ ref = minus;
 }
 );
 width = 508;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "66DC5573-246C-4B48-9CED-721FCF88982E";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,83);
+ref = minus;
+},
+{
+pos = (0,-98);
+ref = minus;
 }
 );
+width = 550;
+}
+);
+metricWidth = "=zero.tf";
 unicode = 61;
 }

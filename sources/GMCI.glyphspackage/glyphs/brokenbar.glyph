@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = brokenbar;
 layers = (
 {
@@ -99,5 +99,7 @@ nodes = (
 width = 222;
 }
 );
+metricLeft = "=bar";
+metricRight = "=bar";
 unicode = 166;
 }

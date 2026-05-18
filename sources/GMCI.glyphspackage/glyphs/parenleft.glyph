@@ -1,6 +1,8 @@
 {
-color = 0;
+color = 4;
 glyphname = parenleft;
+kernLeft = parenleft;
+kernRight = parenleft;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";

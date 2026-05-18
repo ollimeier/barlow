@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = braceleft;
 layers = (
 {
@@ -93,28 +93,6 @@ nodes = (
 }
 );
 width = 343;
-},
-{
-associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-layerId = "22BE07AA-0E73-4A6D-98AE-D014168FD84B";
-name = "Mar 28 17, 00:53";
-shapes = (
-{
-closed = 1;
-nodes = (
-(411,-164,l),
-(411,6,l),
-(304,6,l),
-(304,648,l),
-(411,648,l),
-(411,818,l),
-(116,818,l),
-(116,-164,l)
-);
-}
-);
-visible = 1;
-width = 600;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";

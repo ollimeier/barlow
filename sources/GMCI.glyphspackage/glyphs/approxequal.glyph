@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = approxequal;
 layers = (
 {
@@ -14,50 +14,51 @@ pos = (0,-103);
 ref = asciitilde;
 }
 );
-width = 557;
+width = 550;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-pos = (0,123);
+pos = (0,133);
 ref = asciitilde;
 },
 {
-pos = (0,-87);
+pos = (0,-77);
 ref = asciitilde;
 }
 );
-width = 509;
+width = 491;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (0,133.47);
+pos = (-1,143);
 ref = asciitilde;
 },
 {
-pos = (0,-76.53);
+pos = (-1,-67);
 ref = asciitilde;
 }
 );
-width = 444;
+width = 433;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-pos = (0,141.265);
+pos = (-20,148);
 ref = asciitilde;
 },
 {
-pos = (0,-78.253);
+pos = (-20,-71);
 ref = asciitilde;
 }
 );
-width = 481;
+width = 508;
 }
 );
+metricWidth = "=zero.tf";
 unicode = 8776;
 }

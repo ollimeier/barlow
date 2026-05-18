@@ -1,18 +1,18 @@
 {
-color = 0;
+color = 4;
 glyphname = periodcentered;
 layers = (
 {
 anchors = (
 {
 name = _center;
-pos = (126,298);
+pos = (126,308);
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (21,-351);
+pos = (21,-341);
 ref = dotaccentcomb;
 }
 );
@@ -38,13 +38,13 @@ width = 244;
 anchors = (
 {
 name = _center;
-pos = (89,252);
+pos = (89,292);
 }
 );
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (44,-384);
+pos = (44,-344);
 ref = dotaccentcomb;
 }
 );
@@ -54,13 +54,13 @@ width = 178;
 anchors = (
 {
 name = _center;
-pos = (97,251);
+pos = (97,291);
 }
 );
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-pos = (52.41,-384.313);
+pos = (52,-344);
 ref = dotaccentcomb;
 }
 );

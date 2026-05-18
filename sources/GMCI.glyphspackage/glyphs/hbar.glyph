@@ -1,6 +1,7 @@
 {
-color = 0;
+color = 4;
 glyphname = hbar;
+kernLeft = hbar;
 kernRight = n;
 layers = (
 {
@@ -14,7 +15,7 @@ pos = (-14,-5);
 ref = strokeshortcomb;
 }
 );
-width = 569;
+width = 585;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -36,28 +37,26 @@ shapes = (
 ref = h;
 },
 {
-alignment = -1;
-pos = (15.928,-18.133);
+pos = (2,-28);
 ref = strokeshortcomb;
 }
 );
-width = 386;
+width = 388;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
 ref = h;
 },
 {
-alignment = -1;
-pos = (19.313,-18.325);
+pos = (12,-28);
 ref = strokeshortcomb;
 }
 );
-width = 536;
+width = 525;
 }
 );
+metricRight = "=h";
 unicode = 295;
 }

@@ -1,38 +1,69 @@
 {
-color = 0;
+color = 4;
 glyphname = colon;
 kernLeft = colon;
+kernRight = colon;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-pos = (56,-233);
-ref = dotaccentcomb;
+alignment = 1;
+ref = period;
 },
 {
-pos = (56,-555);
-ref = dotaccentcomb;
+pos = (0,348);
+ref = period;
 }
 );
-width = 318;
+width = 246;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (81,-234);
-ref = dotaccentcomb;
+alignment = 1;
+ref = period;
 },
 {
-pos = (81,-555);
-ref = dotaccentcomb;
+pos = (0,348);
+ref = period;
 }
 );
-width = 381;
+width = 264;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+pos = (0,440);
+ref = period;
+}
+);
+width = 170;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+pos = (0,439);
+ref = period;
+}
+);
+width = 282;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "003A2D12-3B9A-4911-BA6B-BBCE92774861";
+name = "May 15, 26 at 16:00";
 shapes = (
 {
 pos = (41,-266);
@@ -46,7 +77,25 @@ ref = dotaccentcomb;
 width = 172;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "78394291-3344-4CDD-87C1-7BABCDCBA257";
+name = "May 15, 26 at 16:00";
+shapes = (
+{
+pos = (56,-233);
+ref = dotaccentcomb;
+},
+{
+pos = (56,-555);
+ref = dotaccentcomb;
+}
+);
+width = 318;
+},
+{
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "7BF0603F-5CB4-4CD9-8156-39F3AFD8E90F";
+name = "May 15, 26 at 16:00";
 shapes = (
 {
 alignment = -1;
@@ -60,6 +109,22 @@ ref = dotaccentcomb;
 }
 );
 width = 324;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "8EDC8787-A2A2-4A65-A9A4-386667ED68B8";
+name = "May 15, 26 at 16:00";
+shapes = (
+{
+pos = (81,-234);
+ref = dotaccentcomb;
+},
+{
+pos = (81,-555);
+ref = dotaccentcomb;
+}
+);
+width = 381;
 }
 );
 unicode = 58;

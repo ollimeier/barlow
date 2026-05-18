@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = perthousand;
 layers = (
 {
@@ -9,19 +9,19 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (318,0);
+pos = (288,0);
 ref = fraction;
 },
 {
-pos = (590,0);
+pos = (540,0);
 ref = zero.dnom;
 },
 {
-pos = (938,0);
+pos = (888,0);
 ref = zero.dnom;
 }
 );
-width = 1286;
+width = 1236;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -30,22 +30,66 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (290,0);
+pos = (260,0);
 ref = fraction;
 },
 {
-pos = (509,0);
+pos = (439,0);
 ref = zero.dnom;
 },
 {
-pos = (799,0);
+pos = (729,0);
 ref = zero.dnom;
 }
 );
-width = 1089;
+width = 1019;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (215,0);
+ref = fraction;
+},
+{
+pos = (377,0);
+ref = zero.dnom;
+},
+{
+pos = (632,0);
+ref = zero.dnom;
+}
+);
+width = 887;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (262,0);
+ref = fraction;
+},
+{
+pos = (415,0);
+ref = zero.dnom;
+},
+{
+pos = (738,0);
+ref = zero.dnom;
+}
+);
+width = 1061;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "8ADB13CF-8A68-4DA5-9DD0-23CB9F453413";
+name = "May 15, 26 at 18:00";
 shapes = (
 {
 alignment = -1;
@@ -70,7 +114,32 @@ ref = zero.dnom;
 width = 1020;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "31076AB9-1783-49D0-8FE6-ED9D7F7FAC6C";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (260,0);
+ref = fraction;
+},
+{
+pos = (439,0);
+ref = zero.dnom;
+},
+{
+pos = (729,0);
+ref = zero.dnom;
+}
+);
+width = 1019;
+},
+{
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "EB0C96C2-F8A9-4EF7-B09A-16F9A73B863E";
+name = "May 15, 26 at 18:00";
 shapes = (
 {
 alignment = -1;
@@ -93,6 +162,29 @@ ref = zero.dnom;
 }
 );
 width = 1122;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "1E353EE6-FDAD-4B56-975C-66A8743A8991";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (288,0);
+ref = fraction;
+},
+{
+pos = (540,0);
+ref = zero.dnom;
+},
+{
+pos = (888,0);
+ref = zero.dnom;
+}
+);
+width = 1236;
 }
 );
 unicode = 8240;
