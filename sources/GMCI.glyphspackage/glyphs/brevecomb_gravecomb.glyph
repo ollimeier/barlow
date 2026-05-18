@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = brevecomb_gravecomb;
 layers = (
 {
@@ -23,7 +24,7 @@ alignment = 1;
 ref = brevecomb;
 },
 {
-pos = (21,155);
+pos = (21,160);
 ref = gravecomb;
 }
 );

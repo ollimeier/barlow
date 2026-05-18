@@ -11,8 +11,8 @@ shapes = (
 ref = W;
 },
 {
-pos = (250,180);
-ref = dieresiscomb;
+pos = (250,0);
+ref = dieresiscomb.case;
 }
 );
 width = 905;
@@ -24,8 +24,8 @@ shapes = (
 ref = W;
 },
 {
-pos = (146,180);
-ref = dieresiscomb;
+pos = (146,0);
+ref = dieresiscomb.case;
 }
 );
 width = 692;
@@ -37,8 +37,8 @@ shapes = (
 ref = W;
 },
 {
-pos = (173,199);
-ref = dieresiscomb;
+pos = (173,0);
+ref = dieresiscomb.case;
 }
 );
 width = 565;
@@ -50,8 +50,8 @@ shapes = (
 ref = W;
 },
 {
-pos = (327,199);
-ref = dieresiscomb;
+pos = (327,0);
+ref = dieresiscomb.case;
 }
 );
 width = 887;

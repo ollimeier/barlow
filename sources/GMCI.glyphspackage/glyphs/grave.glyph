@@ -1,46 +1,46 @@
 {
+color = 4;
 glyphname = grave;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-pos = (6,0);
+alignment = 1;
 ref = gravecomb;
 }
 );
-width = 258;
+width = 250;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-pos = (-2,0);
+alignment = 1;
 ref = gravecomb;
 }
 );
-width = 246;
+width = 250;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-pos = (26,0);
+alignment = 1;
 ref = gravecomb;
 }
 );
-width = 155;
+width = 103;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (25.988,0);
+alignment = 1;
 ref = gravecomb;
 }
 );
-width = 173;
+width = 87;
 }
 );
 unicode = 96;

@@ -11,8 +11,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (83,-1);
-ref = breve;
+pos = (83,0);
+ref = brevecomb;
 }
 );
 width = 551;
@@ -25,7 +25,7 @@ ref = a;
 },
 {
 pos = (91,0);
-ref = breve;
+ref = brevecomb;
 }
 );
 width = 464;
@@ -38,7 +38,7 @@ ref = a;
 },
 {
 pos = (61,0);
-ref = breve;
+ref = brevecomb;
 }
 );
 width = 373;
@@ -51,7 +51,7 @@ ref = a;
 },
 {
 pos = (104,0);
-ref = breve;
+ref = brevecomb;
 }
 );
 width = 497;

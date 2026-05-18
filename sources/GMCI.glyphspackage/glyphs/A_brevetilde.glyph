@@ -24,7 +24,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (144,185);
+pos = (144,180);
 ref = brevecomb_tildecomb;
 }
 );

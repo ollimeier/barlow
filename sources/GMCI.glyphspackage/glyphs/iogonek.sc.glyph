@@ -49,7 +49,7 @@ pos = (24.675,0);
 ref = ogonekcomb;
 },
 {
-pos = (43,75);
+pos = (43,74);
 ref = dotaccentcomb;
 }
 );

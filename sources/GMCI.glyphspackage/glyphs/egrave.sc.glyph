@@ -36,7 +36,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (128,83);
+pos = (128,74);
 ref = gravecomb;
 }
 );

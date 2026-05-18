@@ -13,7 +13,7 @@ ref = L;
 {
 alignment = -1;
 pos = (256,0);
-ref = commaabovecomb;
+ref = caroncomb.alt;
 }
 );
 width = 585;
@@ -28,7 +28,7 @@ ref = L;
 {
 alignment = -1;
 pos = (214,0);
-ref = commaabovecomb;
+ref = caroncomb.alt;
 }
 );
 width = 450;
@@ -43,7 +43,7 @@ ref = L;
 {
 alignment = -1;
 pos = (175.928,0);
-ref = commaabovecomb;
+ref = caroncomb.alt;
 }
 );
 width = 366;
@@ -58,7 +58,7 @@ ref = L;
 {
 alignment = -1;
 pos = (244.578,0);
-ref = commaabovecomb;
+ref = caroncomb.alt;
 }
 );
 width = 567;

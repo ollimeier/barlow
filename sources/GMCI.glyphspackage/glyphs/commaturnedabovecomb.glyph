@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = commaturnedabovecomb;
 layers = (
 {
@@ -47,7 +47,7 @@ layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
 angle = 180;
-pos = (129,1269);
+pos = (145,1269);
 ref = acutecomb;
 }
 );
@@ -65,7 +65,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (228.398,1269.482);
+pos = (239,1269);
 ref = acutecomb;
 }
 );

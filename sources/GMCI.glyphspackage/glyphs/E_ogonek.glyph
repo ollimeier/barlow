@@ -11,7 +11,7 @@ ref = E;
 },
 {
 pos = (352,0);
-ref = ogonek;
+ref = ogonekcomb;
 }
 );
 width = 590;
@@ -24,7 +24,7 @@ ref = E;
 },
 {
 pos = (248,0);
-ref = ogonek;
+ref = ogonekcomb;
 }
 );
 width = 444;
@@ -36,8 +36,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (246,0);
-ref = ogonek;
+pos = (247,0);
+ref = ogonekcomb;
 }
 );
 width = 382;
@@ -50,7 +50,7 @@ ref = E;
 },
 {
 pos = (390,0);
-ref = ogonek;
+ref = ogonekcomb;
 }
 );
 width = 576;

@@ -11,7 +11,7 @@ ref = E;
 },
 {
 pos = (148,180);
-ref = macron;
+ref = macroncomb;
 }
 );
 width = 590;
@@ -24,7 +24,7 @@ ref = E;
 },
 {
 pos = (115,180);
-ref = macron;
+ref = macroncomb;
 }
 );
 width = 444;
@@ -36,8 +36,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (-79,199);
-ref = macron;
+pos = (115,199);
+ref = macroncomb;
 }
 );
 width = 382;
@@ -50,7 +50,7 @@ ref = E;
 },
 {
 pos = (183,199);
-ref = macron;
+ref = macroncomb;
 }
 );
 width = 576;

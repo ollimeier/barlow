@@ -1,54 +1,33 @@
 {
+color = 4;
 glyphname = hungarumlaut;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
-pos = (2,8);
-ref = acutecomb;
-scale = (0.9804,1);
-},
-{
-alignment = -1;
-pos = (211,8);
-ref = acutecomb;
-scale = (0.9804,1);
+alignment = 1;
+ref = hungarumlautcomb;
 }
 );
-width = 462;
+width = 435;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
-pos = (-2,8);
-ref = acutecomb;
-scale = (0.9804,1);
-},
-{
-alignment = -1;
-pos = (179,8);
-ref = acutecomb;
-scale = (0.9804,1);
+alignment = 1;
+ref = hungarumlautcomb;
 }
 );
-width = 422;
+width = 409;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-alignment = -1;
-pos = (26.554,8);
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (132.361,8);
-ref = acutecomb;
+alignment = 1;
+ref = hungarumlautcomb;
 }
 );
 width = 262;
@@ -57,17 +36,11 @@ width = 262;
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-55.108,8);
-ref = acutecomb;
-},
-{
-alignment = -1;
-pos = (99.639,8);
-ref = acutecomb;
+alignment = 1;
+ref = hungarumlautcomb;
 }
 );
-width = 328;
+width = 325;
 }
 );
 unicode = 733;

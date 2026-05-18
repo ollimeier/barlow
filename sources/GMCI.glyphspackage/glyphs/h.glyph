@@ -12,7 +12,7 @@ pos = (230,0);
 },
 {
 name = shortstroke;
-pos = (131,546);
+pos = (131,602);
 },
 {
 name = top;
@@ -45,7 +45,7 @@ pos = (275,0);
 },
 {
 name = shortstroke;
-pos = (175,543);
+pos = (175,603);
 },
 {
 name = top;
@@ -78,7 +78,7 @@ pos = (190,0);
 },
 {
 name = shortstroke;
-pos = (130.145,546.952);
+pos = (130,587);
 },
 {
 name = top;
@@ -111,7 +111,7 @@ pos = (262,0);
 },
 {
 name = shortstroke;
-pos = (159.771,546.807);
+pos = (160,591);
 },
 {
 name = top;

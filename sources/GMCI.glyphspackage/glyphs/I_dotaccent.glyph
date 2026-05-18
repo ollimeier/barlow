@@ -9,8 +9,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (41,180);
-ref = dotaccentcomb;
+pos = (41,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 292;
@@ -22,8 +22,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (19,180);
-ref = dotaccentcomb;
+pos = (19,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 248;
@@ -35,8 +35,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (37,199);
-ref = dotaccentcomb;
+pos = (37,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 164;
@@ -48,8 +48,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (66,199);
-ref = dotaccentcomb;
+pos = (66,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 224;

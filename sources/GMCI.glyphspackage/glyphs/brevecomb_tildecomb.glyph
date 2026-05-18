@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = brevecomb_tildecomb;
 layers = (
 {
@@ -21,7 +22,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (35,245);
+pos = (35,250);
 ref = tildecomb;
 scale = (0.8264,0.8264);
 }

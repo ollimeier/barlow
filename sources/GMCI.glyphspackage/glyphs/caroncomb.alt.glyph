@@ -1,5 +1,6 @@
 {
-glyphname = commaabovecomb;
+color = 4;
+glyphname = caroncomb.alt;
 layers = (
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -40,5 +41,4 @@ ref = acutecomb;
 width = 103;
 }
 );
-unicode = 787;
 }

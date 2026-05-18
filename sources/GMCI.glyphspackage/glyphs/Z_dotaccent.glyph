@@ -11,8 +11,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (186,180);
-ref = dotaccentcomb;
+pos = (186,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 573;
@@ -24,8 +24,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (107,180);
-ref = dotaccentcomb;
+pos = (107,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 426;
@@ -37,8 +37,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (135,199);
-ref = dotaccentcomb;
+pos = (135,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 353;
@@ -50,8 +50,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (207,199);
-ref = dotaccentcomb;
+pos = (207,0);
+ref = dotaccentcomb.case;
 }
 );
 width = 516;

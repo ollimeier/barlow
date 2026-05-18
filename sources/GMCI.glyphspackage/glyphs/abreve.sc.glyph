@@ -12,7 +12,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (107,63);
+pos = (107,58);
 ref = brevecomb;
 }
 );

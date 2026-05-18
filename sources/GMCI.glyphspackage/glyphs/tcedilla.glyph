@@ -11,7 +11,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (179,16);
+pos = (179,-4);
 ref = cedillacomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (106,20);
+pos = (106,3);
 ref = cedillacomb;
 }
 );
@@ -37,7 +37,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (94,18);
+pos = (93,13);
 ref = cedillacomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (161,15);
+pos = (161,11);
 ref = cedillacomb;
 }
 );

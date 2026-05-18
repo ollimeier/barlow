@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = circumflexcomb;
 layers = (
 {
@@ -104,9 +104,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(64,561,l),
-(122,653,l),
-(180,561,l),
+(61,561,l),
+(122,658,l),
+(183,561,l),
 (217,561,l),
 (138,680,l),
 (104,680,l),
@@ -143,6 +143,36 @@ nodes = (
 }
 );
 width = 292;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (122.229,500.964);
+},
+{
+name = top;
+pos = (122.133,700);
+}
+);
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "FD8C60C1-1ACA-4519-9348-F7FF70B92322";
+name = "May 18, 26 at 14:21";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,561,l),
+(122,653,l),
+(180,561,l),
+(217,561,l),
+(138,680,l),
+(104,680,l),
+(27,561,l)
+);
+}
+);
+width = 244;
 }
 );
 unicode = 770;

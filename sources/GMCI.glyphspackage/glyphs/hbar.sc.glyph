@@ -10,7 +10,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (-65,-87);
+pos = (-65,-150);
 ref = strokelongcomb;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (-33,-86);
+pos = (-34,-149);
 ref = strokelongcomb;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (7,-100);
+pos = (7,-113);
 ref = strokelongcomb;
 }
 );
