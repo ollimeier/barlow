@@ -48,7 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = circumflexcomb;
-slant = (7,0);
 }
 );
 width = 399;
@@ -59,7 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = circumflexcomb;
-slant = (7,0);
 }
 );
 width = 292;
@@ -70,7 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = circumflexcomb;
-slant = (7,0);
 }
 );
 width = 368;
@@ -81,7 +78,6 @@ shapes = (
 {
 alignment = 1;
 ref = circumflexcomb;
-slant = (7,0);
 }
 );
 width = 244;

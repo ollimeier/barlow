@@ -64,12 +64,10 @@ shapes = (
 {
 alignment = 1;
 ref = brevecomb;
-slant = (7,0);
 },
 {
 pos = (41,160);
 ref = gravecomb;
-slant = (7,0);
 }
 );
 width = 387;
@@ -80,12 +78,10 @@ shapes = (
 {
 alignment = 1;
 ref = brevecomb;
-slant = (7,0);
 },
 {
 pos = (87,168);
 ref = gravecomb;
-slant = (7,0);
 }
 );
 width = 276;
@@ -96,12 +92,10 @@ shapes = (
 {
 alignment = 1;
 ref = brevecomb;
-slant = (7,0);
 },
 {
 pos = (-14,161);
 ref = gravecomb;
-slant = (7,0);
 }
 );
 width = 278;
@@ -112,12 +106,10 @@ shapes = (
 {
 alignment = 1;
 ref = brevecomb;
-slant = (7,0);
 },
 {
 pos = (68,128);
 ref = gravecomb;
-slant = (7,0);
 }
 );
 width = 246;

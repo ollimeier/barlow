@@ -46,7 +46,6 @@ layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
 shapes = (
 {
 ref = eth.sc;
-slant = (7,0);
 }
 );
 width = 560;
@@ -58,7 +57,6 @@ shapes = (
 alignment = -1;
 pos = (-31,0);
 ref = eth.sc;
-slant = (7,0);
 }
 );
 width = 591;
@@ -68,7 +66,6 @@ layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
 shapes = (
 {
 ref = eth.sc;
-slant = (7,0);
 }
 );
 width = 479;
@@ -78,7 +75,6 @@ layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
 shapes = (
 {
 ref = eth.sc;
-slant = (7,0);
 }
 );
 width = 436;

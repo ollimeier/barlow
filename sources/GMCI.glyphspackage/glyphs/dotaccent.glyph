@@ -48,7 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = dotaccentcomb;
-slant = (7,0);
 }
 );
 width = 210;
@@ -59,7 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = dotaccentcomb;
-slant = (7,0);
 }
 );
 width = 90;
@@ -70,7 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = dotaccentcomb;
-slant = (7,0);
 }
 );
 width = 210;
@@ -81,7 +78,6 @@ shapes = (
 {
 alignment = 1;
 ref = dotaccentcomb;
-slant = (7,0);
 }
 );
 width = 90;

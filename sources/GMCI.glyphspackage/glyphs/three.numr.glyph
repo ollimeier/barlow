@@ -61,7 +61,6 @@ shapes = (
 {
 pos = (34,280);
 ref = three.dnom;
-slant = (7,0);
 }
 );
 width = 331;
@@ -72,7 +71,6 @@ shapes = (
 {
 pos = (36,291);
 ref = three.dnom;
-slant = (7,0);
 }
 );
 width = 290;
@@ -96,7 +94,6 @@ shapes = (
 {
 pos = (34,280);
 ref = three.dnom;
-slant = (7,0);
 }
 );
 width = 270;
@@ -107,7 +104,6 @@ shapes = (
 {
 pos = (34,280);
 ref = three.dnom;
-slant = (7,0);
 }
 );
 width = 225;

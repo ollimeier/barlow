@@ -48,7 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = ringcomb;
-slant = (7,0);
 }
 );
 width = 222;
@@ -59,7 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = ringcomb;
-slant = (7,0);
 }
 );
 width = 199;
@@ -70,7 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = ringcomb;
-slant = (7,0);
 }
 );
 width = 222;
@@ -81,7 +78,6 @@ shapes = (
 {
 alignment = 1;
 ref = ringcomb;
-slant = (7,0);
 }
 );
 width = 190;

@@ -48,7 +48,6 @@ shapes = (
 {
 pos = (34,280);
 ref = five.dnom;
-slant = (7,0);
 }
 );
 width = 343;
@@ -59,7 +58,6 @@ shapes = (
 {
 pos = (35,283);
 ref = five.dnom;
-slant = (7,0);
 }
 );
 width = 297;
@@ -70,7 +68,6 @@ shapes = (
 {
 pos = (34,280);
 ref = five.dnom;
-slant = (7,0);
 }
 );
 width = 280;
@@ -81,7 +78,6 @@ shapes = (
 {
 pos = (34,280);
 ref = five.dnom;
-slant = (7,0);
 }
 );
 width = 230;

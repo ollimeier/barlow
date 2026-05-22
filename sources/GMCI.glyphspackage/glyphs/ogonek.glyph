@@ -48,7 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = ogonekcomb;
-slant = (7,0);
 }
 );
 width = 189;
@@ -59,7 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = ogonekcomb;
-slant = (7,0);
 }
 );
 width = 123;
@@ -70,7 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = ogonekcomb;
-slant = (7,0);
 }
 );
 width = 172;
@@ -81,7 +78,6 @@ shapes = (
 {
 alignment = 1;
 ref = ogonekcomb;
-slant = (7,0);
 }
 );
 width = 103;

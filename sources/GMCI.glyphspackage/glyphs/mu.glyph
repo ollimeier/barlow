@@ -48,7 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = micro;
-slant = (7,0);
 }
 );
 width = 573;
@@ -59,7 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = micro;
-slant = (7,0);
 }
 );
 width = 528;
@@ -70,7 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = micro;
-slant = (7,0);
 }
 );
 width = 462;
@@ -81,7 +78,6 @@ shapes = (
 {
 alignment = 1;
 ref = micro;
-slant = (7,0);
 }
 );
 width = 389;

@@ -48,7 +48,6 @@ shapes = (
 {
 pos = (56,460);
 ref = seven.dnom;
-slant = (7,0);
 }
 );
 width = 320;
@@ -59,7 +58,6 @@ shapes = (
 {
 pos = (56,460);
 ref = seven.dnom;
-slant = (7,0);
 }
 );
 width = 273;
@@ -70,7 +68,6 @@ shapes = (
 {
 pos = (56,460);
 ref = seven.dnom;
-slant = (7,0);
 }
 );
 width = 269;
@@ -81,7 +78,6 @@ shapes = (
 {
 pos = (56,460);
 ref = seven.dnom;
-slant = (7,0);
 }
 );
 width = 202;
