@@ -646,12 +646,12 @@ layerId = "CE498F6D-B491-4D38-B03A-C59D1934264E";
 name = "Cond Thin Italic orig";
 shapes = (
 {
-pos = (319,0);
+pos = (317,0);
 ref = p;
 scale = (-1,1);
 }
 );
-width = 381;
+width = 379;
 },
 {
 associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
