@@ -1210,12 +1210,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1230,6 +1224,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1273,12 +1328,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1293,6 +1342,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1336,12 +1446,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1356,6 +1460,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1399,12 +1564,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1419,6 +1578,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1461,12 +1681,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1481,6 +1695,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1524,12 +1799,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1544,6 +1813,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1587,12 +1917,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1607,6 +1931,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1651,12 +2036,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1671,6 +2050,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1714,12 +2154,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1734,6 +2168,67 @@ Location = 75;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1777,12 +2272,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1797,6 +2286,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1839,12 +2389,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1859,6 +2403,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1901,12 +2506,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1921,6 +2520,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -1963,12 +2623,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -1983,6 +2637,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2024,12 +2739,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -2044,6 +2753,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2086,12 +2856,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -2106,6 +2870,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2148,12 +2973,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -2168,6 +2987,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2211,12 +3091,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -2231,6 +3105,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2273,12 +3208,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -2293,6 +3222,67 @@ Location = 100;
 Axis = Slant;
 Location = 0;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2335,12 +3325,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2367,6 +3351,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2412,12 +3457,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2444,6 +3483,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2489,12 +3589,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2521,6 +3615,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2566,12 +3721,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2598,6 +3747,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2641,12 +3851,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2673,6 +3877,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2718,12 +3983,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2750,6 +4009,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2795,12 +4115,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2827,6 +4141,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2872,12 +4247,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2904,6 +4273,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -2949,12 +4379,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -2981,6 +4405,67 @@ Location = 75;
 Axis = Slant;
 Location = -7;
 }
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
 );
 }
 );
@@ -3026,12 +4511,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
-{
 disabled = 1;
 name = "Rename Glyphs";
 value = (
@@ -3059,6 +4538,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3084,12 +4624,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3118,6 +4652,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3143,12 +4738,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3177,6 +4766,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3202,12 +4852,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3236,6 +4880,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3259,12 +4964,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3293,6 +4992,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3318,12 +5078,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3352,6 +5106,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3377,12 +5192,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3411,6 +5220,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isBold = 1;
@@ -3436,12 +5306,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3470,6 +5334,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3495,12 +5420,6 @@ axesValues = (
 -7
 );
 customParameters = (
-{
-name = "Decompose Glyphs";
-value = (
-"n,b,d,g,h,m,n,p,q,u,uni021A,tcedilla.sc"
-);
-},
 {
 disabled = 1;
 name = "Rename Glyphs";
@@ -3529,6 +5448,67 @@ Axis = Slant;
 Location = -7;
 }
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 isItalic = 1;
@@ -3552,6 +5532,67 @@ customParameters = (
 {
 name = fileName;
 value = GMCINeoVAR;
+},
+{
+name = "Decompose Glyphs";
+value = (
+eacute,
+ecaron,
+ecircumflex,
+edieresis,
+edotaccent,
+egrave,
+emacron,
+eogonek,
+Gbreve,
+Gcommaaccent,
+Gdotaccent,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Ntilde,
+aacute,
+abreve,
+acircumflex,
+adieresis,
+agrave,
+amacron,
+aogonek,
+atilde,
+aring,
+cacute,
+ccaron,
+ccedilla,
+cdotaccent,
+dcaron,
+dcroat,
+gbreve,
+gcommaaccent,
+gdotaccent,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scommaaccent,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+wacute,
+wcircumflex,
+wdieresis,
+wgrave,
+yacute,
+ycircumflex,
+ydieresis,
+ygrave
+);
 }
 );
 name = Regular;
