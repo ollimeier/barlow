@@ -64,7 +64,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (153,0);
+pos = (89,0);
 ref = tildecomb;
 }
 );
@@ -90,7 +90,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (136,0);
+pos = (72,0);
 ref = tildecomb;
 }
 );

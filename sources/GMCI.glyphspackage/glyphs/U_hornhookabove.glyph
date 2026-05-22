@@ -65,7 +65,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (156,180);
+pos = (70,180);
 ref = hookabovecomb;
 }
 );
@@ -91,7 +91,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (60,180);
+pos = (-26,180);
 ref = hookabovecomb;
 }
 );

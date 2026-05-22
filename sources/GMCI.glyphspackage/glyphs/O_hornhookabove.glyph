@@ -91,7 +91,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (58,180);
+pos = (-28,180);
 ref = hookabovecomb;
 }
 );

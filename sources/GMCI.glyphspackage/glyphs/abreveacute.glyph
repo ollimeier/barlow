@@ -65,7 +65,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (19,0);
+pos = (83,0);
 ref = brevecomb_acutecomb;
 }
 );
@@ -91,7 +91,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (27,0);
+pos = (91,0);
 ref = brevecomb_acutecomb;
 }
 );

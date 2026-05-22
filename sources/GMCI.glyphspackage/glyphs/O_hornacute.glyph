@@ -91,7 +91,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (264,180);
+pos = (178,180);
 ref = acutecomb;
 }
 );

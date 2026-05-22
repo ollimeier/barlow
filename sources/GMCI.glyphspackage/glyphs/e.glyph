@@ -254,13 +254,6 @@ pos = (266,515);
 }
 );
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-attr = {
-coordinates = (
-144,
-100,
-0
-);
-};
 layerId = "2A2CF652-FDA6-4CD5-BE40-6F49EDC401C9";
 name = "{144, 500}";
 shapes = (
@@ -963,13 +956,6 @@ pos = (298,515);
 }
 );
 associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
-attr = {
-coordinates = (
-144,
-100,
--7
-);
-};
 layerId = "17A79070-FF6A-4A4E-BBD4-E844F8985670";
 name = "{144, 500}";
 shapes = (
