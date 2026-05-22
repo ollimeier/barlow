@@ -17,7 +17,7 @@ fontMaster = (
 {
 axesValues = (
 30,
-75
+300
 );
 id = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 metricValues = (
@@ -55,7 +55,7 @@ name = "Cond Thin";
 {
 axesValues = (
 188,
-75
+300
 );
 iconName = Bold_Condensed;
 id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -102,7 +102,7 @@ noodleThickness = "22.0";
 {
 axesValues = (
 30,
-100
+500
 );
 id = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 metricValues = (
@@ -140,7 +140,7 @@ name = Thin;
 {
 axesValues = (
 188,
-100
+500
 );
 iconName = Bold;
 id = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -190,56 +190,9 @@ instances = (
 {
 axesValues = (
 96,
-100
-);
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-}
+500
 );
 name = Medium;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "GMC-I Neo";
-}
-);
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "GMC-I Neo";
-}
-);
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Medium;
-}
-);
 weightClass = 500;
 }
 );
