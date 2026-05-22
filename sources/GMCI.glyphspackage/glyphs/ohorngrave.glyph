@@ -78,7 +78,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (238,0);
+pos = (176,0);
 ref = gravecomb;
 }
 );

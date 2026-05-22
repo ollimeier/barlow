@@ -63,7 +63,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (102,180);
+pos = (166,180);
 ref = brevecomb_gravecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (101,199);
+pos = (163,199);
 ref = brevecomb_gravecomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (71,180);
+pos = (135,180);
 ref = brevecomb_gravecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (34,199);
+pos = (96,199);
 ref = brevecomb_gravecomb;
 }
 );

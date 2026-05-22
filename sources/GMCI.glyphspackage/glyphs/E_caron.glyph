@@ -62,7 +62,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (62,180);
+pos = (126,180);
 ref = caron;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (126,199);
+pos = (188,199);
 ref = caron;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (7,180);
+pos = (71,180);
 ref = caron;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (51,199);
+pos = (113,199);
 ref = caron;
 }
 );
