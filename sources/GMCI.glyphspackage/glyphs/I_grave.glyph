@@ -62,7 +62,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (27,180);
+pos = (-5,180);
 ref = gravecomb;
 slant = (7,0);
 }
@@ -77,7 +77,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (96,199);
+pos = (65,199);
 ref = gravecomb;
 slant = (7,0);
 }
@@ -92,7 +92,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (5,180);
+pos = (-27,180);
 ref = gravecomb;
 slant = (7,0);
 }

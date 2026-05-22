@@ -67,7 +67,7 @@ ref = u.sc;
 slant = (7,0);
 },
 {
-pos = (122,69);
+pos = (90,69);
 ref = hungarumlautcomb;
 slant = (7,0);
 }
@@ -100,7 +100,7 @@ ref = u.sc;
 slant = (7,0);
 },
 {
-pos = (105,70);
+pos = (73,70);
 ref = hungarumlautcomb;
 slant = (7,0);
 }
@@ -115,7 +115,7 @@ ref = u.sc;
 slant = (7,0);
 },
 {
-pos = (146,83);
+pos = (115,83);
 ref = hungarumlautcomb;
 slant = (7,0);
 }

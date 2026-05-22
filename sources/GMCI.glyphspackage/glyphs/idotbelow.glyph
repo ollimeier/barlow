@@ -64,7 +64,7 @@ ref = i;
 slant = (7,0);
 },
 {
-pos = (-8,0);
+pos = (24,0);
 ref = dotbelowcomb;
 slant = (7,0);
 }

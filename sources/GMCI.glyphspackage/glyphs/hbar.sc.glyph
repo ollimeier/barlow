@@ -65,7 +65,7 @@ ref = h.sc;
 slant = (7,0);
 },
 {
-pos = (-46,-150);
+pos = (-84,-150);
 ref = strokelongcomb;
 slant = (7,0);
 }
@@ -98,7 +98,7 @@ ref = h.sc;
 slant = (7,0);
 },
 {
-pos = (-14,-149);
+pos = (-52,-149);
 ref = strokelongcomb;
 slant = (7,0);
 }
@@ -113,7 +113,7 @@ ref = h.sc;
 slant = (7,0);
 },
 {
-pos = (27,-113);
+pos = (-8,-113);
 ref = strokelongcomb;
 slant = (7,0);
 }

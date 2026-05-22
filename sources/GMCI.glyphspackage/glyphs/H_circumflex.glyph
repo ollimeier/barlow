@@ -62,7 +62,7 @@ ref = H;
 slant = (7,0);
 },
 {
-pos = (180,180);
+pos = (148,180);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -77,7 +77,7 @@ ref = H;
 slant = (7,0);
 },
 {
-pos = (226,199);
+pos = (195,199);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -92,7 +92,7 @@ ref = H;
 slant = (7,0);
 },
 {
-pos = (115,180);
+pos = (83,180);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -107,7 +107,7 @@ ref = H;
 slant = (7,0);
 },
 {
-pos = (146,199);
+pos = (115,199);
 ref = circumflexcomb;
 slant = (7,0);
 }

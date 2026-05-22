@@ -78,7 +78,7 @@ ref = U;
 slant = (7,0);
 },
 {
-pos = (252,199);
+pos = (221,199);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -108,7 +108,7 @@ ref = U;
 slant = (7,0);
 },
 {
-pos = (237,199);
+pos = (207,199);
 ref = acutecomb;
 slant = (7,0);
 }

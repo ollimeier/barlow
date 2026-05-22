@@ -79,7 +79,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (213,199);
+pos = (182,199);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -94,7 +94,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (220,180);
+pos = (188,180);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -185,7 +185,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (159,199);
+pos = (184,199);
 ref = acutecomb;
 }
 );
@@ -200,7 +200,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (166,180);
+pos = (188,180);
 ref = acutecomb;
 }
 );
@@ -215,7 +215,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (158,199);
+pos = (182,199);
 ref = acutecomb;
 }
 );
@@ -230,7 +230,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (264,180);
+pos = (286,180);
 ref = acutecomb;
 }
 );

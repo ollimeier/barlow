@@ -62,7 +62,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (95,0);
+pos = (41,0);
 ref = dotaccentcomb.case;
 slant = (7,0);
 }
@@ -77,7 +77,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (121,0);
+pos = (66,0);
 ref = dotaccentcomb.case;
 slant = (7,0);
 }
@@ -92,7 +92,7 @@ ref = I;
 slant = (7,0);
 },
 {
-pos = (73,0);
+pos = (19,0);
 ref = dotaccentcomb.case;
 slant = (7,0);
 }

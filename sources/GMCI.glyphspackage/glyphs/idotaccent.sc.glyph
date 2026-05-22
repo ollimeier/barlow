@@ -65,7 +65,7 @@ ref = i.sc;
 slant = (7,0);
 },
 {
-pos = (49,58);
+pos = (17,58);
 ref = dotaccentcomb;
 slant = (7,0);
 }
@@ -98,7 +98,7 @@ ref = i.sc;
 slant = (7,0);
 },
 {
-pos = (51,70);
+pos = (19,70);
 ref = dotaccentcomb;
 slant = (7,0);
 }
@@ -113,7 +113,7 @@ ref = i.sc;
 slant = (7,0);
 },
 {
-pos = (83,74);
+pos = (52,74);
 ref = dotaccentcomb;
 slant = (7,0);
 }

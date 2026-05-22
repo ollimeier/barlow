@@ -79,12 +79,12 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (169,0);
+pos = (201,0);
 ref = dotbelowcomb;
 slant = (7,0);
 },
 {
-pos = (159,180);
+pos = (127,180);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -99,12 +99,12 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (237,0);
+pos = (267,0);
 ref = dotbelowcomb;
 slant = (7,0);
 },
 {
-pos = (218,199);
+pos = (187,199);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -119,12 +119,12 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (86,0);
+pos = (118,0);
 ref = dotbelowcomb;
 slant = (7,0);
 },
 {
-pos = (99,180);
+pos = (67,180);
 ref = circumflexcomb;
 slant = (7,0);
 }
@@ -139,12 +139,12 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (134,0);
+pos = (165,0);
 ref = dotbelowcomb;
 slant = (7,0);
 },
 {
-pos = (144,199);
+pos = (113,199);
 ref = circumflexcomb;
 slant = (7,0);
 }

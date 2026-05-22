@@ -63,7 +63,7 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (166,180);
+pos = (134,180);
 ref = tildecomb;
 slant = (7,0);
 }
@@ -78,7 +78,7 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (241,199);
+pos = (211,199);
 ref = tildecomb;
 slant = (7,0);
 }
@@ -93,7 +93,7 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (127,180);
+pos = (95,180);
 ref = tildecomb;
 slant = (7,0);
 }
@@ -108,7 +108,7 @@ ref = E;
 slant = (7,0);
 },
 {
-pos = (155,199);
+pos = (124,199);
 ref = tildecomb;
 slant = (7,0);
 }

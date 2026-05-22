@@ -64,7 +64,7 @@ ref = N;
 slant = (7,0);
 },
 {
-pos = (193,180);
+pos = (161,180);
 ref = tildecomb;
 slant = (7,0);
 }
@@ -79,7 +79,7 @@ ref = N;
 slant = (7,0);
 },
 {
-pos = (258,199);
+pos = (228,199);
 ref = tildecomb;
 slant = (7,0);
 }
@@ -94,7 +94,7 @@ ref = N;
 slant = (7,0);
 },
 {
-pos = (162,180);
+pos = (130,180);
 ref = tildecomb;
 slant = (7,0);
 }

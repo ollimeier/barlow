@@ -64,7 +64,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (236,180);
+pos = (204,180);
 ref = macroncomb;
 slant = (7,0);
 }
@@ -79,7 +79,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (205,199);
+pos = (174,199);
 ref = macroncomb;
 slant = (7,0);
 }
@@ -94,7 +94,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (190,180);
+pos = (158,180);
 ref = macroncomb;
 slant = (7,0);
 }

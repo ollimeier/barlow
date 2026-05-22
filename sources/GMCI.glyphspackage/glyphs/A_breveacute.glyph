@@ -79,7 +79,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (102,199);
+pos = (101,199);
 ref = brevecomb_acutecomb;
 slant = (7,0);
 }
@@ -109,7 +109,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (35,199);
+pos = (34,199);
 ref = brevecomb_acutecomb;
 slant = (7,0);
 }

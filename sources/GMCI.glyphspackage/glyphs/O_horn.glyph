@@ -65,7 +65,7 @@ ref = O;
 slant = (7,0);
 },
 {
-pos = (265,180);
+pos = (233,180);
 ref = horncomb;
 slant = (7,0);
 }
@@ -80,7 +80,7 @@ ref = O;
 slant = (7,0);
 },
 {
-pos = (354,156);
+pos = (318,156);
 ref = horncomb;
 slant = (7,0);
 }
@@ -112,7 +112,7 @@ ref = O;
 slant = (7,0);
 },
 {
-pos = (159,199);
+pos = (128,199);
 ref = horncomb;
 slant = (7,0);
 }

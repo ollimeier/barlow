@@ -81,7 +81,7 @@ ref = U;
 slant = (7,0);
 },
 {
-pos = (90,199);
+pos = (60,199);
 ref = hookabovecomb;
 slant = (7,0);
 }

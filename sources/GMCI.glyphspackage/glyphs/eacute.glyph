@@ -79,7 +79,7 @@ ref = e;
 slant = (7,0);
 },
 {
-pos = (158,0);
+pos = (127,0);
 ref = acutecomb;
 slant = (7,0);
 }

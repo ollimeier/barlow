@@ -79,7 +79,7 @@ ref = G;
 slant = (7,0);
 },
 {
-pos = (295,0);
+pos = (240,0);
 ref = dotaccentcomb.case;
 slant = (7,0);
 }

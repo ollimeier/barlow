@@ -79,7 +79,7 @@ ref = C;
 slant = (7,0);
 },
 {
-pos = (106,199);
+pos = (105,199);
 ref = caron;
 slant = (7,0);
 }
@@ -109,7 +109,7 @@ ref = C;
 slant = (7,0);
 },
 {
-pos = (48,199);
+pos = (47,199);
 ref = caron;
 slant = (7,0);
 }

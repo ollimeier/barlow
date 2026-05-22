@@ -79,7 +79,7 @@ ref = G;
 slant = (7,0);
 },
 {
-pos = (165,-8);
+pos = (203,-8);
 ref = commaaccentcomb;
 slant = (7,0);
 }
@@ -94,7 +94,7 @@ ref = G;
 slant = (7,0);
 },
 {
-pos = (95,-8);
+pos = (103,-8);
 ref = commaaccentcomb;
 slant = (7,0);
 }

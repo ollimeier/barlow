@@ -596,7 +596,7 @@ shapes = (
 ref = circumflexcomb;
 },
 {
-pos = (8,180);
+pos = (30,180);
 ref = tildecomb;
 }
 );

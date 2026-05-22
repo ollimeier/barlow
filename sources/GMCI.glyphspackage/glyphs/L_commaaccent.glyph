@@ -65,7 +65,7 @@ slant = (7,0);
 },
 {
 alignment = 1;
-pos = (98,0);
+pos = (130,0);
 ref = commaaccentcomb;
 slant = (7,0);
 }
@@ -80,7 +80,7 @@ ref = L;
 slant = (7,0);
 },
 {
-pos = (156,0);
+pos = (187,0);
 ref = commaaccentcomb;
 slant = (7,0);
 }
@@ -95,7 +95,7 @@ ref = L;
 slant = (7,0);
 },
 {
-pos = (40,0);
+pos = (72,0);
 ref = commaaccentcomb;
 slant = (7,0);
 }

@@ -62,7 +62,7 @@ ref = idotless;
 slant = (7,0);
 },
 {
-pos = (94,0);
+pos = (62,0);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -77,7 +77,7 @@ ref = idotless;
 slant = (7,0);
 },
 {
-pos = (15,0);
+pos = (-16,0);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -92,7 +92,7 @@ ref = idotless;
 slant = (7,0);
 },
 {
-pos = (62,0);
+pos = (30,0);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -107,7 +107,7 @@ ref = idotless;
 slant = (7,0);
 },
 {
-pos = (70,0);
+pos = (40,0);
 ref = acutecomb;
 slant = (7,0);
 }

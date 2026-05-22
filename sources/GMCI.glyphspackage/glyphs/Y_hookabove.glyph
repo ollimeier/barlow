@@ -66,7 +66,7 @@ ref = Y;
 slant = (7,0);
 },
 {
-pos = (91,180);
+pos = (59,180);
 ref = hookabovecomb;
 slant = (7,0);
 }
@@ -81,7 +81,7 @@ ref = Y;
 slant = (7,0);
 },
 {
-pos = (37,198);
+pos = (7,198);
 ref = hookabovecomb;
 slant = (7,0);
 }
@@ -96,7 +96,7 @@ ref = Y;
 slant = (7,0);
 },
 {
-pos = (5,180);
+pos = (-27,180);
 ref = hookabovecomb;
 slant = (7,0);
 }

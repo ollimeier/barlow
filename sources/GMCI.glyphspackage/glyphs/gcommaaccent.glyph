@@ -79,7 +79,7 @@ ref = g;
 slant = (7,0);
 },
 {
-pos = (237,0);
+pos = (206,0);
 ref = commaturnedabovecomb;
 slant = (7,0);
 }

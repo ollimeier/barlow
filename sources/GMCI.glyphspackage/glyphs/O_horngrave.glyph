@@ -66,7 +66,7 @@ ref = Ohorn;
 slant = (7,0);
 },
 {
-pos = (275,180);
+pos = (243,180);
 ref = gravecomb;
 slant = (7,0);
 }
@@ -81,7 +81,7 @@ ref = Ohorn;
 slant = (7,0);
 },
 {
-pos = (360,199);
+pos = (329,199);
 ref = gravecomb;
 slant = (7,0);
 }

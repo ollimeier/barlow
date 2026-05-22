@@ -77,7 +77,7 @@ ref = N;
 slant = (7,0);
 },
 {
-pos = (144,199);
+pos = (143,199);
 ref = caron;
 slant = (7,0);
 }
@@ -107,7 +107,7 @@ ref = N;
 slant = (7,0);
 },
 {
-pos = (63,209);
+pos = (62,209);
 ref = caron;
 slant = (7,0);
 }

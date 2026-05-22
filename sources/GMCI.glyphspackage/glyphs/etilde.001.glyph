@@ -79,7 +79,7 @@ ref = e;
 slant = (7,0);
 },
 {
-pos = (153,0);
+pos = (123,0);
 ref = tildecomb;
 slant = (7,0);
 }

@@ -64,7 +64,7 @@ ref = O;
 slant = (7,0);
 },
 {
-pos = (182,180);
+pos = (150,180);
 ref = hungarumlautcomb;
 slant = (7,0);
 }
@@ -79,7 +79,7 @@ ref = O;
 slant = (7,0);
 },
 {
-pos = (211,199);
+pos = (180,199);
 ref = hungarumlautcomb;
 slant = (7,0);
 }

@@ -78,7 +78,7 @@ ref = g;
 slant = (7,0);
 },
 {
-pos = (140,0);
+pos = (109,0);
 ref = circumflexcomb;
 slant = (7,0);
 }

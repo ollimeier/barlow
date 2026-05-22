@@ -67,7 +67,7 @@ ref = y.sc;
 slant = (7,0);
 },
 {
-pos = (251,58);
+pos = (219,58);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -100,7 +100,7 @@ ref = y.sc;
 slant = (7,0);
 },
 {
-pos = (198,57);
+pos = (166,57);
 ref = acutecomb;
 slant = (7,0);
 }
@@ -115,7 +115,7 @@ ref = y.sc;
 slant = (7,0);
 },
 {
-pos = (176,75);
+pos = (146,75);
 ref = acutecomb;
 slant = (7,0);
 }

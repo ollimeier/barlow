@@ -64,7 +64,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (198,180);
+pos = (166,180);
 ref = brevecomb_hookabovecomb;
 slant = (7,0);
 }
@@ -79,7 +79,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (194,199);
+pos = (163,199);
 ref = brevecomb_hookabovecomb;
 slant = (7,0);
 }
@@ -94,7 +94,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (167,180);
+pos = (135,180);
 ref = brevecomb_hookabovecomb;
 slant = (7,0);
 }
@@ -109,7 +109,7 @@ ref = A;
 slant = (7,0);
 },
 {
-pos = (127,199);
+pos = (96,199);
 ref = brevecomb_hookabovecomb;
 slant = (7,0);
 }

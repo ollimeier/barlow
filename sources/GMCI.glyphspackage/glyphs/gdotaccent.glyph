@@ -77,7 +77,7 @@ ref = g;
 slant = (7,0);
 },
 {
-pos = (241,0);
+pos = (210,0);
 ref = dotaccentcomb;
 slant = (7,0);
 }

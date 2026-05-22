@@ -68,7 +68,7 @@ slant = (7,0);
 },
 {
 anchor = center;
-pos = (340,105);
+pos = (334,105);
 ref = periodcentered;
 slant = (7,0);
 }
@@ -84,7 +84,7 @@ slant = (7,0);
 },
 {
 anchor = center;
-pos = (264,75);
+pos = (259,75);
 ref = periodcentered;
 slant = (7,0);
 }
@@ -100,7 +100,7 @@ slant = (7,0);
 },
 {
 anchor = center;
-pos = (269,122);
+pos = (264,122);
 ref = periodcentered;
 slant = (7,0);
 }
@@ -116,7 +116,7 @@ slant = (7,0);
 },
 {
 anchor = center;
-pos = (204,74);
+pos = (199,74);
 ref = periodcentered;
 slant = (7,0);
 }
