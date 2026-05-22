@@ -193,6 +193,198 @@ ref = greater;
 }
 );
 width = 550;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(495,0,l),
+(495,160,l),
+(63,160,l),
+(63,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(495,367,l),
+(495,527,l),
+(63,712,l),
+(63,534,l),
+(302,447,l),
+(63,360,l),
+(63,182,l)
+);
+}
+);
+width = 550;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "15ACB1EE-307B-486E-BA1A-ECB775689839";
+name = "May 15, 26 at 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(495,0,l),
+(495,160,l),
+(63,160,l),
+(63,0,l)
+);
+},
+{
+pos = (36,170);
+ref = greater;
+}
+);
+width = 550;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(458,100,l),
+(458,127,l),
+(40,127,l),
+(40,100,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(458,389,l),
+(458,420,l),
+(40,620,l),
+(40,588,l),
+(430,404,l),
+(40,221,l),
+(40,189,l)
+);
+}
+);
+width = 508;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "D655E432-E4FE-4518-87CF-1B0606477F0B";
+name = "May 15, 26 at 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(458,100,l),
+(458,127,l),
+(40,127,l),
+(40,100,l)
+);
+},
+{
+pos = (5,137);
+ref = greater;
+}
+);
+width = 508;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(449,30,l),
+(449,170,l),
+(49,170,l),
+(49,30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(449,357,l),
+(449,517,l),
+(49,692,l),
+(49,514,l),
+(270,437,l),
+(49,360,l),
+(49,182,l)
+);
+}
+);
+width = 491;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "85F032B1-BDEF-4CC5-9E44-1113F2B27E63";
+name = "May 15, 26 at 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(449,30,l),
+(449,170,l),
+(49,170,l),
+(49,30,l)
+);
+},
+{
+pos = (28,140);
+ref = greater;
+}
+);
+width = 491;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,148,l),
+(405,174,l),
+(35,174,l),
+(35,148,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(405,396,l),
+(405,427,l),
+(35,617,l),
+(35,585,l),
+(377,411,l),
+(35,238,l),
+(35,206,l)
+);
+}
+);
+width = 433;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "88A22BC4-0FB7-4B5B-918A-6CBFF6258780";
+name = "May 15, 26 at 17:29";
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,148,l),
+(405,174,l),
+(35,174,l),
+(35,148,l)
+);
+},
+{
+pos = (-2,143);
+ref = greater;
+}
+);
+width = 433;
 }
 );
 metricWidth = "=zero.tf";

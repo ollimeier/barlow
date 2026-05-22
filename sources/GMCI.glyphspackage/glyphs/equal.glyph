@@ -161,6 +161,166 @@ ref = minus;
 }
 );
 width = 550;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,295,l),
+(491,455,l),
+(59,455,l),
+(59,295,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(491,114,l),
+(491,274,l),
+(59,274,l),
+(59,114,l)
+);
+}
+);
+width = 550;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "1C17757E-5C0A-4B04-AA93-648026C98CD4";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,83);
+ref = minus;
+},
+{
+pos = (0,-98);
+ref = minus;
+}
+);
+width = 550;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,423,l),
+(463,450,l),
+(45,450,l),
+(45,423,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(463,205,l),
+(463,232,l),
+(45,232,l),
+(45,205,l)
+);
+}
+);
+width = 508;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "EC40A312-9141-49B5-8AE0-D01033528F69";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,116.313);
+ref = minus;
+},
+{
+pos = (0,-101.807);
+ref = minus;
+}
+);
+width = 508;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(446,320,l),
+(446,460,l),
+(46,460,l),
+(46,320,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(446,150,l),
+(446,290,l),
+(46,290,l),
+(46,150,l)
+);
+}
+);
+width = 491;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "938B53F8-EC1D-4A63-870A-E140E8328353";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,86);
+ref = minus;
+},
+{
+pos = (0,-84);
+ref = minus;
+}
+);
+width = 491;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(402,434,l),
+(402,460,l),
+(32,460,l),
+(32,434,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(402,216,l),
+(402,242,l),
+(32,242,l),
+(32,216,l)
+);
+}
+);
+width = 433;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "1DF7D118-6E2F-4D1A-BA63-323A10674E10";
+name = "May 15, 26 at 17:13";
+shapes = (
+{
+pos = (0,125.976);
+ref = minus;
+},
+{
+pos = (0,-91.614);
+ref = minus;
+}
+);
+width = 433;
 }
 );
 metricWidth = "=zero.tf";

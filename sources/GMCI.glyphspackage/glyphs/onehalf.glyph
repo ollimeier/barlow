@@ -69,6 +69,74 @@ ref = two.dnom;
 }
 );
 width = 687;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (237,0);
+ref = fraction;
+},
+{
+pos = (529,0);
+ref = two.dnom;
+}
+);
+width = 871;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (210,0);
+ref = fraction;
+},
+{
+pos = (393,0);
+ref = two.dnom;
+}
+);
+width = 687;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (232,0);
+ref = fraction;
+},
+{
+pos = (461,0);
+ref = two.dnom;
+}
+);
+width = 761;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (157,0);
+ref = fraction;
+},
+{
+pos = (359,0);
+ref = two.dnom;
+}
+);
+width = 576;
 }
 );
 unicode = 189;

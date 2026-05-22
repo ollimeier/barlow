@@ -159,6 +159,162 @@ nodes = (
 }
 );
 width = 477;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+pos = (226,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+width = 473;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "18D773E5-BFE3-4FF2-99CE-FC2CEBBBC6C1";
+name = "May 15, 26 at 17:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,460,l),
+(448,700,l),
+(269,700,l),
+(289,460,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(188,460,l),
+(208,700,l),
+(29,700,l),
+(49,460,l)
+);
+}
+);
+width = 477;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+pos = (82,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+width = 260;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "4D0D3144-269C-4A01-B0F4-28EE8A3682A2";
+name = "May 15, 26 at 17:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(200.518,498.072,l),
+(204.337,692.386,l),
+(170.964,692.386,l),
+(174.783,498.072,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(103.289,498.072,l),
+(107.108,692.386,l),
+(73.735,692.386,l),
+(77.554,498.072,l)
+);
+}
+);
+width = 278;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+pos = (226,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+width = 444;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "5D599FFA-A746-467B-A548-4AE02F213C03";
+name = "May 15, 26 at 17:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,460,l),
+(420,700,l),
+(242,700,l),
+(262,460,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(174,460,l),
+(194,700,l),
+(16,700,l),
+(36,460,l)
+);
+}
+);
+width = 436;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+pos = (82,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+width = 206;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "0174187D-50BE-47AD-965C-2E9B6D36930F";
+name = "May 15, 26 at 17:00";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156.337,498.072,l),
+(160.157,692.386,l),
+(127.783,692.386,l),
+(130.651,498.072,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(75.012,498.072,l),
+(78.831,692.386,l),
+(46.458,692.386,l),
+(50.277,498.072,l)
+);
+}
+);
+width = 206;
 }
 );
 metricLeft = "=quotesingle";

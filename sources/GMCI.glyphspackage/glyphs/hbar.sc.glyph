@@ -56,6 +56,60 @@ ref = strokelongcomb;
 }
 );
 width = 571;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (-65,-150);
+ref = strokelongcomb;
+}
+);
+width = 513;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+alignment = -1;
+ref = h.sc;
+},
+{
+alignment = -1;
+pos = (2.578,-99.373);
+ref = strokelongcomb;
+}
+);
+width = 571;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (-34,-149);
+ref = strokelongcomb;
+}
+);
+width = 463;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (7,-113);
+ref = strokelongcomb;
+}
+);
+width = 401;
 }
 );
 }

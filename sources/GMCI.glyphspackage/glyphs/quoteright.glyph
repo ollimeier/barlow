@@ -45,6 +45,50 @@ ref = quoteleft;
 }
 );
 width = 211;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+angle = 180;
+pos = (282,1160);
+ref = quoteleft;
+}
+);
+width = 288;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+angle = 180;
+pos = (195,1208);
+ref = quoteleft;
+}
+);
+width = 211;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+angle = 180;
+pos = (263,1160);
+ref = quoteleft;
+}
+);
+width = 263;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+angle = 180;
+pos = (137,1208);
+ref = quoteleft;
+}
+);
+width = 149;
 }
 );
 metricLeft = "=quotesinglbase";

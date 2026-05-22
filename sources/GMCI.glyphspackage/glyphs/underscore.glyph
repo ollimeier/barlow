@@ -61,6 +61,66 @@ nodes = (
 }
 );
 width = 392;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,-163,l),
+(525,-23,l),
+(0,-23,l),
+(0,-163,l)
+);
+}
+);
+width = 525;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,-48,l),
+(392,-21,l),
+(0,-21,l),
+(0,-48,l)
+);
+}
+);
+width = 392;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(435,-157,l),
+(435,-17,l),
+(0,-17,l),
+(0,-157,l)
+);
+}
+);
+width = 435;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(296,-44,l),
+(296,-17,l),
+(0,-17,l),
+(0,-44,l)
+);
+}
+);
+width = 296;
 }
 );
 metricLeft = "=0";

@@ -185,6 +185,190 @@ ref = zero.dnom;
 }
 );
 width = 1236;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (288,0);
+ref = fraction;
+},
+{
+pos = (540,0);
+ref = zero.dnom;
+},
+{
+pos = (888,0);
+ref = zero.dnom;
+}
+);
+width = 1236;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "277AB5FD-19A3-4982-9620-34B50197C8C3";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (288,0);
+ref = fraction;
+},
+{
+pos = (540,0);
+ref = zero.dnom;
+},
+{
+pos = (888,0);
+ref = zero.dnom;
+}
+);
+width = 1236;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (262,0);
+ref = fraction;
+},
+{
+pos = (415,0);
+ref = zero.dnom;
+},
+{
+pos = (738,0);
+ref = zero.dnom;
+}
+);
+width = 1061;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "BCD09156-2549-44C1-9F61-F3B1438AB8F1";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+alignment = -1;
+ref = zero.numr;
+},
+{
+alignment = -1;
+pos = (292.795,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (498.036,0);
+ref = zero.dnom;
+},
+{
+alignment = -1;
+pos = (809.867,0);
+ref = zero.dnom;
+}
+);
+width = 1122;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (260,0);
+ref = fraction;
+},
+{
+pos = (439,0);
+ref = zero.dnom;
+},
+{
+pos = (729,0);
+ref = zero.dnom;
+}
+);
+width = 1019;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "007C2A3F-3894-4AEE-9040-73AC36C078E7";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (260,0);
+ref = fraction;
+},
+{
+pos = (439,0);
+ref = zero.dnom;
+},
+{
+pos = (729,0);
+ref = zero.dnom;
+}
+);
+width = 1019;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+ref = zero.numr;
+},
+{
+pos = (215,0);
+ref = fraction;
+},
+{
+pos = (377,0);
+ref = zero.dnom;
+},
+{
+pos = (632,0);
+ref = zero.dnom;
+}
+);
+width = 887;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "F1456B69-D26D-4BE0-B0F9-7E7D66F1FC24";
+name = "May 15, 26 at 18:00";
+shapes = (
+{
+alignment = -1;
+ref = zero.numr;
+},
+{
+alignment = -1;
+pos = (264.301,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (490.928,0);
+ref = zero.dnom;
+},
+{
+alignment = -1;
+pos = (755.229,0);
+ref = zero.dnom;
+}
+);
+width = 1020;
 }
 );
 unicode = 8240;

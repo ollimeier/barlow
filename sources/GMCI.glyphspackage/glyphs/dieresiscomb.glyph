@@ -165,6 +165,170 @@ ref = dotaccentcomb;
 }
 );
 width = 239;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (203,520);
+}
+);
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+pos = (207,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-11,0);
+ref = dotaccentcomb;
+}
+);
+width = 406;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (167,520);
+}
+);
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "FCC3A0ED-AB2E-4098-B870-BC9CF03B9E82";
+name = "Apr 28 17, 03:10";
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,553,o),
+(339,585,o),
+(339,632,cs),
+(339,680,o),
+(309,711,o),
+(262,711,cs),
+(215,711,o),
+(184,680,o),
+(184,632,cs),
+(184,585,o),
+(215,553,o),
+(262,553,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(124,553,o),
+(156,585,o),
+(156,632,cs),
+(156,680,o),
+(124,711,o),
+(78,711,cs),
+(32,711,o),
+(0,680,o),
+(0,632,cs),
+(0,585,o),
+(32,553,o),
+(78,553,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(332,551,o),
+(366,586,o),
+(366,638,cs),
+(366,690,o),
+(332,725,o),
+(280,725,cs),
+(228,725,o),
+(194,690,o),
+(194,638,cs),
+(194,586,o),
+(228,551,o),
+(280,551,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(138,551,o),
+(172,586,o),
+(172,638,cs),
+(172,690,o),
+(138,725,o),
+(87,725,cs),
+(36,725,o),
+(0,690,o),
+(0,638,cs),
+(0,586,o),
+(36,551,o),
+(87,551,cs)
+);
+}
+);
+width = 339;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (119,501);
+}
+);
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+alignment = -1;
+pos = (152,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-3,0);
+ref = dotaccentcomb;
+}
+);
+width = 239;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (198,520);
+}
+);
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+pos = (196,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-11,0);
+ref = dotaccentcomb;
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (107.578,500.964);
+}
+);
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+pos = (127,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-2,0);
+ref = dotaccentcomb;
+}
+);
+width = 215;
 }
 );
 unicode = 776;

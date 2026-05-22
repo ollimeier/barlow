@@ -77,6 +77,82 @@ nodes = (
 }
 );
 width = 508;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+pos = (0,113);
+ref = plus;
+},
+{
+closed = 1;
+nodes = (
+(491,20,l),
+(491,180,l),
+(59,180,l),
+(59,20,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+pos = (0,86);
+ref = plus;
+},
+{
+closed = 1;
+nodes = (
+(463,130,l),
+(463,157,l),
+(45,157,l),
+(45,130,l)
+);
+}
+);
+width = 508;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+pos = (1,87);
+ref = plus;
+},
+{
+closed = 1;
+nodes = (
+(446,30,l),
+(446,170,l),
+(46,170,l),
+(46,30,l)
+);
+}
+);
+width = 491;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+pos = (0,69);
+ref = plus;
+},
+{
+closed = 1;
+nodes = (
+(402,122,l),
+(402,148,l),
+(32,148,l),
+(32,122,l)
+);
+}
+);
+width = 433;
 }
 );
 metricWidth = "=zero.tf";

@@ -75,6 +75,78 @@ nodes = (
 }
 );
 width = 496;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(546,508,l),
+(476,562,l),
+(12,12,l),
+(82,-42,l)
+);
+}
+);
+width = 558;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(435,506,l),
+(413,520,l),
+(61,-4,l),
+(82,-18,l)
+);
+}
+);
+width = 496;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(461,509,l),
+(411,545,l),
+(-6,12,l),
+(44,-24,l)
+);
+}
+);
+width = 457;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(315,543,l),
+(293,553,l),
+(55,-41,l),
+(77,-51,l)
+);
+}
+);
+width = 369;
 }
 );
 unicode = 248;

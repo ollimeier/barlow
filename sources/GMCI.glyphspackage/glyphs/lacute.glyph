@@ -55,6 +55,58 @@ ref = acutecomb;
 }
 );
 width = 206;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (63,180);
+ref = acutecomb;
+}
+);
+width = 272;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-15,199);
+ref = acutecomb;
+}
+);
+width = 206;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (32,180);
+ref = acutecomb;
+}
+);
+width = 232;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (40,199);
+ref = acutecomb;
+}
+);
+width = 150;
 }
 );
 unicode = 314;

@@ -55,6 +55,60 @@ ref = l;
 }
 );
 width = 507;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (399,0);
+ref = l;
+}
+);
+width = 671;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (301,0);
+ref = l;
+}
+);
+width = 507;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (299,0);
+ref = l;
+}
+);
+width = 531;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+alignment = -1;
+ref = f;
+},
+{
+alignment = -1;
+pos = (263.783,0);
+ref = l;
+}
+);
+width = 429;
 }
 );
 unicode = 64258;

@@ -162,6 +162,166 @@ ref = dotaccentcomb;
 );
 visible = 1;
 width = 280;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,248,l),
+(234,700,l),
+(46,700,l),
+(65,248,l)
+);
+},
+{
+pos = (8,0);
+ref = period;
+}
+);
+width = 280;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "E0A3DD28-8FC1-4D6D-8F4F-9FB0FE022EF0";
+name = "May 18, 26 at 14:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,248,l),
+(234,700,l),
+(46,700,l),
+(65,248,l)
+);
+},
+{
+pos = (35,-563);
+ref = dotaccentcomb;
+}
+);
+width = 280;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,221,l),
+(133,700,l),
+(103,700,l),
+(104,221,l)
+);
+},
+{
+pos = (-23,0);
+ref = period;
+}
+);
+width = 236;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "96FFECAC-695F-4DA6-A50B-568B4CD66ED0";
+name = "May 18, 26 at 14:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,221,l),
+(133,700,l),
+(103,700,l),
+(104,221,l)
+);
+},
+{
+pos = (72.88,-608.301);
+ref = dotaccentcomb;
+}
+);
+width = 236;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,248,l),
+(209,700,l),
+(21,700,l),
+(41,248,l)
+);
+},
+{
+pos = (-8,0);
+ref = period;
+}
+);
+width = 230;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "443DDBF6-1889-4DE0-A827-2BD55BC334E4";
+name = "May 18, 26 at 14:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,248,l),
+(209,700,l),
+(21,700,l),
+(41,248,l)
+);
+},
+{
+pos = (10,-563);
+ref = dotaccentcomb;
+}
+);
+width = 230;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(99,221,l),
+(101,700,l),
+(71,700,l),
+(72,221,l)
+);
+},
+{
+pos = (1,6);
+ref = period;
+}
+);
+width = 172;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "84D18B6D-23EF-4F05-B8A1-E8967CEFC0BB";
+name = "May 18, 26 at 14:27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(99,221,l),
+(101,700,l),
+(71,700,l),
+(72,221,l)
+);
+},
+{
+pos = (41,-684);
+ref = dotaccentcomb;
+}
+);
+width = 172;
 }
 );
 unicode = 33;
