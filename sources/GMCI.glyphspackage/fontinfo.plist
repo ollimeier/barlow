@@ -1227,6 +1227,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1348,6 +1349,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1470,6 +1472,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1592,6 +1595,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1713,6 +1717,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1835,6 +1840,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -1957,6 +1963,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2080,6 +2087,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2202,6 +2210,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2323,6 +2332,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2443,6 +2453,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2564,6 +2575,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2685,6 +2697,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2805,6 +2818,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -2926,6 +2940,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3047,6 +3062,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3169,6 +3185,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3290,6 +3307,7 @@ Location = 0;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3422,6 +3440,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3557,6 +3576,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3693,6 +3713,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3829,6 +3850,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -3963,6 +3985,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4099,6 +4122,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4235,6 +4259,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4371,6 +4396,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4507,6 +4533,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4642,6 +4669,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4759,6 +4787,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4877,6 +4906,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -4995,6 +5025,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5111,6 +5142,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5229,6 +5261,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5347,6 +5380,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5465,6 +5499,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5583,6 +5618,7 @@ Location = -7;
 );
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
@@ -5670,6 +5706,7 @@ name = fileName;
 value = GMCINeoVAR;
 },
 {
+disabled = 1;
 name = "Decompose Glyphs";
 value = (
 eacute,
