@@ -979,7 +979,7 @@ attr = {
 coordinates = (
 100,
 100,
-7
+-7
 );
 };
 layerId = "9BFF1D35-431B-4427-BF8C-9F3A8F714B68";
@@ -1105,7 +1105,7 @@ attr = {
 coordinates = (
 100,
 75,
-7
+-7
 );
 };
 layerId = "1D30BF99-071C-4E8D-BB8B-6D8795BFCC64";
@@ -1465,7 +1465,7 @@ attr = {
 coordinates = (
 166,
 100,
-7
+-7
 );
 };
 layerId = "7AEA7106-2D4F-442D-B40D-85EAEC3FA4AA";
@@ -2326,7 +2326,7 @@ attr = {
 coordinates = (
 100,
 100,
-7
+-7
 );
 };
 layerId = "C6E7FF3B-AE94-4576-8F3A-3630663BBB9C";
@@ -2452,7 +2452,7 @@ attr = {
 coordinates = (
 100,
 75,
-7
+-7
 );
 };
 layerId = "A70DB046-56E9-4FCF-BB37-84029D97EF45";
@@ -2578,7 +2578,7 @@ attr = {
 coordinates = (
 166,
 100,
-7
+-7
 );
 };
 layerId = "853F0049-32EE-4B4E-AE1C-9F3CC2248B81";

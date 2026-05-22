@@ -610,7 +610,7 @@ attr = {
 coordinates = (
 100,
 75,
-7
+-7
 );
 };
 background = {
@@ -749,7 +749,7 @@ attr = {
 coordinates = (
 100,
 100,
-7
+-7
 );
 };
 layerId = "65CEF50B-90E1-4360-A37C-3F2C68386518";
