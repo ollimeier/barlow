@@ -6,10 +6,16 @@ layers = (
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = 1;
-pos = (550,0);
-ref = greater;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(493,200,l),
+(254,287,l),
+(493,374,l),
+(493,552,l),
+(61,367,l),
+(61,207,l),
+(493,22,l)
+);
 }
 );
 width = 550;
@@ -18,16 +24,132 @@ width = 550;
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = 1;
-pos = (491,0);
-ref = greater;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(450,220,l),
+(229,297,l),
+(450,374,l),
+(450,552,l),
+(50,377,l),
+(50,217,l),
+(450,42,l)
+);
 }
 );
 width = 491;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,165,l),
+(54,338,l),
+(396,512,l),
+(396,544,l),
+(26,354,l),
+(26,323,l),
+(396,133,l)
+);
+}
+);
+width = 433;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(473,154,l),
+(83,337,l),
+(473,521,l),
+(473,553,l),
+(55,353,l),
+(55,322,l),
+(473,122,l)
+);
+}
+);
+width = 508;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(493,200,l),
+(254,287,l),
+(493,374,l),
+(493,552,l),
+(61,367,l),
+(61,207,l),
+(493,22,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(473,154,l),
+(83,337,l),
+(473,521,l),
+(473,553,l),
+(55,353,l),
+(55,322,l),
+(473,122,l)
+);
+}
+);
+width = 508;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(450,220,l),
+(229,297,l),
+(450,374,l),
+(450,552,l),
+(50,377,l),
+(50,217,l),
+(450,42,l)
+);
+}
+);
+width = 491;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,165,l),
+(54,338,l),
+(396,512,l),
+(396,544,l),
+(26,354,l),
+(26,323,l),
+(396,133,l)
+);
+}
+);
+width = 433;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "484E1B98-AE37-4E30-86C5-AC186EF52453";
+name = "Cond Thin orig";
 shapes = (
 {
 alignment = 1;
@@ -39,7 +161,23 @@ scale = (-1,1);
 width = 433;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "7EFCBD2F-7376-4237-A2BD-2D3CC7E19923";
+name = "Cond Black orig";
+shapes = (
+{
+alignment = 1;
+pos = (491,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 491;
+},
+{
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "759472BE-3D90-47D7-BA6F-1BBDB15A35DB";
+name = "Thin orig";
 shapes = (
 {
 alignment = 1;
@@ -51,7 +189,9 @@ scale = (-1,1);
 width = 508;
 },
 {
-layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "D1F2C76D-DB78-4B65-9867-DC3D51DEEC76";
+name = "Black orig";
 shapes = (
 {
 alignment = 1;
@@ -63,19 +203,23 @@ scale = (-1,1);
 width = 550;
 },
 {
-layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "FB7E58B4-ECCE-4F8B-ABFD-1524E2960D50";
+name = "Cond Thin Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (508,0);
+pos = (433,0);
 ref = greater;
 scale = (-1,1);
 }
 );
-width = 508;
+width = 433;
 },
 {
-layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "01F4A628-402C-4C11-8346-A06C77C14363";
+name = "Cond Black Italic orig";
 shapes = (
 {
 alignment = 1;
@@ -87,16 +231,32 @@ scale = (-1,1);
 width = 491;
 },
 {
-layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "148891D2-2F36-47E1-A8A0-AED6A80ABEC0";
+name = "Thin Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (433,0);
+pos = (508,0);
 ref = greater;
 scale = (-1,1);
 }
 );
-width = 433;
+width = 508;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "2ED0C047-ABCE-46E9-8397-1CF62850588B";
+name = "Black Italic orig";
+shapes = (
+{
+alignment = 1;
+pos = (550,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 550;
 }
 );
 metricWidth = "=zero.tf";

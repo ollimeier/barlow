@@ -6,10 +6,13 @@ layers = (
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
-pos = (29,0);
-ref = hyphen;
-scale = (1.2,1);
+closed = 1;
+nodes = (
+(430,205,l),
+(430,365,l),
+(61,365,l),
+(61,205,l)
+);
 }
 );
 width = 491;
@@ -18,16 +21,111 @@ width = 491;
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
-pos = (-5,0);
-ref = hyphen;
-scale = (1.2,1);
+closed = 1;
+nodes = (
+(500,205,l),
+(500,365,l),
+(50,365,l),
+(50,205,l)
+);
 }
 );
 width = 550;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+closed = 1;
+nodes = (
+(354,306,l),
+(354,334,l),
+(79,334,l),
+(79,306,l)
+);
+}
+);
+width = 433;
+},
+{
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,306,l),
+(432,334,l),
+(77,334,l),
+(77,306,l)
+);
+}
+);
+width = 508;
+},
+{
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,205,l),
+(500,365,l),
+(50,365,l),
+(50,205,l)
+);
+}
+);
+width = 550;
+},
+{
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,306,l),
+(432,334,l),
+(77,334,l),
+(77,306,l)
+);
+}
+);
+width = 508;
+},
+{
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,205,l),
+(430,365,l),
+(61,365,l),
+(61,205,l)
+);
+}
+);
+width = 491;
+},
+{
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(354,306,l),
+(354,334,l),
+(79,334,l),
+(79,306,l)
+);
+}
+);
+width = 433;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "26CC3A9C-03E0-4DC4-91F6-0C695BF89CE0";
+name = "Cond Thin orig";
 shapes = (
 {
 alignment = -1;
@@ -39,43 +137,9 @@ scale = (1.2,1);
 width = 433;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
-shapes = (
-{
-alignment = -1;
-pos = (-11,0);
-ref = hyphen;
-scale = (1.2,1);
-}
-);
-width = 508;
-},
-{
-layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
-shapes = (
-{
-alignment = -1;
-pos = (-5,0);
-ref = hyphen;
-scale = (1.2,1);
-}
-);
-width = 550;
-},
-{
-layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
-shapes = (
-{
-alignment = -1;
-pos = (-11,0);
-ref = hyphen;
-scale = (1.2,1);
-}
-);
-width = 508;
-},
-{
-layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "D2D97462-12FC-4575-9A69-3BC88D941561";
+name = "Cond Black orig";
 shapes = (
 {
 alignment = -1;
@@ -87,7 +151,37 @@ scale = (1.2,1);
 width = 491;
 },
 {
-layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "6FAC87BF-87F2-4271-A941-0064C786E76F";
+name = "Thin orig";
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = hyphen;
+scale = (1.2,1);
+}
+);
+width = 508;
+},
+{
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "29F0F404-962F-41BA-891C-2559697458E6";
+name = "Black orig";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = hyphen;
+scale = (1.2,1);
+}
+);
+width = 550;
+},
+{
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "A7C04E87-4F4B-4886-B9D9-5BCBDFC1C977";
+name = "Cond Thin Italic orig";
 shapes = (
 {
 alignment = -1;
@@ -97,6 +191,48 @@ scale = (1.2,1);
 }
 );
 width = 433;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "414ECD78-82B0-4EC2-901E-AB50C46243A9";
+name = "Cond Black Italic orig";
+shapes = (
+{
+alignment = -1;
+pos = (29,0);
+ref = hyphen;
+scale = (1.2,1);
+}
+);
+width = 491;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "918E7E0E-1E63-4E57-A592-2E9C0ADEC50D";
+name = "Thin Italic orig";
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = hyphen;
+scale = (1.2,1);
+}
+);
+width = 508;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "A3B1A25E-D87D-4434-B7E9-E4E08FF68CAD";
+name = "Black Italic orig";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = hyphen;
+scale = (1.2,1);
+}
+);
+width = 550;
 }
 );
 metricWidth = zero.tf;

@@ -4,37 +4,329 @@ glyphname = Lcaron;
 kernRight = L;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (287,0);
+},
+{
+name = center;
+pos = (447,413);
+},
+{
+name = top;
+pos = (386,700);
+}
+);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = -1;
-ref = L;
+closed = 1;
+nodes = (
+(569,0,l),
+(569,161,l),
+(240,161,l),
+(240,700,l),
+(52,700,l),
+(52,0,l)
+);
 },
 {
-alignment = -1;
-pos = (256,0);
-ref = caroncomb.alt;
+closed = 1;
+nodes = (
+(404,579,l),
+(495,700,l),
+(325,700,l),
+(261,579,l)
+);
 }
 );
 width = 585;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (211,0);
+},
+{
+name = center;
+pos = (371,420);
+},
+{
+name = top;
+pos = (349,700);
+}
+);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = -1;
-ref = L;
+closed = 1;
+nodes = (
+(434,0,l),
+(434,161,l),
+(218,161,l),
+(218,700,l),
+(30,700,l),
+(30,0,l)
+);
 },
 {
-alignment = -1;
-pos = (214,0);
-ref = caroncomb.alt;
+closed = 1;
+nodes = (
+(365,579,l),
+(464,700,l),
+(306,700,l),
+(234,579,l)
+);
 }
 );
 width = 450;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (174.831,0);
+},
+{
+name = center;
+pos = (279,366);
+},
+{
+name = top;
+pos = (250.928,700);
+}
+);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350.241,0,l),
+(350.241,27.747,l),
+(97.12,27.747,l),
+(97.12,700,l),
+(67.12,700,l),
+(67.12,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(226,569,l),
+(302,700,l),
+(272,700,l),
+(199,569,l)
+);
+}
+);
+width = 366;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (275.578,0);
+},
+{
+name = center;
+pos = (347,366);
+},
+{
+name = top;
+pos = (311.578,700);
+}
+);
+layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(508.084,0,l),
+(508.084,27.747,l),
+(127.687,27.747,l),
+(127.687,700,l),
+(97.687,700,l),
+(97.687,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(288,569,l),
+(363,700,l),
+(332,700,l),
+(260,569,l)
+);
+}
+);
+width = 567;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (287,0);
+},
+{
+name = center;
+pos = (447,413);
+},
+{
+name = top;
+pos = (386,700);
+}
+);
+layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(569,0,l),
+(569,161,l),
+(240,161,l),
+(240,700,l),
+(52,700,l),
+(52,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,579,l),
+(495,700,l),
+(325,700,l),
+(261,579,l)
+);
+}
+);
+width = 585;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (275.578,0);
+},
+{
+name = center;
+pos = (347,366);
+},
+{
+name = top;
+pos = (311.578,700);
+}
+);
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(508.084,0,l),
+(508.084,27.747,l),
+(127.687,27.747,l),
+(127.687,700,l),
+(97.687,700,l),
+(97.687,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(288,569,l),
+(363,700,l),
+(332,700,l),
+(260,569,l)
+);
+}
+);
+width = 567;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (211,0);
+},
+{
+name = center;
+pos = (371,420);
+},
+{
+name = top;
+pos = (349,700);
+}
+);
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,0,l),
+(434,161,l),
+(218,161,l),
+(218,700,l),
+(30,700,l),
+(30,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(365,579,l),
+(464,700,l),
+(306,700,l),
+(234,579,l)
+);
+}
+);
+width = 450;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (174.831,0);
+},
+{
+name = center;
+pos = (279,366);
+},
+{
+name = top;
+pos = (250.928,700);
+}
+);
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(350.241,0,l),
+(350.241,27.747,l),
+(97.12,27.747,l),
+(97.12,700,l),
+(67.12,700,l),
+(67.12,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(226,569,l),
+(302,700,l),
+(272,700,l),
+(199,569,l)
+);
+}
+);
+width = 366;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "7CF8E881-B66F-4399-B671-52EAD02A6BF8";
+name = "Cond Thin orig";
 shapes = (
 {
 alignment = -1;
@@ -49,7 +341,26 @@ ref = caroncomb.alt;
 width = 366;
 },
 {
-layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "C9FB085F-BC83-4ABE-9BD5-14F121E2DA11";
+name = "Cond Black orig";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (214,0);
+ref = caroncomb.alt;
+}
+);
+width = 450;
+},
+{
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "5CF234BA-816B-4159-8177-F870A7F6A314";
+name = "Thin orig";
 shapes = (
 {
 alignment = -1;
@@ -64,7 +375,9 @@ ref = caroncomb.alt;
 width = 567;
 },
 {
-layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "29AA37AD-B6CC-4BE9-B4B2-179BB6DCA630";
+name = "Black orig";
 shapes = (
 {
 alignment = -1;
@@ -79,7 +392,9 @@ ref = caroncomb.alt;
 width = 585;
 },
 {
-layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "16A81455-E19C-4297-8675-68EE9D1F9DEE";
+name = "Cond Thin Italic orig";
 shapes = (
 {
 alignment = -1;
@@ -87,14 +402,16 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (244.578,0);
+pos = (175.928,0);
 ref = caroncomb.alt;
 }
 );
-width = 567;
+width = 366;
 },
 {
-layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "C59C4E74-B78C-47F8-A312-80386C137FE8";
+name = "Cond Black Italic orig";
 shapes = (
 {
 alignment = -1;
@@ -109,7 +426,9 @@ ref = caroncomb.alt;
 width = 450;
 },
 {
-layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "439DFF12-4E30-4D30-B11A-1B328510E9FA";
+name = "Thin Italic orig";
 shapes = (
 {
 alignment = -1;
@@ -117,11 +436,28 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (175.928,0);
+pos = (244.578,0);
 ref = caroncomb.alt;
 }
 );
-width = 366;
+width = 567;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "3F9555C3-A1C4-4496-8438-956948ADF312";
+name = "Black Italic orig";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (256,0);
+ref = caroncomb.alt;
+}
+);
+width = 585;
 }
 );
 unicode = 317;

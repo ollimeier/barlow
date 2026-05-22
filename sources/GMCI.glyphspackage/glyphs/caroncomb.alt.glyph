@@ -3,54 +3,231 @@ color = 4;
 glyphname = caroncomb.alt;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (86,520);
+},
+{
+name = top;
+pos = (135,700);
+}
+);
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-ref = acutecomb;
+closed = 1;
+nodes = (
+(151,579,l),
+(250,700,l),
+(92,700,l),
+(20,579,l)
+);
 }
 );
 width = 250;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (74,520);
+},
+{
+name = top;
+pos = (130,700);
+}
+);
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-ref = acutecomb;
+closed = 1;
+nodes = (
+(148,579,l),
+(239,700,l),
+(69,700,l),
+(5,579,l)
+);
 }
 );
 width = 250;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (35.554,500.964);
+},
+{
+name = top;
+pos = (75,700);
+}
+);
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
-ref = acutecomb;
+closed = 1;
+nodes = (
+(50,569,l),
+(126,700,l),
+(96,700,l),
+(23,569,l)
+);
 }
 );
 width = 103;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (29,501);
+},
+{
+name = top;
+pos = (67,700);
+}
+);
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
-alignment = -1;
-pos = (-90,0);
-ref = acutecomb;
+closed = 1;
+nodes = (
+(43,569,l),
+(118,700,l),
+(87,700,l),
+(15,569,l)
+);
 }
 );
 width = 103;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (74,520);
+},
+{
+name = top;
+pos = (130,700);
+}
+);
 layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
 shapes = (
 {
+closed = 1;
+nodes = (
+(148,579,l),
+(239,700,l),
+(69,700,l),
+(5,579,l)
+);
+}
+);
+width = 250;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (29,501);
+},
+{
+name = top;
+pos = (67,700);
+}
+);
+layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(43,569,l),
+(118,700,l),
+(87,700,l),
+(15,569,l)
+);
+}
+);
+width = 103;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (86,520);
+},
+{
+name = top;
+pos = (135,700);
+}
+);
+layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,579,l),
+(250,700,l),
+(92,700,l),
+(20,579,l)
+);
+}
+);
+width = 250;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (35.554,500.964);
+},
+{
+name = top;
+pos = (75,700);
+}
+);
+layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,569,l),
+(126,700,l),
+(96,700,l),
+(23,569,l)
+);
+}
+);
+width = 103;
+},
+{
+associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
+layerId = "89536EC9-C3C9-45EB-B907-F51DC5E3AA67";
+name = "Cond Thin orig";
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 103;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "9D0DEDA9-12B6-4C9B-8439-06E70B192424";
+name = "Cond Black orig";
+shapes = (
+{
 ref = acutecomb;
 }
 );
 width = 250;
 },
 {
-layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
+layerId = "98594F24-1674-4912-967F-4256BCEF9A61";
+name = "Thin orig";
 shapes = (
 {
 alignment = -1;
@@ -61,7 +238,9 @@ ref = acutecomb;
 width = 103;
 },
 {
-layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+layerId = "69CAB43B-55E9-41B4-A575-65DB7FBD0513";
+name = "Black orig";
 shapes = (
 {
 ref = acutecomb;
@@ -70,13 +249,50 @@ ref = acutecomb;
 width = 250;
 },
 {
-layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
+layerId = "A3204038-492F-4B22-A7D0-1F160B5F6C9B";
+name = "Cond Thin Italic orig";
 shapes = (
 {
 ref = acutecomb;
 }
 );
 width = 103;
+},
+{
+associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
+layerId = "EE5F2E4C-491A-4355-BDB7-25CC26FF87B0";
+name = "Cond Black Italic orig";
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 250;
+},
+{
+associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
+layerId = "443BA6AC-D33B-42CE-963D-A5B5BF20F3FA";
+name = "Thin Italic orig";
+shapes = (
+{
+alignment = -1;
+pos = (-90,0);
+ref = acutecomb;
+}
+);
+width = 103;
+},
+{
+associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
+layerId = "670FC3D8-ECF9-428F-958D-F01C8B829BD2";
+name = "Black Italic orig";
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 250;
 }
 );
 }
