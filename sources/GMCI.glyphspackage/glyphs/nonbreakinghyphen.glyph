@@ -50,6 +50,7 @@ shapes = (
 {
 alignment = 1;
 ref = hyphentwo;
+slant = (7,0);
 }
 );
 width = 467;
@@ -60,6 +61,7 @@ shapes = (
 {
 alignment = 1;
 ref = hyphentwo;
+slant = (7,0);
 }
 );
 width = 442;
@@ -70,6 +72,7 @@ shapes = (
 {
 alignment = 1;
 ref = hyphentwo;
+slant = (7,0);
 }
 );
 width = 361;
@@ -80,6 +83,7 @@ shapes = (
 {
 alignment = 1;
 ref = hyphentwo;
+slant = (7,0);
 }
 );
 width = 307;

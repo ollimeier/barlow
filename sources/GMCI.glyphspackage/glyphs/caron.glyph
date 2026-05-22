@@ -48,6 +48,7 @@ shapes = (
 {
 alignment = 1;
 ref = caroncomb;
+slant = (7,0);
 }
 );
 width = 399;
@@ -58,6 +59,7 @@ shapes = (
 {
 alignment = 1;
 ref = caroncomb;
+slant = (7,0);
 }
 );
 width = 292;
@@ -68,6 +70,7 @@ shapes = (
 {
 alignment = 1;
 ref = caroncomb;
+slant = (7,0);
 }
 );
 width = 368;
@@ -78,6 +81,7 @@ shapes = (
 {
 alignment = 1;
 ref = caroncomb;
+slant = (7,0);
 }
 );
 width = 244;

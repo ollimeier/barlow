@@ -48,6 +48,7 @@ shapes = (
 {
 alignment = 1;
 ref = .notdef;
+slant = (7,0);
 }
 );
 width = 617;
@@ -58,6 +59,7 @@ shapes = (
 {
 alignment = 1;
 ref = .notdef;
+slant = (7,0);
 }
 );
 width = 578;
@@ -68,6 +70,7 @@ shapes = (
 {
 alignment = 1;
 ref = .notdef;
+slant = (7,0);
 }
 );
 width = 510;
@@ -78,6 +81,7 @@ shapes = (
 {
 alignment = 1;
 ref = .notdef;
+slant = (7,0);
 }
 );
 width = 434;

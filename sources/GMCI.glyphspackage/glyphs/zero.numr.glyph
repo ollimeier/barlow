@@ -49,6 +49,7 @@ shapes = (
 {
 pos = (35,284);
 ref = zero.dnom;
+slant = (7,0);
 }
 );
 width = 348;
@@ -58,8 +59,9 @@ layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
 shapes = (
 {
 alignment = -1;
-pos = (0,284.952);
+pos = (4,285);
 ref = zero.dnom;
+slant = (7,0);
 }
 );
 width = 312;
@@ -70,6 +72,7 @@ shapes = (
 {
 pos = (35,281);
 ref = zero.dnom;
+slant = (7,0);
 }
 );
 width = 290;
@@ -80,6 +83,7 @@ shapes = (
 {
 pos = (35,284);
 ref = zero.dnom;
+slant = (7,0);
 }
 );
 width = 255;

@@ -855,6 +855,17 @@ stemValues = (
 30,
 28
 );
+userData = {
+GSSlanterCursivy = 7;
+GSSlanterCursivyContrastFactor = 0.5;
+GSSlanterCursivyDoContrast = 1;
+GSSlanterCursivyDoShape = 1;
+GSSlanterCursivyDoThickness = 1;
+GSSlanterCursivyShapeFactor = 0.5;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 0;
+};
 },
 {
 axesValues = (
@@ -955,6 +966,15 @@ userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
+GSSlanterCursivy = 7;
+GSSlanterCursivyContrastFactor = 0.5;
+GSSlanterCursivyDoContrast = 1;
+GSSlanterCursivyDoShape = 1;
+GSSlanterCursivyDoThickness = 1;
+GSSlanterCursivyShapeFactor = 0.5;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 0;
 noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
@@ -1054,6 +1074,17 @@ stemValues = (
 30,
 28
 );
+userData = {
+GSSlanterCursivy = 7;
+GSSlanterCursivyContrastFactor = 0.5;
+GSSlanterCursivyDoContrast = 1;
+GSSlanterCursivyDoShape = 1;
+GSSlanterCursivyDoThickness = 1;
+GSSlanterCursivyShapeFactor = 0.5;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 0;
+};
 },
 {
 axesValues = (
@@ -1155,6 +1186,15 @@ GSCornerRadius = 8;
 GSOffsetAutoStroke = 1;
 GSOffsetHorizontal = 10;
 GSOffsetVertical = 10;
+GSSlanterCursivy = 7;
+GSSlanterCursivyContrastFactor = 0.5;
+GSSlanterCursivyDoContrast = 1;
+GSSlanterCursivyDoShape = 1;
+GSSlanterCursivyDoThickness = 1;
+GSSlanterCursivyShapeFactor = 0.5;
+GSSlanterCursivyThicknessFactor = 1;
+GSSlanterGeometric = 0;
+GSSlanterRotate = 0;
 noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
@@ -33311,7 +33351,7 @@ quoteleft = -34;
 quoteright = -35;
 quotesingle = -30;
 second = -32;
-seven = -33;
+seven = 0;
 v = -16;
 w = -13;
 wacute = -13;
@@ -91388,7 +91428,7 @@ quoteleft = -34;
 quoteright = -35;
 quotesingle = -30;
 second = -32;
-seven = -33;
+seven = 0;
 v = -16;
 w = -13;
 wacute = -13;

@@ -48,6 +48,7 @@ shapes = (
 {
 alignment = 1;
 ref = hungarumlautcomb;
+slant = (7,0);
 }
 );
 width = 435;
@@ -58,6 +59,7 @@ shapes = (
 {
 alignment = 1;
 ref = hungarumlautcomb;
+slant = (7,0);
 }
 );
 width = 325;
@@ -68,6 +70,7 @@ shapes = (
 {
 alignment = 1;
 ref = hungarumlautcomb;
+slant = (7,0);
 }
 );
 width = 409;
@@ -78,6 +81,7 @@ shapes = (
 {
 alignment = 1;
 ref = hungarumlautcomb;
+slant = (7,0);
 }
 );
 width = 262;
