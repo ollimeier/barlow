@@ -1,42 +1,57 @@
 {
 .appVersion = "3526";
-customParameters = (
+.formatVersion = 3;
+axes = (
 {
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
+name = Weight;
+tag = wght;
 },
 {
-Name = Width;
-Tag = wdth;
-}
-);
+name = Width;
+tag = wdth;
 }
 );
 date = "2019-07-02 08:04:58 +0000";
 familyName = Barlow;
 fontMaster = (
 {
-alignmentZones = (
-"{800, 16}",
-"{700, 9}",
-"{602, 9}",
-"{500, 9}",
-"{0, -9}",
-"{-200, -16}"
+axesValues = (
+22,
+300
 );
-ascender = 1000;
-capHeight = 700;
-customParameters = (
+iconName = Light_Condensed;
+id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+metricValues = (
 {
-name = smallCapHeight;
-value = 602;
+pos = 1000;
+},
+{
+over = 9;
+pos = 700;
+},
+{
+over = 9;
+pos = 500;
+},
+{
+over = -9;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+over = 9;
+pos = 602;
+},
+{
+},
+{
+over = 16;
+pos = 800;
 }
 );
-descender = -200;
-id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+name = "Light Condensed";
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 3;
@@ -46,31 +61,45 @@ noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
 };
-weight = Light;
-weightValue = 22;
-width = Condensed;
-widthValue = 300;
-xHeight = 500;
 },
 {
-alignmentZones = (
-"{800, 8}",
-"{700, 8}",
-"{602, 8}",
-"{520, 8}",
-"{0, -8}",
-"{-200, -8}"
+axesValues = (
+188,
+300
 );
-ascender = 1000;
-capHeight = 700;
-customParameters = (
+iconName = Bold_Condensed;
+id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+metricValues = (
 {
-name = smallCapHeight;
-value = 602;
+pos = 1000;
+},
+{
+over = 8;
+pos = 700;
+},
+{
+over = 8;
+pos = 520;
+},
+{
+over = -8;
+},
+{
+over = -8;
+pos = -200;
+},
+{
+over = 8;
+pos = 602;
+},
+{
+},
+{
+over = 8;
+pos = 800;
 }
 );
-descender = -200;
-id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+name = "Bold Condensed";
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 10;
@@ -79,31 +108,45 @@ noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
 };
-weight = Bold;
-weightValue = 188;
-width = Condensed;
-widthValue = 300;
-xHeight = 520;
 },
 {
-alignmentZones = (
-"{800, 8}",
-"{700, 8}",
-"{602, 8}",
-"{500, 8}",
-"{0, -8}",
-"{-200, -8}"
+axesValues = (
+22,
+500
 );
-ascender = 1000;
-capHeight = 700;
-customParameters = (
+iconName = Light;
+id = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+metricValues = (
 {
-name = smallCapHeight;
-value = 602;
+pos = 1000;
+},
+{
+over = 8;
+pos = 700;
+},
+{
+over = 8;
+pos = 500;
+},
+{
+over = -8;
+},
+{
+over = -8;
+pos = -200;
+},
+{
+over = 8;
+pos = 602;
+},
+{
+},
+{
+over = 8;
+pos = 800;
 }
 );
-descender = -200;
-id = "262880E7-CFE1-4BDA-902E-E24798F3240A";
+name = Light;
 userData = {
 GSCornerRadius = 12;
 GSOffsetHorizontal = 3;
@@ -113,30 +156,45 @@ noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
 };
-weight = Light;
-weightValue = 22;
-widthValue = 500;
-xHeight = 500;
 },
 {
-alignmentZones = (
-"{800, 8}",
-"{700, 8}",
-"{602, 8}",
-"{520, 8}",
-"{0, -8}",
-"{-200, -8}"
+axesValues = (
+188,
+500
 );
-ascender = 1000;
-capHeight = 700;
-customParameters = (
+iconName = Bold;
+id = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+metricValues = (
 {
-name = smallCapHeight;
-value = 602;
+pos = 1000;
+},
+{
+over = 8;
+pos = 700;
+},
+{
+over = 8;
+pos = 520;
+},
+{
+over = -8;
+},
+{
+over = -8;
+pos = -200;
+},
+{
+over = 8;
+pos = 602;
+},
+{
+},
+{
+over = 8;
+pos = 800;
 }
 );
-descender = -200;
-id = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
+name = Bold;
 userData = {
 GSCornerRadius = 8;
 GSOffsetAutoStroke = 1;
@@ -146,25 +204,23 @@ noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
 };
-weight = Bold;
-weightValue = 188;
-widthValue = 500;
-xHeight = 520;
 }
 );
 instances = (
 {
-interpolationWeight = 96;
-interpolationWidth = 500;
+axesValues = (
+96,
+500
+);
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.55422;
 "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.44578;
 };
 name = Medium;
-weightClass = Medium;
+weightClass = 500;
 }
 );
-kerning = {
+kerningLTR = {
 "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = {
 "@MMK_L_A" = {
 "@MMK_R_C" = -4;
@@ -3196,6 +3252,33 @@ kerning = {
 };
 };
 };
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+filter = "case == 3";
+type = "x-height";
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+}
+);
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 422;
