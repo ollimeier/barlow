@@ -646,7 +646,7 @@ layerId = "CE498F6D-B491-4D38-B03A-C59D1934264E";
 name = "Cond Thin Italic orig";
 shapes = (
 {
-pos = (381,0);
+pos = (319,0);
 ref = p;
 scale = (-1,1);
 }
@@ -659,7 +659,7 @@ layerId = "9008DF26-419B-42B9-AE26-1D455B96EA61";
 name = "Cond Black Italic orig";
 shapes = (
 {
-pos = (459,0);
+pos = (395,0);
 ref = p;
 scale = (-1,1);
 }
@@ -672,7 +672,7 @@ layerId = "5BB19607-91AF-47D1-B23B-ECF9EF4F53C5";
 name = "Thin Italic orig";
 shapes = (
 {
-pos = (511,0);
+pos = (449,0);
 ref = p;
 scale = (-1,1);
 }
@@ -685,7 +685,7 @@ layerId = "7D756B81-5243-4B4F-A0D4-CDF2DFB1056C";
 name = "Black Italic orig";
 shapes = (
 {
-pos = (586,0);
+pos = (522,0);
 ref = p;
 scale = (-1,1);
 }

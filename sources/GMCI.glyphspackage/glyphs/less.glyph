@@ -209,7 +209,7 @@ name = "Cond Thin Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (433,0);
+pos = (371,0);
 ref = greater;
 scale = (-1,1);
 }
@@ -223,7 +223,7 @@ name = "Cond Black Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (491,0);
+pos = (427,0);
 ref = greater;
 scale = (-1,1);
 }
@@ -237,7 +237,7 @@ name = "Thin Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (508,0);
+pos = (446,0);
 ref = greater;
 scale = (-1,1);
 }
@@ -251,7 +251,7 @@ name = "Black Italic orig";
 shapes = (
 {
 alignment = 1;
-pos = (550,0);
+pos = (486,0);
 ref = greater;
 scale = (-1,1);
 }

@@ -50,7 +50,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (197,-8);
+pos = (198,-8);
 ref = commaaccentcomb;
 }
 );

@@ -698,7 +698,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (350,700);
+pos = (374,700);
 ref = six;
 }
 );
@@ -712,7 +712,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (441,700);
+pos = (463,700);
 ref = six;
 }
 );
@@ -726,7 +726,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (457,700);
+pos = (481,700);
 ref = six;
 }
 );
@@ -740,7 +740,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (537,700);
+pos = (559,700);
 ref = six;
 }
 );

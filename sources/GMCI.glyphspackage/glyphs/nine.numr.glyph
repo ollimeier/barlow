@@ -693,7 +693,7 @@ name = "Cond Thin Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (218,697);
+pos = (242,697);
 ref = six.dnom;
 }
 );
@@ -706,7 +706,7 @@ name = "Cond Black Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (270,703);
+pos = (292,703);
 ref = six.dnom;
 }
 );
@@ -719,7 +719,7 @@ name = "Thin Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (279,699);
+pos = (303,699);
 ref = six.dnom;
 }
 );
@@ -732,7 +732,7 @@ name = "Black Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (323,700);
+pos = (345,700);
 ref = six.dnom;
 }
 );
