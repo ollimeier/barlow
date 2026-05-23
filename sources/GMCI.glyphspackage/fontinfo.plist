@@ -1287,6 +1287,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Thin";
 }
 );
 instanceInterpolations = {
@@ -1409,6 +1413,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-ExtraLight";
 }
 );
 instanceInterpolations = {
@@ -1532,6 +1540,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Light";
 }
 );
 instanceInterpolations = {
@@ -1655,6 +1667,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Regular";
 }
 );
 instanceInterpolations = {
@@ -1777,6 +1793,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Medium";
 }
 );
 instanceInterpolations = {
@@ -1900,6 +1920,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-SemiBold";
 }
 );
 instanceInterpolations = {
@@ -2023,6 +2047,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Bold";
 }
 );
 instanceInterpolations = {
@@ -2147,6 +2175,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-ExtraBold";
 }
 );
 instanceInterpolations = {
@@ -2270,6 +2302,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Black";
 }
 );
 instanceInterpolations = {
@@ -2392,6 +2428,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Thin";
 }
 );
 instanceInterpolations = {
@@ -2513,6 +2553,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-ExtraLight";
 }
 );
 instanceInterpolations = {
@@ -2635,6 +2679,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Light";
 }
 );
 instanceInterpolations = {
@@ -2757,6 +2805,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Regular";
 }
 );
 instanceInterpolations = {
@@ -2878,6 +2930,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Medium";
 }
 );
 instanceInterpolations = {
@@ -3000,6 +3056,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-SemiBold";
 }
 );
 instanceInterpolations = {
@@ -3122,6 +3182,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Bold";
 }
 );
 instanceInterpolations = {
@@ -3245,6 +3309,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-ExtraBold";
 }
 );
 instanceInterpolations = {
@@ -3367,6 +3435,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Black";
 }
 );
 instanceInterpolations = {
@@ -3500,6 +3572,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-ThinItalic";
 }
 );
 instanceInterpolations = {
@@ -3636,6 +3712,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-ExtraLightItalic";
 }
 );
 instanceInterpolations = {
@@ -3773,6 +3853,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-LightItalic";
 }
 );
 instanceInterpolations = {
@@ -3910,6 +3994,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-Italic";
 }
 );
 instanceInterpolations = {
@@ -4045,6 +4133,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-MediumItalic";
 }
 );
 instanceInterpolations = {
@@ -4182,6 +4274,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-SemiBoldItalic";
 }
 );
 instanceInterpolations = {
@@ -4319,6 +4415,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-BoldItalic";
 }
 );
 instanceInterpolations = {
@@ -4456,6 +4556,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-ExtraBoldItalic";
 }
 );
 instanceInterpolations = {
@@ -4593,6 +4697,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeoCond-BlackItalic";
 }
 );
 instanceInterpolations = {
@@ -4729,6 +4837,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-ThinItalic";
 }
 );
 instanceInterpolations = {
@@ -4847,6 +4959,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-ExtraLightItalic";
 }
 );
 instanceInterpolations = {
@@ -4966,6 +5082,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-LightItalic";
 }
 );
 instanceInterpolations = {
@@ -5085,6 +5205,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-Italic";
 }
 );
 instanceInterpolations = {
@@ -5202,6 +5326,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-MediumItalic";
 }
 );
 instanceInterpolations = {
@@ -5321,6 +5449,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-SemiBoldItalic";
 }
 );
 instanceInterpolations = {
@@ -5440,6 +5572,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-BoldItalic";
 }
 );
 instanceInterpolations = {
@@ -5559,6 +5695,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-ExtraBoldItalic";
 }
 );
 instanceInterpolations = {
@@ -5678,6 +5818,10 @@ ycircumflex,
 ydieresis,
 ygrave
 );
+},
+{
+name = fileName;
+value = "GMCINeo-BlackItalic";
 }
 );
 instanceInterpolations = {
