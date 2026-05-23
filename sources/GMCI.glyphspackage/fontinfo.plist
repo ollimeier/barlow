@@ -1315,14 +1315,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Thin;
 }
 );
 weightClass = 100;
@@ -1442,14 +1434,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraLight;
 }
 );
 weightClass = 200;
@@ -1569,14 +1553,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Light;
 }
 );
 weightClass = 300;
@@ -1696,14 +1672,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Regular;
 }
 );
 widthClass = 3;
@@ -1822,14 +1790,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Medium;
 }
 );
 weightClass = 500;
@@ -1949,14 +1909,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = SemiBold;
 }
 );
 weightClass = 600;
@@ -2077,14 +2029,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Bold;
 }
 );
 weightClass = 700;
@@ -2204,14 +2148,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraBold;
 }
 );
 weightClass = 800;
@@ -2330,14 +2266,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Black;
 }
 );
 weightClass = 900;
@@ -2456,14 +2384,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Thin;
 }
 );
 weightClass = 100;
@@ -2582,14 +2502,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraLight;
 }
 );
 weightClass = 200;
@@ -2708,14 +2620,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Light;
 }
 );
 weightClass = 300;
@@ -2834,14 +2738,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Regular;
 }
 );
 },
@@ -2959,14 +2855,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Medium;
 }
 );
 weightClass = 500;
@@ -3085,14 +2973,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = SemiBold;
 }
 );
 weightClass = 600;
@@ -3212,14 +3092,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Bold;
 }
 );
 weightClass = 700;
@@ -3338,14 +3210,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = ExtraBold;
 }
 );
 weightClass = 800;
@@ -3463,14 +3327,6 @@ language = dflt;
 value = "GMC-I Neo";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo";
-},
-{
-key = WWSSubfamilyName;
-value = Black;
 }
 );
 weightClass = 900;
@@ -3602,14 +3458,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "Thin Italic";
 }
 );
 weightClass = 100;
@@ -3743,14 +3591,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "ExtraLight Italic";
 }
 );
 weightClass = 200;
@@ -3884,14 +3724,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "Light Italic";
 }
 );
 weightClass = 300;
@@ -4024,14 +3856,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = Italic;
 }
 );
 widthClass = 3;
@@ -4164,14 +3988,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "Medium Italic";
 }
 );
 weightClass = 500;
@@ -4305,14 +4121,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "SemiBold Italic";
 }
 );
 weightClass = 600;
@@ -4446,14 +4254,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "Bold Italic";
 }
 );
 weightClass = 700;
@@ -4587,14 +4387,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "ExtraBold Italic";
 }
 );
 weightClass = 800;
@@ -4727,14 +4519,6 @@ language = dflt;
 value = "GMC-I Neo Cond";
 }
 );
-},
-{
-key = WWSFamilyName;
-value = "GMC-I Neo Cond";
-},
-{
-key = WWSSubfamilyName;
-value = "Black Italic";
 }
 );
 weightClass = 900;
