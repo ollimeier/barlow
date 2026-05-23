@@ -30,6 +30,7 @@ value = 1;
 {
 name = fsType;
 value = (
+3
 );
 },
 {
@@ -457,6 +458,11 @@ stemValues = (
 30,
 28
 );
+userData = {
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = -27;
+GSOffsetVertical = -27;
+};
 visible = 1;
 },
 {
@@ -555,8 +561,9 @@ stemValues = (
 );
 userData = {
 GSCornerRadius = 8;
-GSOffsetHorizontal = 10;
-GSOffsetVertical = 10;
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = -110;
+GSOffsetVertical = -110;
 noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
@@ -655,6 +662,11 @@ stemValues = (
 30,
 28
 );
+userData = {
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = -27;
+GSOffsetVertical = -27;
+};
 },
 {
 axesValues = (
@@ -753,8 +765,8 @@ stemValues = (
 userData = {
 GSCornerRadius = 8;
 GSOffsetAutoStroke = 1;
-GSOffsetHorizontal = 10;
-GSOffsetVertical = 10;
+GSOffsetHorizontal = -130;
+GSOffsetVertical = -130;
 noodleExtremesAndInflections = 1;
 noodleRemoveOverlap = 1;
 noodleThickness = "22.0";
