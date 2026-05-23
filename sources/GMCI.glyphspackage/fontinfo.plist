@@ -121966,6 +121966,15 @@ value = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlo
 );
 },
 {
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Font Revision:
+}
+);
+},
+{
 key = designers;
 values = (
 {
