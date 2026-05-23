@@ -121971,6 +121971,7 @@ values = (
 {
 language = dflt;
 value = "Font Revision:
+Version 1.00: Release of GMC-I Neo (May 2026)";
 }
 );
 },
