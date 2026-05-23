@@ -7,3 +7,4 @@
 *.vfbak
 # temp directory
 tmp
+fonts/*.py
