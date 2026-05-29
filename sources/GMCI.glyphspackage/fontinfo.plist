@@ -362,6 +362,13 @@ sub dotaccentcomb by dotaccentcomb.case;
 ";
 disabled = 1;
 tag = case;
+},
+{
+code = "#ifdef VARIABLE
+condition 110 < wght, wdth < 95;
+sub Q by Q.substi;
+#endif";
+tag = rlig;
 }
 );
 fontMaster = (
@@ -463,7 +470,6 @@ GSOffsetAutoStroke = 1;
 GSOffsetHorizontal = -27;
 GSOffsetVertical = -27;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -1895,6 +1901,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-SemiBold";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -2014,6 +2026,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-Bold";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -2134,6 +2152,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-ExtraBold";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -2253,6 +2277,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-Black";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -4105,6 +4135,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-SemiBoldItalic";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -4238,6 +4274,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-BoldItalic";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -4371,6 +4413,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-ExtraBoldItalic";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
@@ -4504,6 +4552,12 @@ ygrave
 {
 name = fileName;
 value = "GMCINeoCond-BlackItalic";
+},
+{
+name = "Rename Glyphs";
+value = (
+"Q=Q.substi"
+);
 }
 );
 instanceInterpolations = {
