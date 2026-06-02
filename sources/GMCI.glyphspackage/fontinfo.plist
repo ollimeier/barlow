@@ -20,6 +20,10 @@ classes = (
 automatic = 1;
 code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE Cacute Ccaron Ccedilla Cdotaccent Dcaron Dcroat Eth Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Schwa Gbreve Gcommaaccent Gdotaccent Hbar IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Thorn Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scommaaccent Germandbls Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent Delta Omega";
 name = Uppercase;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = Numbers;
 }
 );
 customParameters = (
@@ -351,7 +355,9 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 tag = ordn;
 },
 {
-code = "sub [g j Aogonek Eogonek Iogonek Uogonek aogonek eogonek iogonek uogonek ij jdotless] j' by j.short; 
+code = "sub [g j Aogonek Eogonek Iogonek Uogonek aogonek eogonek iogonek uogonek ij jdotless] j' by j.short;
+
+sub @Numbers colon' @Numbers by colon.case;
 ";
 tag = calt;
 },
