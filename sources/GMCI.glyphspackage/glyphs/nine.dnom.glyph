@@ -7,7 +7,7 @@ layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
 angle = 180;
-pos = (323,413);
+pos = (367,413);
 ref = six.dnom;
 }
 );
@@ -18,14 +18,14 @@ weight = -70;
 width = 60;
 };
 };
-width = 323;
+width = 367;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
 angle = 180;
-pos = (270,413);
+pos = (302,413);
 ref = six.dnom;
 }
 );
@@ -36,14 +36,14 @@ weight = -70;
 width = 60;
 };
 };
-width = 270;
+width = 302;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
 angle = 180;
-pos = (218,413);
+pos = (236,413);
 ref = six.dnom;
 }
 );
@@ -53,14 +53,14 @@ height = 60;
 width = 60;
 };
 };
-width = 218;
+width = 236;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 angle = 180;
-pos = (279,413);
+pos = (305,413);
 ref = six.dnom;
 }
 );
@@ -70,7 +70,7 @@ height = 60;
 width = 60;
 };
 };
-width = 279;
+width = 305;
 },
 {
 associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -427,7 +427,7 @@ layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
 shapes = (
 {
 angle = 180;
-pos = (310,413);
+pos = (356,413);
 ref = six.dnom;
 }
 );
@@ -438,7 +438,7 @@ weight = -70;
 width = 60;
 };
 };
-width = 323;
+width = 369;
 },
 {
 associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
@@ -533,7 +533,7 @@ layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
 shapes = (
 {
 angle = 180;
-pos = (268,413);
+pos = (295,413);
 ref = six.dnom;
 }
 );
@@ -543,7 +543,7 @@ height = 60;
 width = 60;
 };
 };
-width = 279;
+width = 306;
 },
 {
 associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
@@ -637,7 +637,7 @@ layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
 shapes = (
 {
 angle = 180;
-pos = (257,413);
+pos = (290,413);
 ref = six.dnom;
 }
 );
@@ -648,7 +648,7 @@ weight = -70;
 width = 60;
 };
 };
-width = 270;
+width = 303;
 },
 {
 associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
@@ -743,7 +743,7 @@ layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
 shapes = (
 {
 angle = 180;
-pos = (207,413);
+pos = (225,413);
 ref = six.dnom;
 }
 );
@@ -753,7 +753,7 @@ height = 60;
 width = 60;
 };
 };
-width = 218;
+width = 236;
 },
 {
 associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";

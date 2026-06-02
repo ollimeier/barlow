@@ -10,7 +10,7 @@ pos = (0,280);
 ref = three.dnom;
 }
 );
-width = 331;
+width = 358;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -20,7 +20,7 @@ pos = (0,280);
 ref = three.dnom;
 }
 );
-width = 270;
+width = 286;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -30,7 +30,7 @@ pos = (0,280);
 ref = three.dnom;
 }
 );
-width = 225;
+width = 234;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -40,7 +40,7 @@ pos = (0,291);
 ref = three.dnom;
 }
 );
-width = 290;
+width = 306;
 },
 {
 associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -63,7 +63,7 @@ pos = (34,280);
 ref = three.dnom;
 }
 );
-width = 331;
+width = 359;
 },
 {
 layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
@@ -73,7 +73,7 @@ pos = (36,291);
 ref = three.dnom;
 }
 );
-width = 290;
+width = 306;
 },
 {
 associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
@@ -96,7 +96,7 @@ pos = (34,280);
 ref = three.dnom;
 }
 );
-width = 270;
+width = 288;
 },
 {
 layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
@@ -106,7 +106,7 @@ pos = (34,280);
 ref = three.dnom;
 }
 );
-width = 225;
+width = 234;
 }
 );
 }

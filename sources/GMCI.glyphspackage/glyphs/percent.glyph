@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = percent;
+kernLeft = percent;
 layers = (
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -9,15 +10,15 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (288,0);
+pos = (312,0);
 ref = fraction;
 },
 {
-pos = (540,0);
+pos = (564,0);
 ref = zero.dnom;
 }
 );
-width = 888;
+width = 936;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -26,15 +27,15 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (260,0);
+pos = (270,0);
 ref = fraction;
 },
 {
-pos = (439,0);
+pos = (449,0);
 ref = zero.dnom;
 }
 );
-width = 729;
+width = 749;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -417,15 +418,15 @@ shapes = (
 ref = zero.numr;
 },
 {
-pos = (288,0);
+pos = (314,0);
 ref = fraction;
 },
 {
-pos = (540,0);
+pos = (566,0);
 ref = zero.dnom;
 }
 );
-width = 888;
+width = 940;
 },
 {
 associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";

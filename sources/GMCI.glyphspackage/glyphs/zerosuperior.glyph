@@ -21,7 +21,7 @@ pos = (0,460);
 ref = zero.dnom;
 }
 );
-width = 348;
+width = 372;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -52,7 +52,7 @@ pos = (56,460);
 ref = zero.dnom;
 }
 );
-width = 348;
+width = 374;
 },
 {
 layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";

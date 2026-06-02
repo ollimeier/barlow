@@ -7,88 +7,88 @@ layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
 angle = 180;
-pos = (323,700);
+pos = (367,700);
 ref = six.dnom;
 }
 );
-width = 323;
+width = 367;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
 angle = 180;
-pos = (270,703);
+pos = (302,703);
 ref = six.dnom;
 }
 );
-width = 270;
+width = 302;
 },
 {
 layerId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
 shapes = (
 {
 angle = 180;
-pos = (218,697);
+pos = (236,697);
 ref = six.dnom;
 }
 );
-width = 218;
+width = 236;
 },
 {
 layerId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
 shapes = (
 {
 angle = 180;
-pos = (279,699);
+pos = (305,699);
 ref = six.dnom;
 }
 );
-width = 279;
+width = 305;
 },
 {
 layerId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
 shapes = (
 {
 angle = 180;
-pos = (345,700);
+pos = (391,700);
 ref = six.dnom;
 }
 );
-width = 323;
+width = 369;
 },
 {
 layerId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
 shapes = (
 {
 angle = 180;
-pos = (303,699);
+pos = (330,699);
 ref = six.dnom;
 }
 );
-width = 279;
+width = 306;
 },
 {
 layerId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
 shapes = (
 {
 angle = 180;
-pos = (292,703);
+pos = (325,703);
 ref = six.dnom;
 }
 );
-width = 270;
+width = 303;
 },
 {
 layerId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
 shapes = (
 {
 angle = 180;
-pos = (242,697);
+pos = (260,697);
 ref = six.dnom;
 }
 );
-width = 218;
+width = 236;
 },
 {
 associatedMasterId = "2C9AE6EE-6928-486F-9B5B-CFEA97DE3F93";
@@ -97,11 +97,11 @@ name = "Cond Thin orig";
 shapes = (
 {
 angle = 180;
-pos = (218,697);
+pos = (236,697);
 ref = six.dnom;
 }
 );
-width = 218;
+width = 236;
 },
 {
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -110,11 +110,11 @@ name = "Cond Black orig";
 shapes = (
 {
 angle = 180;
-pos = (270,703);
+pos = (302,703);
 ref = six.dnom;
 }
 );
-width = 270;
+width = 302;
 },
 {
 associatedMasterId = "DE02EDB5-5F11-4BF6-8DF5-0BD6690C1E57";
@@ -123,11 +123,11 @@ name = "Thin orig";
 shapes = (
 {
 angle = 180;
-pos = (279,699);
+pos = (305,699);
 ref = six.dnom;
 }
 );
-width = 279;
+width = 305;
 },
 {
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -136,11 +136,11 @@ name = "Black orig";
 shapes = (
 {
 angle = 180;
-pos = (323,700);
+pos = (367,700);
 ref = six.dnom;
 }
 );
-width = 323;
+width = 367;
 },
 {
 associatedMasterId = "2CFEA329-E99A-42BC-B2D4-A0A195F219A9";
@@ -149,11 +149,11 @@ name = "Cond Thin Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (242,697);
+pos = (260,697);
 ref = six.dnom;
 }
 );
-width = 218;
+width = 236;
 },
 {
 associatedMasterId = "9858A596-E590-4E62-BEDA-0D851492EBF5";
@@ -162,11 +162,11 @@ name = "Cond Black Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (292,703);
+pos = (325,703);
 ref = six.dnom;
 }
 );
-width = 270;
+width = 303;
 },
 {
 associatedMasterId = "E5EC3711-CEEB-4A9C-95B2-BE83190B143B";
@@ -175,11 +175,11 @@ name = "Thin Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (303,699);
+pos = (330,699);
 ref = six.dnom;
 }
 );
-width = 279;
+width = 306;
 },
 {
 associatedMasterId = "A0A10753-E8ED-4209-9CDF-64D3C9AC4A20";
@@ -188,11 +188,11 @@ name = "Black Italic orig";
 shapes = (
 {
 angle = 180;
-pos = (345,700);
+pos = (391,700);
 ref = six.dnom;
 }
 );
-width = 323;
+width = 369;
 }
 );
 }
