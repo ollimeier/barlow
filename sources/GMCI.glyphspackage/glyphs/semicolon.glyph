@@ -43,7 +43,7 @@ pos = (4,0);
 ref = comma;
 },
 {
-pos = (0,440);
+pos = (0,434);
 ref = period;
 }
 );
@@ -58,7 +58,7 @@ pos = (34,0);
 ref = comma;
 },
 {
-pos = (0,440);
+pos = (0,432);
 ref = period;
 }
 );
@@ -88,7 +88,7 @@ pos = (34,0);
 ref = comma;
 },
 {
-pos = (53,441);
+pos = (54,432);
 ref = period;
 }
 );
@@ -118,7 +118,7 @@ pos = (4,0);
 ref = comma;
 },
 {
-pos = (53,441);
+pos = (52,434);
 ref = period;
 }
 );

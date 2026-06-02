@@ -53,7 +53,7 @@ nodes = (
 );
 },
 {
-pos = (1,6);
+pos = (1,0);
 ref = period;
 }
 );

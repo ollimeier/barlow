@@ -40,7 +40,7 @@ alignment = 1;
 ref = period;
 },
 {
-pos = (0,440);
+pos = (0,434);
 ref = period;
 }
 );
@@ -54,7 +54,7 @@ alignment = 1;
 ref = period;
 },
 {
-pos = (0,439);
+pos = (0,432);
 ref = period;
 }
 );
@@ -82,7 +82,7 @@ alignment = 1;
 ref = period;
 },
 {
-pos = (54,440);
+pos = (53,432);
 ref = period;
 }
 );
@@ -110,7 +110,7 @@ alignment = 1;
 ref = period;
 },
 {
-pos = (54,440);
+pos = (53,434);
 ref = period;
 }
 );
